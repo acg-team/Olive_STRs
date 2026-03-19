@@ -1,0 +1,2521 @@
+sample,Component,Proportion,Mapping.percent,Coverage,Country,Provience,Name,Subspecies,Province
+CI4,S4,0,0.87,13.88,Iran,Golestan,Mari, europaea,Golestan
+CI4,S3,0.002236305,0.87,13.88,Iran,Golestan,Mari, europaea,Golestan
+CI4,S8,0,0.87,13.88,Iran,Golestan,Mari, europaea,Golestan
+CI4,S2,0,0.87,13.88,Iran,Golestan,Mari, europaea,Golestan
+CI4,S12,0.009345416,0.87,13.88,Iran,Golestan,Mari, europaea,Golestan
+CI4,S9,0,0.87,13.88,Iran,Golestan,Mari, europaea,Golestan
+G3A,S1,1,0.87,13.52,Iran,Golestan,Zard, europaea,Golestan
+CI4,S7,0,0.87,13.88,Iran,Golestan,Mari, europaea,Golestan
+CI4,S10,0,0.87,13.88,Iran,Golestan,Mari, europaea,Golestan
+CI4,S11,0.006942682,0.87,13.88,Iran,Golestan,Mari, europaea,Golestan
+CI4,S5,0.075694168,0.87,13.88,Iran,Golestan,Mari, europaea,Golestan
+CI4,S6,0,0.87,13.88,Iran,Golestan,Mari, europaea,Golestan
+CT1,S5,0.205728843,0.89,11.37,Iran,Golestan,CTO1, europaea,Golestan
+IC146,S1,1,0.88,21.1,Iran,Golestan,Gal Tolerant, europaea,Golestan
+CT1,S6,0,0.89,11.37,Iran,Golestan,CTO1, europaea,Golestan
+CT1,S8,0,0.89,11.37,Iran,Golestan,CTO1, europaea,Golestan
+CT1,S2,0,0.89,11.37,Iran,Golestan,CTO1, europaea,Golestan
+CT1,S4,0,0.89,11.37,Iran,Golestan,CTO1, europaea,Golestan
+CT1,S9,0.096168929,0.89,11.37,Iran,Golestan,CTO1, europaea,Golestan
+CT1,S3,0,0.89,11.37,Iran,Golestan,CTO1, europaea,Golestan
+CT1,S7,0.143302394,0.89,11.37,Iran,Golestan,CTO1, europaea,Golestan
+CT1,S12,0,0.89,11.37,Iran,Golestan,CTO1, europaea,Golestan
+CT1,S10,0,0.89,11.37,Iran,Golestan,CTO1, europaea,Golestan
+CT1,S11,0.554799833,0.89,11.37,Iran,Golestan,CTO1, europaea,Golestan
+DEZ,S2,0.185109144,0.86,14.75,Iran,Khuzestan,Dezful, europaea,Khuzestan
+IC147,S1,1,0.86,23.5,Iran,Golestan,Gal Tolerant, europaea,Golestan
+DEZ,S6,0,0.86,14.75,Iran,Khuzestan,Dezful, europaea,Khuzestan
+DEZ,S3,0,0.86,14.75,Iran,Khuzestan,Dezful, europaea,Khuzestan
+DEZ,S4,0.009524795,0.86,14.75,Iran,Khuzestan,Dezful, europaea,Khuzestan
+DEZ,S9,0,0.86,14.75,Iran,Khuzestan,Dezful, europaea,Khuzestan
+DEZ,S10,0.46435201,0.86,14.75,Iran,Khuzestan,Dezful, europaea,Khuzestan
+DEZ,S11,0.023142799,0.86,14.75,Iran,Khuzestan,Dezful, europaea,Khuzestan
+DEZ,S5,0.0041334,0.86,14.75,Iran,Khuzestan,Dezful, europaea,Khuzestan
+DEZ,S7,0.218523851,0.86,14.75,Iran,Khuzestan,Dezful, europaea,Khuzestan
+DEZ,S12,0.034481479,0.86,14.75,Iran,Khuzestan,Dezful, europaea,Khuzestan
+DEZ,S8,0.024999815,0.86,14.75,Iran,Khuzestan,Dezful, europaea,Khuzestan
+EU1,S10,0,0.81,36.29,Morocco,-,Wild 07, Sylvestris,Morocco
+EU1,S5,0,0.81,36.29,Morocco,-,Wild 07, Sylvestris,Morocco
+EU1,S6,0,0.81,36.29,Morocco,-,Wild 07, Sylvestris,Morocco
+EU1,S9,0,0.81,36.29,Morocco,-,Wild 07, Sylvestris,Morocco
+EU1,S2,0.993462277,0.81,36.29,Morocco,-,Wild 07, Sylvestris,Morocco
+EU1,S7,0,0.81,36.29,Morocco,-,Wild 07, Sylvestris,Morocco
+IC2,S1,1,0.86,18.51,Iran,Lorestan,Chamsangar, europaea,Lorestan
+EU1,S12,0,0.81,36.29,Morocco,-,Wild 07, Sylvestris,Morocco
+EU1,S3,0,0.81,36.29,Morocco,-,Wild 07, Sylvestris,Morocco
+EU1,S8,0.006537723,0.81,36.29,Morocco,-,Wild 07, Sylvestris,Morocco
+EU1,S11,0,0.81,36.29,Morocco,-,Wild 07, Sylvestris,Morocco
+EU1,S4,0,0.81,36.29,Morocco,-,Wild 07, Sylvestris,Morocco
+EU10,S11,0,0.69,37.19,Greece,-,Lianolia Kerkyras, europaea,Greece
+EU10,S12,0.004328367,0.69,37.19,Greece,-,Lianolia Kerkyras, europaea,Greece
+EU10,S8,0.019781288,0.69,37.19,Greece,-,Lianolia Kerkyras, europaea,Greece
+EU10,S9,0,0.69,37.19,Greece,-,Lianolia Kerkyras, europaea,Greece
+EU10,S10,0.727180721,0.69,37.19,Greece,-,Lianolia Kerkyras, europaea,Greece
+EU10,S6,0,0.69,37.19,Greece,-,Lianolia Kerkyras, europaea,Greece
+EU10,S3,0,0.69,37.19,Greece,-,Lianolia Kerkyras, europaea,Greece
+EU10,S4,0,0.69,37.19,Greece,-,Lianolia Kerkyras, europaea,Greece
+EU10,S5,0,0.69,37.19,Greece,-,Lianolia Kerkyras, europaea,Greece
+IC54,S1,1,0.87,13.35,Iran,Tarom,T7, europaea,Tarom
+EU10,S7,0.020334337,0.69,37.19,Greece,-,Lianolia Kerkyras, europaea,Greece
+EU10,S2,0.228375287,0.69,37.19,Greece,-,Lianolia Kerkyras, europaea,Greece
+EU100,S9,0.025593849,0.64,24.47,Greece,-,Ntopia Zakynthou, europaea,Greece
+EU100,S10,0.68030574,0.64,24.47,Greece,-,Ntopia Zakynthou, europaea,Greece
+EU100,S12,0.027626984,0.64,24.47,Greece,-,Ntopia Zakynthou, europaea,Greece
+EU9,S1,0.906119871,0.69,32.76,Iran,Golestan,Mari, europaea,Golestan
+EU100,S2,0.164444244,0.64,24.47,Greece,-,Ntopia Zakynthou, europaea,Greece
+EU100,S11,0,0.64,24.47,Greece,-,Ntopia Zakynthou, europaea,Greece
+EU100,S7,0.05625629,0.64,24.47,Greece,-,Ntopia Zakynthou, europaea,Greece
+EU100,S4,0.020276626,0.64,24.47,Greece,-,Ntopia Zakynthou, europaea,Greece
+EU100,S5,0,0.64,24.47,Greece,-,Ntopia Zakynthou, europaea,Greece
+EU100,S6,0.009092551,0.64,24.47,Greece,-,Ntopia Zakynthou, europaea,Greece
+EU100,S8,0.016403716,0.64,24.47,Greece,-,Ntopia Zakynthou, europaea,Greece
+EU100,S3,0,0.64,24.47,Greece,-,Ntopia Zakynthou, europaea,Greece
+EU101,S2,0,0.65,28.4,Greece,-,Petrolia, europaea,Greece
+EU101,S11,0.1523088,0.65,28.4,Greece,-,Petrolia, europaea,Greece
+EU101,S12,0,0.65,28.4,Greece,-,Petrolia, europaea,Greece
+EU101,S7,0.503304359,0.65,28.4,Greece,-,Petrolia, europaea,Greece
+EU101,S5,0.017914887,0.65,28.4,Greece,-,Petrolia, europaea,Greece
+CI4,S1,0.90578143,0.87,13.88,Iran,Golestan,Mari, europaea,Golestan
+EU101,S8,0,0.65,28.4,Greece,-,Petrolia, europaea,Greece
+EU101,S9,0.055425654,0.65,28.4,Greece,-,Petrolia, europaea,Greece
+EU101,S6,0,0.65,28.4,Greece,-,Petrolia, europaea,Greece
+EU101,S3,0,0.65,28.4,Greece,-,Petrolia, europaea,Greece
+EU101,S10,0.145090349,0.65,28.4,Greece,-,Petrolia, europaea,Greece
+EU101,S4,0.001563079,0.65,28.4,Greece,-,Petrolia, europaea,Greece
+EU102,S2,0.065957998,0.63,28.23,Greece,-,Kolyreiki, europaea,Greece
+IC51,S1,0.886362231,0.87,18.93,Iran,Tarom,T4, europaea,Tarom
+EU102,S4,0.025724179,0.63,28.23,Greece,-,Kolyreiki, europaea,Greece
+EU102,S12,0,0.63,28.23,Greece,-,Kolyreiki, europaea,Greece
+EU102,S8,0,0.63,28.23,Greece,-,Kolyreiki, europaea,Greece
+EU102,S9,0.016611182,0.63,28.23,Greece,-,Kolyreiki, europaea,Greece
+EU102,S3,0,0.63,28.23,Greece,-,Kolyreiki, europaea,Greece
+EU102,S10,0.300215681,0.63,28.23,Greece,-,Kolyreiki, europaea,Greece
+EU102,S7,0.413045609,0.63,28.23,Greece,-,Kolyreiki, europaea,Greece
+EU102,S5,0.040145438,0.63,28.23,Greece,-,Kolyreiki, europaea,Greece
+EU102,S11,0.087024455,0.63,28.23,Greece,-,Kolyreiki, europaea,Greece
+EU102,S6,0.010937914,0.63,28.23,Greece,-,Kolyreiki, europaea,Greece
+EU103,S3,0,0.55,30.26,Greece,-,Chrysolia, Cuspidata,Greece
+EU103,S4,0,0.55,30.26,Greece,-,Chrysolia, Cuspidata,Greece
+EU21,S1,0.862731859,0.79,29.15,Iran,Golestan,Fishomi, europaea,Golestan
+EU103,S2,0,0.55,30.26,Greece,-,Chrysolia, Cuspidata,Greece
+EU103,S5,0,0.55,30.26,Greece,-,Chrysolia, Cuspidata,Greece
+EU103,S6,1,0.55,30.26,Greece,-,Chrysolia, Cuspidata,Greece
+EU103,S10,0,0.55,30.26,Greece,-,Chrysolia, Cuspidata,Greece
+EU103,S8,0,0.55,30.26,Greece,-,Chrysolia, Cuspidata,Greece
+EU103,S9,0,0.55,30.26,Greece,-,Chrysolia, Cuspidata,Greece
+EU103,S11,0,0.55,30.26,Greece,-,Chrysolia, Cuspidata,Greece
+EU103,S12,0,0.55,30.26,Greece,-,Chrysolia, Cuspidata,Greece
+EU103,S7,0,0.55,30.26,Greece,-,Chrysolia, Cuspidata,Greece
+EU104,S4,0.00737183,0.66,27.99,Greece,-,Chalkidikis, europaea,Greece
+EU104,S2,0,0.66,27.99,Greece,-,Chalkidikis, europaea,Greece
+EU104,S3,0,0.66,27.99,Greece,-,Chalkidikis, europaea,Greece
+EU104,S6,0.001088571,0.66,27.99,Greece,-,Chalkidikis, europaea,Greece
+EU104,S9,0.058965432,0.66,27.99,Greece,-,Chalkidikis, europaea,Greece
+EU104,S5,0.008353465,0.66,27.99,Greece,-,Chalkidikis, europaea,Greece
+EU104,S11,0.159665857,0.66,27.99,Greece,-,Chalkidikis, europaea,Greece
+G2A,S1,0.732827649,0.86,17.03,Iran,Golestan,Shenge, europaea,Golestan
+EU104,S7,0.528402077,0.66,27.99,Greece,-,Chalkidikis, europaea,Greece
+EU104,S10,0.15606533,0.66,27.99,Greece,-,Chalkidikis, europaea,Greece
+EU104,S12,0,0.66,27.99,Greece,-,Chalkidikis, europaea,Greece
+EU104,S8,0,0.66,27.99,Greece,-,Chalkidikis, europaea,Greece
+EU105,S6,0,0.67,23.42,Greece,-,Mastoidis, europaea,Greece
+EU105,S3,0,0.67,23.42,Greece,-,Mastoidis, europaea,Greece
+EU105,S5,0,0.67,23.42,Greece,-,Mastoidis, europaea,Greece
+EU105,S7,0,0.67,23.42,Greece,-,Mastoidis, europaea,Greece
+IC145,S1,0.729539936,0.88,18.77,Iran,Golestan,Gal Sensitive, europaea,Golestan
+EU105,S4,0.001981984,0.67,23.42,Greece,-,Mastoidis, europaea,Greece
+EU105,S10,0.925398075,0.67,23.42,Greece,-,Mastoidis, europaea,Greece
+EU105,S11,0.003578655,0.67,23.42,Greece,-,Mastoidis, europaea,Greece
+EU105,S12,0,0.67,23.42,Greece,-,Mastoidis, europaea,Greece
+EU105,S2,0,0.67,23.42,Greece,-,Mastoidis, europaea,Greece
+EU105,S9,0.018830912,0.67,23.42,Greece,-,Mastoidis, europaea,Greece
+EU105,S8,0,0.67,23.42,Greece,-,Mastoidis, europaea,Greece
+EU106,S7,0,0.66,26.22,Greece,-,Koroneiki, europaea,Greece
+EU106,S8,0.011360928,0.66,26.22,Greece,-,Koroneiki, europaea,Greece
+EU106,S3,0,0.66,26.22,Greece,-,Koroneiki, europaea,Greece
+EU106,S4,0,0.66,26.22,Greece,-,Koroneiki, europaea,Greece
+EU106,S5,0,0.66,26.22,Greece,-,Koroneiki, europaea,Greece
+EU106,S6,0.00189719,0.66,26.22,Greece,-,Koroneiki, europaea,Greece
+EU106,S9,0,0.66,26.22,Greece,-,Koroneiki, europaea,Greece
+EU106,S11,0,0.66,26.22,Greece,-,Koroneiki, europaea,Greece
+EU106,S10,0.964544755,0.66,26.22,Greece,-,Koroneiki, europaea,Greece
+IC144b,S1,0.720129252,0.87,22.55,Iran,Golestan,Gal Sensitive, europaea,Golestan
+EU106,S2,0.009458235,0.66,26.22,Greece,-,Koroneiki, europaea,Greece
+EU106,S12,0.012738892,0.66,26.22,Greece,-,Koroneiki, europaea,Greece
+EU107,S4,0.011691893,0.69,29.04,Greece,-,Megaritiki, europaea,Greece
+EU107,S6,0.001404861,0.69,29.04,Greece,-,Megaritiki, europaea,Greece
+EU107,S7,0.474608458,0.69,29.04,Greece,-,Megaritiki, europaea,Greece
+EU107,S3,0.002152453,0.69,29.04,Greece,-,Megaritiki, europaea,Greece
+EU107,S5,0.008769567,0.69,29.04,Greece,-,Megaritiki, europaea,Greece
+IC56b,S1,0.719142211,0.83,18.19,Iran,Tarom,T8, europaea,Tarom
+EU107,S2,0,0.69,29.04,Greece,-,Megaritiki, europaea,Greece
+EU107,S9,0.086081597,0.69,29.04,Greece,-,Megaritiki, europaea,Greece
+EU107,S12,0,0.69,29.04,Greece,-,Megaritiki, europaea,Greece
+EU107,S11,0.152892304,0.69,29.04,Greece,-,Megaritiki, europaea,Greece
+EU107,S8,0,0.69,29.04,Greece,-,Megaritiki, europaea,Greece
+EU107,S10,0.156925414,0.69,29.04,Greece,-,Megaritiki, europaea,Greece
+EU108,S11,0.018844896,0.65,31.64,Greece,-,Mavrelia, europaea,Greece
+EU108,S7,0.078212491,0.65,31.64,Greece,-,Mavrelia, europaea,Greece
+EU108,S9,0.019635147,0.65,31.64,Greece,-,Mavrelia, europaea,Greece
+EU108,S10,0.600620201,0.65,31.64,Greece,-,Mavrelia, europaea,Greece
+EU108,S4,0.025182727,0.65,31.64,Greece,-,Mavrelia, europaea,Greece
+EU108,S8,0.029377034,0.65,31.64,Greece,-,Mavrelia, europaea,Greece
+EU108,S2,0.100007927,0.65,31.64,Greece,-,Mavrelia, europaea,Greece
+EU108,S3,0,0.65,31.64,Greece,-,Mavrelia, europaea,Greece
+EU108,S5,0,0.65,31.64,Greece,-,Mavrelia, europaea,Greece
+EU108,S6,0.01441925,0.65,31.64,Greece,-,Mavrelia, europaea,Greece
+EU108,S12,0,0.65,31.64,Greece,-,Mavrelia, europaea,Greece
+IC52,S1,0.474304101,0.88,22.29,Iran,Tarom,T5, europaea,Tarom
+EU109,S12,0,0.67,31.22,Greece,-,Koutsourelia, europaea,Greece
+EU109,S10,0.940609408,0.67,31.22,Greece,-,Koutsourelia, europaea,Greece
+EU109,S11,0.019999997,0.67,31.22,Greece,-,Koutsourelia, europaea,Greece
+EU109,S9,0.000322267,0.67,31.22,Greece,-,Koutsourelia, europaea,Greece
+IC49a,S1,0.362848387,0.87,20.71,Iran,Tarom,T1, europaea,Tarom
+EU109,S6,0,0.67,31.22,Greece,-,Koutsourelia, europaea,Greece
+EU109,S7,8.54E-06,0.67,31.22,Greece,-,Koutsourelia, europaea,Greece
+EU109,S4,0,0.67,31.22,Greece,-,Koutsourelia, europaea,Greece
+EU109,S5,0,0.67,31.22,Greece,-,Koutsourelia, europaea,Greece
+EU109,S2,0,0.67,31.22,Greece,-,Koutsourelia, europaea,Greece
+EU109,S8,0,0.67,31.22,Greece,-,Koutsourelia, europaea,Greece
+EU109,S3,0,0.67,31.22,Greece,-,Koutsourelia, europaea,Greece
+IC41,S1,0.343827778,0.86,16.31,Iran,Kermanshah,Banavareh6, europaea,Kermanshah
+EU11,S10,0.525590926,0.69,32.71,Spain,-,Pinonera, europaea,Spain
+EU11,S11,0,0.69,32.71,Spain,-,Pinonera, europaea,Spain
+EU11,S12,0.020868614,0.69,32.71,Spain,-,Pinonera, europaea,Spain
+EU11,S2,0.269248961,0.69,32.71,Spain,-,Pinonera, europaea,Spain
+EU11,S3,0,0.69,32.71,Spain,-,Pinonera, europaea,Spain
+EU11,S7,0.101695429,0.69,32.71,Spain,-,Pinonera, europaea,Spain
+EU11,S8,0.007151534,0.69,32.71,Spain,-,Pinonera, europaea,Spain
+EU11,S5,0,0.69,32.71,Spain,-,Pinonera, europaea,Spain
+EU11,S6,0,0.69,32.71,Spain,-,Pinonera, europaea,Spain
+EU11,S9,0,0.69,32.71,Spain,-,Pinonera, europaea,Spain
+EU11,S4,0,0.69,32.71,Spain,-,Pinonera, europaea,Spain
+EU85,S1,0.33053038,0.65,28.2,Greece,-,Throuba Naxou, europaea,Greece
+EU110,S3,0,0.65,24.62,Greece,-,Chondrolia Chalkidikis, europaea,Greece
+EU110,S12,0,0.65,24.62,Greece,-,Chondrolia Chalkidikis, europaea,Greece
+EU110,S2,0,0.65,24.62,Greece,-,Chondrolia Chalkidikis, europaea,Greece
+EU110,S8,0,0.65,24.62,Greece,-,Chondrolia Chalkidikis, europaea,Greece
+EU110,S6,0,0.65,24.62,Greece,-,Chondrolia Chalkidikis, europaea,Greece
+EU110,S7,0.49722438,0.65,24.62,Greece,-,Chondrolia Chalkidikis, europaea,Greece
+EU110,S9,0.08943382,0.65,24.62,Greece,-,Chondrolia Chalkidikis, europaea,Greece
+EU110,S10,0.165642964,0.65,24.62,Greece,-,Chondrolia Chalkidikis, europaea,Greece
+EU110,S11,0.164675351,0.65,24.62,Greece,-,Chondrolia Chalkidikis, europaea,Greece
+EU110,S4,0,0.65,24.62,Greece,-,Chondrolia Chalkidikis, europaea,Greece
+EU110,S5,0,0.65,24.62,Greece,-,Chondrolia Chalkidikis, europaea,Greece
+EU111,S3,0,0.66,28.68,Greece,-,Vasilikada, europaea,Greece
+EU111,S2,0.093821622,0.66,28.68,Greece,-,Vasilikada, europaea,Greece
+EU111,S5,0.03532279,0.66,28.68,Greece,-,Vasilikada, europaea,Greece
+EU111,S4,0.021865891,0.66,28.68,Greece,-,Vasilikada, europaea,Greece
+EU111,S9,0.075993941,0.66,28.68,Greece,-,Vasilikada, europaea,Greece
+EU111,S10,0.176697461,0.66,28.68,Greece,-,Vasilikada, europaea,Greece
+EU90,S1,0.319785,0.68,36.14,Greece,-,Throubolia, europaea,Greece
+EU111,S8,0.015046634,0.66,28.68,Greece,-,Vasilikada, europaea,Greece
+EU111,S11,0.079467862,0.66,28.68,Greece,-,Vasilikada, europaea,Greece
+EU111,S12,0.023421913,0.66,28.68,Greece,-,Vasilikada, europaea,Greece
+EU111,S6,0.018481566,0.66,28.68,Greece,-,Vasilikada, europaea,Greece
+EU111,S7,0.454969156,0.66,28.68,Greece,-,Vasilikada, europaea,Greece
+EU112,S4,0.004030591,0.65,28.49,Greece,-,Kalamon, europaea,Greece
+EU112,S5,0.031576511,0.65,28.49,Greece,-,Kalamon, europaea,Greece
+EU112,S2,0.02638327,0.65,28.49,Greece,-,Kalamon, europaea,Greece
+EU112,S3,0,0.65,28.49,Greece,-,Kalamon, europaea,Greece
+EU112,S6,0.008942553,0.65,28.49,Greece,-,Kalamon, europaea,Greece
+EU112,S7,0.563392799,0.65,28.49,Greece,-,Kalamon, europaea,Greece
+EU112,S11,0.127728843,0.65,28.49,Greece,-,Kalamon, europaea,Greece
+IC88,S1,0.301955944,0.86,16.1,Iran,Ilam,Nakhchir, europaea,Ilam
+EU112,S9,0,0.65,28.49,Greece,-,Kalamon, europaea,Greece
+EU112,S10,0.215882559,0.65,28.49,Greece,-,Kalamon, europaea,Greece
+EU112,S12,0,0.65,28.49,Greece,-,Kalamon, europaea,Greece
+EU112,S8,0.000360918,0.65,28.49,Greece,-,Kalamon, europaea,Greece
+EU113,S5,0.028509422,0.67,28.32,Greece,-,Konservolia Amfissis, europaea,Greece
+EU113,S3,0,0.67,28.32,Greece,-,Konservolia Amfissis, europaea,Greece
+EU113,S4,0,0.67,28.32,Greece,-,Konservolia Amfissis, europaea,Greece
+EU113,S7,0.487774115,0.67,28.32,Greece,-,Konservolia Amfissis, europaea,Greece
+EU113,S2,0,0.67,28.32,Greece,-,Konservolia Amfissis, europaea,Greece
+EU113,S10,0.189914139,0.67,28.32,Greece,-,Konservolia Amfissis, europaea,Greece
+EU113,S6,0,0.67,28.32,Greece,-,Konservolia Amfissis, europaea,Greece
+EU113,S12,0,0.67,28.32,Greece,-,Konservolia Amfissis, europaea,Greece
+IC37,S1,0.270967766,0.87,17.57,Iran,Kermanshah,Deh-Sefid8, europaea,Kermanshah
+EU113,S8,0,0.67,28.32,Greece,-,Konservolia Amfissis, europaea,Greece
+EU113,S11,0.157850275,0.67,28.32,Greece,-,Konservolia Amfissis, europaea,Greece
+EU113,S9,0.07231733,0.67,28.32,Greece,-,Konservolia Amfissis, europaea,Greece
+EU114,S7,0.100327045,0.68,32.65,Greece,-,Adramytini, europaea,Greece
+EU20,S1,0.266179799,0.77,35.42,Syria,-,Abbadi Abou Gabra-842, europaea,Syria
+EU114,S4,0,0.68,32.65,Greece,-,Adramytini, europaea,Greece
+EU114,S6,0,0.68,32.65,Greece,-,Adramytini, europaea,Greece
+EU114,S8,0,0.68,32.65,Greece,-,Adramytini, europaea,Greece
+EU114,S2,0,0.68,32.65,Greece,-,Adramytini, europaea,Greece
+EU114,S5,0,0.68,32.65,Greece,-,Adramytini, europaea,Greece
+EU114,S11,0.187183223,0.68,32.65,Greece,-,Adramytini, europaea,Greece
+EU114,S12,0,0.68,32.65,Greece,-,Adramytini, europaea,Greece
+EU114,S3,0,0.68,32.65,Greece,-,Adramytini, europaea,Greece
+EU114,S10,0.508784209,0.68,32.65,Greece,-,Adramytini, europaea,Greece
+EU114,S9,0,0.68,32.65,Greece,-,Adramytini, europaea,Greece
+EU12,S9,0.006664341,0.69,28.78,Greece,-,Mavreya, europaea,Greece
+EU12,S8,0.027826617,0.69,28.78,Greece,-,Mavreya, europaea,Greece
+EU12,S6,0,0.69,28.78,Greece,-,Mavreya, europaea,Greece
+EU12,S4,0,0.69,28.78,Greece,-,Mavreya, europaea,Greece
+EU12,S5,0,0.69,28.78,Greece,-,Mavreya, europaea,Greece
+IC53,S1,0.258869467,0.87,21.61,Iran,Tarom,T6, europaea,Tarom
+EU12,S7,0.097199614,0.69,28.78,Greece,-,Mavreya, europaea,Greece
+EU12,S10,0.520022365,0.69,28.78,Greece,-,Mavreya, europaea,Greece
+EU12,S12,0.038759305,0.69,28.78,Greece,-,Mavreya, europaea,Greece
+EU12,S11,0.026145603,0.69,28.78,Greece,-,Mavreya, europaea,Greece
+EU12,S2,0.1590143,0.69,28.78,Greece,-,Mavreya, europaea,Greece
+EU12,S3,0,0.69,28.78,Greece,-,Mavreya, europaea,Greece
+EU13,S5,0,0.69,42.65,Spain,-,Wild 04, Sylvestris,Spain
+EU13,S6,0.00172942,0.69,42.65,Spain,-,Wild 04, Sylvestris,Spain
+EU13,S7,0.44022118,0.69,42.65,Spain,-,Wild 04, Sylvestris,Spain
+EU13,S8,0.01842597,0.69,42.65,Spain,-,Wild 04, Sylvestris,Spain
+EU13,S4,0,0.69,42.65,Spain,-,Wild 04, Sylvestris,Spain
+IC90b,S1,0.257788683,0.88,29.9,Iran,Ilam,Torshak, europaea,Ilam
+EU13,S2,0.458448392,0.69,42.65,Spain,-,Wild 04, Sylvestris,Spain
+EU13,S3,0,0.69,42.65,Spain,-,Wild 04, Sylvestris,Spain
+EU13,S10,0,0.69,42.65,Spain,-,Wild 04, Sylvestris,Spain
+EU13,S12,0.081175037,0.69,42.65,Spain,-,Wild 04, Sylvestris,Spain
+EU13,S11,0,0.69,42.65,Spain,-,Wild 04, Sylvestris,Spain
+EU13,S9,0,0.69,42.65,Spain,-,Wild 04, Sylvestris,Spain
+EU14,S12,0.010121204,0.68,47.23,Spain,-,Royal, europaea,Spain
+EU14,S8,0,0.68,47.23,Spain,-,Royal, europaea,Spain
+EU14,S9,0,0.68,47.23,Spain,-,Royal, europaea,Spain
+EU14,S10,0.043154828,0.68,47.23,Spain,-,Royal, europaea,Spain
+EU14,S11,0,0.68,47.23,Spain,-,Royal, europaea,Spain
+EU14,S5,0,0.68,47.23,Spain,-,Royal, europaea,Spain
+EU14,S2,0,0.68,47.23,Spain,-,Royal, europaea,Spain
+EU14,S3,0,0.68,47.23,Spain,-,Royal, europaea,Spain
+EU14,S4,0,0.68,47.23,Spain,-,Royal, europaea,Spain
+EU14,S6,0,0.68,47.23,Spain,-,Royal, europaea,Spain
+EU14,S7,0.916697559,0.68,47.23,Spain,-,Royal, europaea,Spain
+EU82,S1,0.248201316,0.67,31.88,Greece,-,Dafnelia, europaea,Greece
+EU15,S12,0.022057878,0.82,44.72,Spain,-,Wild03, Sylvestris,Spain
+EU15,S10,0,0.82,44.72,Spain,-,Wild03, Sylvestris,Spain
+EU15,S11,0,0.82,44.72,Spain,-,Wild03, Sylvestris,Spain
+EU15,S7,0,0.82,44.72,Spain,-,Wild03, Sylvestris,Spain
+IC28,S1,0.248141005,0.87,19.49,Iran,Kohgiluyeh,Mondan3, europaea,Kohgiluyeh
+EU15,S2,0.977942122,0.82,44.72,Spain,-,Wild03, Sylvestris,Spain
+EU15,S8,0,0.82,44.72,Spain,-,Wild03, Sylvestris,Spain
+EU15,S5,0,0.82,44.72,Spain,-,Wild03, Sylvestris,Spain
+EU15,S6,0,0.82,44.72,Spain,-,Wild03, Sylvestris,Spain
+EU15,S3,0,0.82,44.72,Spain,-,Wild03, Sylvestris,Spain
+EU15,S9,0,0.82,44.72,Spain,-,Wild03, Sylvestris,Spain
+EU15,S4,0,0.82,44.72,Spain,-,Wild03, Sylvestris,Spain
+EU16,S2,0.277487844,0.78,37.46,Spain,-,Llumeta, europaea,Spain
+EU67,S1,0.245447252,0.69,58.28,Syria,-,Sorani, europaea,Syria
+EU16,S11,0.031254929,0.78,37.46,Spain,-,Llumeta, europaea,Spain
+EU16,S12,0.027721665,0.78,37.46,Spain,-,Llumeta, europaea,Spain
+EU16,S8,0.015543342,0.78,37.46,Spain,-,Llumeta, europaea,Spain
+EU16,S3,0,0.78,37.46,Spain,-,Llumeta, europaea,Spain
+EU16,S4,0.009697129,0.78,37.46,Spain,-,Llumeta, europaea,Spain
+EU16,S9,0,0.78,37.46,Spain,-,Llumeta, europaea,Spain
+EU16,S6,0.011178206,0.78,37.46,Spain,-,Llumeta, europaea,Spain
+EU16,S7,0.211433096,0.78,37.46,Spain,-,Llumeta, europaea,Spain
+EU16,S10,0.325880469,0.78,37.46,Spain,-,Llumeta, europaea,Spain
+EU16,S5,0,0.78,37.46,Spain,-,Llumeta, europaea,Spain
+EU17,S2,0.163081045,0.79,34.69,Israel,-,Barnea, europaea,Israel
+EU28,S1,0.239581825,0.77,36.73,Syria,-,Majhol-152, europaea,Syria
+EU17,S4,0.012667954,0.79,34.69,Israel,-,Barnea, europaea,Israel
+EU17,S12,0.022068894,0.79,34.69,Israel,-,Barnea, europaea,Israel
+EU17,S3,0.004508315,0.79,34.69,Israel,-,Barnea, europaea,Israel
+EU17,S9,0.014417555,0.79,34.69,Israel,-,Barnea, europaea,Israel
+EU17,S7,0.26362296,0.79,34.69,Israel,-,Barnea, europaea,Israel
+EU17,S8,0.033589628,0.79,34.69,Israel,-,Barnea, europaea,Israel
+EU17,S10,0.31114725,0.79,34.69,Israel,-,Barnea, europaea,Israel
+EU17,S11,0.088255298,0.79,34.69,Israel,-,Barnea, europaea,Israel
+EU17,S6,0,0.79,34.69,Israel,-,Barnea, europaea,Israel
+EU17,S5,0.041306925,0.79,34.69,Israel,-,Barnea, europaea,Israel
+EU18,S4,0.004037374,0.71,33.95,Syria,-,Majhol-1013, europaea,Syria
+EU18,S3,0.00604898,0.71,33.95,Syria,-,Majhol-1013, europaea,Syria
+EU18,S6,0,0.71,33.95,Syria,-,Majhol-1013, europaea,Syria
+EU18,S2,0,0.71,33.95,Syria,-,Majhol-1013, europaea,Syria
+EU18,S5,0.028231701,0.71,33.95,Syria,-,Majhol-1013, europaea,Syria
+EU18,S10,0.113388687,0.71,33.95,Syria,-,Majhol-1013, europaea,Syria
+EU18,S11,0.202470699,0.71,33.95,Syria,-,Majhol-1013, europaea,Syria
+EU38,S1,0.236974874,0.69,34.74,Syria,-,Abou Kanani, europaea,Syria
+EU18,S9,0.097957492,0.71,33.95,Syria,-,Majhol-1013, europaea,Syria
+EU18,S12,0.020458115,0.71,33.95,Syria,-,Majhol-1013, europaea,Syria
+EU18,S8,0,0.71,33.95,Syria,-,Majhol-1013, europaea,Syria
+EU18,S7,0.307401721,0.71,33.95,Syria,-,Majhol-1013, europaea,Syria
+EU19,S5,0.010523792,0.71,26.03,Greece,-,Mastoidis, europaea,Greece
+EU19,S6,0,0.71,26.03,Greece,-,Mastoidis, europaea,Greece
+EU19,S3,0,0.71,26.03,Greece,-,Mastoidis, europaea,Greece
+EU19,S4,0,0.71,26.03,Greece,-,Mastoidis, europaea,Greece
+EU19,S2,0,0.71,26.03,Greece,-,Mastoidis, europaea,Greece
+EU19,S7,0,0.71,26.03,Greece,-,Mastoidis, europaea,Greece
+EU19,S8,0,0.71,26.03,Greece,-,Mastoidis, europaea,Greece
+EU19,S12,0.00799953,0.71,26.03,Greece,-,Mastoidis, europaea,Greece
+EU32,S1,0.227513435,0.73,36,Spain,-,Menya, europaea,Spain
+EU19,S10,0.93521683,0.71,26.03,Greece,-,Mastoidis, europaea,Greece
+EU19,S11,0,0.71,26.03,Greece,-,Mastoidis, europaea,Greece
+EU19,S9,0,0.71,26.03,Greece,-,Mastoidis, europaea,Greece
+EU2,S6,0,0.69,33.19,Greece,-,Myrtolia, europaea,Greece
+EU68,S1,0.225632108,1,56.1,Lebanon,-,Beladi, europaea,Lebanon
+EU2,S4,0,0.69,33.19,Greece,-,Myrtolia, europaea,Greece
+EU2,S5,0,0.69,33.19,Greece,-,Myrtolia, europaea,Greece
+EU2,S8,0,0.69,33.19,Greece,-,Myrtolia, europaea,Greece
+EU2,S3,0,0.69,33.19,Greece,-,Myrtolia, europaea,Greece
+EU2,S11,0.001578049,0.69,33.19,Greece,-,Myrtolia, europaea,Greece
+EU2,S7,0.008713518,0.69,33.19,Greece,-,Myrtolia, europaea,Greece
+EU2,S2,0,0.69,33.19,Greece,-,Myrtolia, europaea,Greece
+EU2,S9,0,0.69,33.19,Greece,-,Myrtolia, europaea,Greece
+EU2,S12,0,0.69,33.19,Greece,-,Myrtolia, europaea,Greece
+EU2,S10,0.957326416,0.69,33.19,Greece,-,Myrtolia, europaea,Greece
+EU20,S8,0,0.77,35.42,Syria,-,Abbadi Abou Gabra-842, europaea,Syria
+EU20,S7,0.239980143,0.77,35.42,Syria,-,Abbadi Abou Gabra-842, europaea,Syria
+EU20,S2,0,0.77,35.42,Syria,-,Abbadi Abou Gabra-842, europaea,Syria
+EU20,S5,0.067217708,0.77,35.42,Syria,-,Abbadi Abou Gabra-842, europaea,Syria
+IC89a,S1,0.221492878,0.89,16.92,Iran,Ilam,Gardineh kooh, europaea,Ilam
+EU20,S12,0,0.77,35.42,Syria,-,Abbadi Abou Gabra-842, europaea,Syria
+EU20,S3,0.008259723,0.77,35.42,Syria,-,Abbadi Abou Gabra-842, europaea,Syria
+EU20,S6,0.004892581,0.77,35.42,Syria,-,Abbadi Abou Gabra-842, europaea,Syria
+EU20,S11,0.249487799,0.77,35.42,Syria,-,Abbadi Abou Gabra-842, europaea,Syria
+EU20,S4,0.004988193,0.77,35.42,Syria,-,Abbadi Abou Gabra-842, europaea,Syria
+EU20,S10,0.068383308,0.77,35.42,Syria,-,Abbadi Abou Gabra-842, europaea,Syria
+EU20,S9,0.090610746,0.77,35.42,Syria,-,Abbadi Abou Gabra-842, europaea,Syria
+EU21,S9,0,0.79,29.15,Iran,Golestan,Fishomi, europaea,Golestan
+EU21,S10,0,0.79,29.15,Iran,Golestan,Fishomi, europaea,Golestan
+EU21,S5,0.047418065,0.79,29.15,Iran,Golestan,Fishomi, europaea,Golestan
+EU21,S6,0.000696771,0.79,29.15,Iran,Golestan,Fishomi, europaea,Golestan
+EU21,S4,0,0.79,29.15,Iran,Golestan,Fishomi, europaea,Golestan
+EU21,S12,0.017747583,0.79,29.15,Iran,Golestan,Fishomi, europaea,Golestan
+EU18,S1,0.220005232,0.71,33.95,Syria,-,Majhol-1013, europaea,Syria
+EU21,S7,0.013684538,0.79,29.15,Iran,Golestan,Fishomi, europaea,Golestan
+EU21,S11,0.057721184,0.79,29.15,Iran,Golestan,Fishomi, europaea,Golestan
+EU21,S8,0,0.79,29.15,Iran,Golestan,Fishomi, europaea,Golestan
+EU21,S2,0,0.79,29.15,Iran,Golestan,Fishomi, europaea,Golestan
+EU21,S3,0,0.79,29.15,Iran,Golestan,Fishomi, europaea,Golestan
+EU23,S10,0,0.76,32.11,Spain,-,Wild 06, Sylvestris,Spain
+EU23,S9,0,0.76,32.11,Spain,-,Wild 06, Sylvestris,Spain
+EU23,S2,0,0.76,32.11,Spain,-,Wild 06, Sylvestris,Spain
+EU23,S11,0,0.76,32.11,Spain,-,Wild 06, Sylvestris,Spain
+EU23,S12,0,0.76,32.11,Spain,-,Wild 06, Sylvestris,Spain
+EU4,S1,0.219908659,0.69,30.4,Syria,-,Barri, europaea,Syria
+EU23,S6,0,0.76,32.11,Spain,-,Wild 06, Sylvestris,Spain
+EU23,S3,0,0.76,32.11,Spain,-,Wild 06, Sylvestris,Spain
+EU23,S4,0,0.76,32.11,Spain,-,Wild 06, Sylvestris,Spain
+EU23,S5,0,0.76,32.11,Spain,-,Wild 06, Sylvestris,Spain
+EU23,S7,0,0.76,32.11,Spain,-,Wild 06, Sylvestris,Spain
+EU23,S8,1,0.76,32.11,Spain,-,Wild 06, Sylvestris,Spain
+EU24,S2,0.184532844,0.79,32.15,Spain,-,Forastera de Tortosa, europaea,Spain
+EU24,S12,0.034351389,0.79,32.15,Spain,-,Forastera de Tortosa, europaea,Spain
+IC100b,S1,0.219034261,0.87,24.94,Iran,Khoor va Biabanak,Ordib, europaea,Khoor va Biabanak
+EU24,S5,0,0.79,32.15,Spain,-,Forastera de Tortosa, europaea,Spain
+EU24,S6,0.001307364,0.79,32.15,Spain,-,Forastera de Tortosa, europaea,Spain
+EU24,S3,0.001928015,0.79,32.15,Spain,-,Forastera de Tortosa, europaea,Spain
+EU24,S4,0.006083766,0.79,32.15,Spain,-,Forastera de Tortosa, europaea,Spain
+EU24,S9,0.051332513,0.79,32.15,Spain,-,Forastera de Tortosa, europaea,Spain
+EU24,S10,0.189629714,0.79,32.15,Spain,-,Forastera de Tortosa, europaea,Spain
+EU24,S7,0.404587009,0.79,32.15,Spain,-,Forastera de Tortosa, europaea,Spain
+EU24,S8,0,0.79,32.15,Spain,-,Forastera de Tortosa, europaea,Spain
+EU24,S11,0.066834785,0.79,32.15,Spain,-,Forastera de Tortosa, europaea,Spain
+EU25,S3,0,0.77,35.83,Spain,-,Wild 05, Sylvestris,Spain
+EU25,S4,0,0.77,35.83,Spain,-,Wild 05, Sylvestris,Spain
+EU25,S5,0,0.77,35.83,Spain,-,Wild 05, Sylvestris,Spain
+IC39,S1,0.215103349,0.87,18.56,Iran,Kermanshah,Banavareh7, europaea,Kermanshah
+EU25,S2,0,0.77,35.83,Spain,-,Wild 05, Sylvestris,Spain
+EU25,S8,0,0.77,35.83,Spain,-,Wild 05, Sylvestris,Spain
+EU25,S9,0,0.77,35.83,Spain,-,Wild 05, Sylvestris,Spain
+EU25,S6,0,0.77,35.83,Spain,-,Wild 05, Sylvestris,Spain
+EU25,S7,0,0.77,35.83,Spain,-,Wild 05, Sylvestris,Spain
+EU25,S12,1,0.77,35.83,Spain,-,Wild 05, Sylvestris,Spain
+EU25,S10,0,0.77,35.83,Spain,-,Wild 05, Sylvestris,Spain
+EU25,S11,0,0.77,35.83,Spain,-,Wild 05, Sylvestris,Spain
+EU26,S2,0.640975673,0.78,28.03,Tunisia,-,Dokkar, europaea,Tunisia
+EU26,S4,0,0.78,28.03,Tunisia,-,Dokkar, europaea,Tunisia
+EU114,S1,0.203705523,0.68,32.65,Greece,-,Adramytini, europaea,Greece
+EU26,S5,0,0.78,28.03,Tunisia,-,Dokkar, europaea,Tunisia
+EU26,S6,0,0.78,28.03,Tunisia,-,Dokkar, europaea,Tunisia
+EU26,S3,0,0.78,28.03,Tunisia,-,Dokkar, europaea,Tunisia
+EU26,S8,0,0.78,28.03,Tunisia,-,Dokkar, europaea,Tunisia
+EU26,S9,0,0.78,28.03,Tunisia,-,Dokkar, europaea,Tunisia
+EU26,S10,0.359024327,0.78,28.03,Tunisia,-,Dokkar, europaea,Tunisia
+EU26,S7,0,0.78,28.03,Tunisia,-,Dokkar, europaea,Tunisia
+EU26,S12,0,0.78,28.03,Tunisia,-,Dokkar, europaea,Tunisia
+EU26,S11,0,0.78,28.03,Tunisia,-,Dokkar, europaea,Tunisia
+EU27,S3,0.014018969,0.78,38.32,Syria,-,Jabali, europaea,Syria
+EU27,S4,0.015208447,0.78,38.32,Syria,-,Jabali, europaea,Syria
+EU27,S6,0.009781088,0.78,38.32,Syria,-,Jabali, europaea,Syria
+EU27,S1,0.200239595,0.78,38.32,Syria,-,Jabali, europaea,Syria
+EU27,S2,0.005592158,0.78,38.32,Syria,-,Jabali, europaea,Syria
+EU27,S7,0.268869823,0.78,38.32,Syria,-,Jabali, europaea,Syria
+EU27,S5,0.045431534,0.78,38.32,Syria,-,Jabali, europaea,Syria
+EU27,S9,0.106982128,0.78,38.32,Syria,-,Jabali, europaea,Syria
+EU27,S10,0.09316776,0.78,38.32,Syria,-,Jabali, europaea,Syria
+EU27,S11,0.240708499,0.78,38.32,Syria,-,Jabali, europaea,Syria
+EU27,S8,0,0.78,38.32,Syria,-,Jabali, europaea,Syria
+EU27,S12,0,0.78,38.32,Syria,-,Jabali, europaea,Syria
+EU28,S7,0.281587061,0.77,36.73,Syria,-,Majhol-152, europaea,Syria
+EU28,S8,0,0.77,36.73,Syria,-,Majhol-152, europaea,Syria
+EU28,S4,0.011908486,0.77,36.73,Syria,-,Majhol-152, europaea,Syria
+IC44,S1,0.187442963,0.88,18.34,Iran,Kermanshah,Gilan-e-Gharb, europaea,Kermanshah
+EU28,S2,0.004215285,0.77,36.73,Syria,-,Majhol-152, europaea,Syria
+EU28,S3,0.017132249,0.77,36.73,Syria,-,Majhol-152, europaea,Syria
+EU28,S9,0.068872417,0.77,36.73,Syria,-,Majhol-152, europaea,Syria
+EU28,S5,0.060814609,0.77,36.73,Syria,-,Majhol-152, europaea,Syria
+EU28,S6,0.008133751,0.77,36.73,Syria,-,Majhol-152, europaea,Syria
+EU28,S12,0.015622141,0.77,36.73,Syria,-,Majhol-152, europaea,Syria
+EU28,S10,0.065763829,0.77,36.73,Syria,-,Majhol-152, europaea,Syria
+EU28,S11,0.226368346,0.77,36.73,Syria,-,Majhol-152, europaea,Syria
+EU29,S6,0,0.79,27.75,Spain,-,Picudo, europaea,Spain
+EU29,S8,0,0.79,27.75,Spain,-,Picudo, europaea,Spain
+EU30,S1,0.183881814,0.69,37.62,Syria,-,Maarri, europaea,Syria
+EU29,S2,0.012989781,0.79,27.75,Spain,-,Picudo, europaea,Spain
+EU29,S3,0,0.79,27.75,Spain,-,Picudo, europaea,Spain
+EU29,S4,0,0.79,27.75,Spain,-,Picudo, europaea,Spain
+EU29,S5,0,0.79,27.75,Spain,-,Picudo, europaea,Spain
+EU29,S9,0.017434745,0.79,27.75,Spain,-,Picudo, europaea,Spain
+EU29,S10,0.070687675,0.79,27.75,Spain,-,Picudo, europaea,Spain
+EU29,S7,0.83598852,0.79,27.75,Spain,-,Picudo, europaea,Spain
+EU29,S12,0.021714979,0.79,27.75,Spain,-,Picudo, europaea,Spain
+EU29,S11,0.0411843,0.79,27.75,Spain,-,Picudo, europaea,Spain
+EU3,S7,0.321926807,0.69,33.86,Albania,-,Klon-14-1812, europaea,Albania
+EU3,S8,0.03128908,0.69,33.86,Albania,-,Klon-14-1812, europaea,Albania
+EU3,S10,0.297681601,0.69,33.86,Albania,-,Klon-14-1812, europaea,Albania
+EU81,S1,0.178022403,0.67,28.41,Greece,-,Kothreiki, europaea,Greece
+EU3,S2,0.18272308,0.69,33.86,Albania,-,Klon-14-1812, europaea,Albania
+EU3,S3,0,0.69,33.86,Albania,-,Klon-14-1812, europaea,Albania
+EU3,S4,0,0.69,33.86,Albania,-,Klon-14-1812, europaea,Albania
+EU3,S5,0.014987109,0.69,33.86,Albania,-,Klon-14-1812, europaea,Albania
+EU3,S6,0,0.69,33.86,Albania,-,Klon-14-1812, europaea,Albania
+EU3,S9,0.026060237,0.69,33.86,Albania,-,Klon-14-1812, europaea,Albania
+EU3,S12,0,0.69,33.86,Albania,-,Klon-14-1812, europaea,Albania
+EU3,S11,0.064278321,0.69,33.86,Albania,-,Klon-14-1812, europaea,Albania
+EU30,S7,0.441314271,0.69,37.62,Syria,-,Maarri, europaea,Syria
+EU30,S12,0,0.69,37.62,Syria,-,Maarri, europaea,Syria
+EU30,S2,0,0.69,37.62,Syria,-,Maarri, europaea,Syria
+EU30,S11,0.192138394,0.69,37.62,Syria,-,Maarri, europaea,Syria
+EU99,S1,0.177038965,0.7,27.5,Greece,-,Aggouromanakolia, europaea,Greece
+EU30,S6,0.000296005,0.69,37.62,Syria,-,Maarri, europaea,Syria
+EU30,S3,0,0.69,37.62,Syria,-,Maarri, europaea,Syria
+EU30,S4,0,0.69,37.62,Syria,-,Maarri, europaea,Syria
+EU30,S5,0.02578491,0.69,37.62,Syria,-,Maarri, europaea,Syria
+EU30,S10,0.021019187,0.69,37.62,Syria,-,Maarri, europaea,Syria
+EU30,S8,0,0.69,37.62,Syria,-,Maarri, europaea,Syria
+EU30,S9,0.135565418,0.69,37.62,Syria,-,Maarri, europaea,Syria
+EU31,S10,0,0.7,37.68,Spain,-,Temprano, europaea,Spain
+EU76,S1,0.170653262,0.65,29.49,Greece,-,Asprolia Lefkados, europaea,Greece
+EU31,S12,0.034306804,0.7,37.68,Spain,-,Temprano, europaea,Spain
+EU31,S2,0.196678516,0.7,37.68,Spain,-,Temprano, europaea,Spain
+EU31,S3,0,0.7,37.68,Spain,-,Temprano, europaea,Spain
+EU31,S4,0,0.7,37.68,Spain,-,Temprano, europaea,Spain
+EU31,S5,0.000101083,0.7,37.68,Spain,-,Temprano, europaea,Spain
+EU31,S6,0,0.7,37.68,Spain,-,Temprano, europaea,Spain
+EU31,S7,0.76094253,0.7,37.68,Spain,-,Temprano, europaea,Spain
+EU31,S8,0.007803922,0.7,37.68,Spain,-,Temprano, europaea,Spain
+EU31,S9,0,0.7,37.68,Spain,-,Temprano, europaea,Spain
+EU31,S11,0.000167145,0.7,37.68,Spain,-,Temprano, europaea,Spain
+EU32,S11,0.024681254,0.73,36,Spain,-,Menya, europaea,Spain
+EU32,S12,0,0.73,36,Spain,-,Menya, europaea,Spain
+EU32,S2,0.323646932,0.73,36,Spain,-,Menya, europaea,Spain
+EU32,S4,0,0.73,36,Spain,-,Menya, europaea,Spain
+EU79,S1,0.162836941,0.67,26.92,Greece,-,Karydolia, europaea,Greece
+EU32,S6,0.003502785,0.73,36,Spain,-,Menya, europaea,Spain
+EU32,S3,0.007062521,0.73,36,Spain,-,Menya, europaea,Spain
+EU32,S8,0.025303778,0.73,36,Spain,-,Menya, europaea,Spain
+EU32,S5,0,0.73,36,Spain,-,Menya, europaea,Spain
+EU32,S10,0.367005018,0.73,36,Spain,-,Menya, europaea,Spain
+EU32,S7,0.01477105,0.73,36,Spain,-,Menya, europaea,Spain
+EU32,S9,0.006513228,0.73,36,Spain,-,Menya, europaea,Spain
+EU33,S3,0,0.69,40.38,Greece,-,Koroneiki, europaea,Greece
+EU89,S1,0.147576245,0.65,27.16,Greece,-,Lefkolia Serron, europaea,Greece
+EU33,S4,0,0.69,40.38,Greece,-,Koroneiki, europaea,Greece
+EU33,S2,0.042064436,0.69,40.38,Greece,-,Koroneiki, europaea,Greece
+EU33,S6,0,0.69,40.38,Greece,-,Koroneiki, europaea,Greece
+EU33,S7,0,0.69,40.38,Greece,-,Koroneiki, europaea,Greece
+EU33,S8,0.014274082,0.69,40.38,Greece,-,Koroneiki, europaea,Greece
+EU33,S5,0,0.69,40.38,Greece,-,Koroneiki, europaea,Greece
+EU33,S10,0.922039084,0.69,40.38,Greece,-,Koroneiki, europaea,Greece
+EU33,S11,0,0.69,40.38,Greece,-,Koroneiki, europaea,Greece
+EU33,S12,0.021622398,0.69,40.38,Greece,-,Koroneiki, europaea,Greece
+EU33,S9,0,0.69,40.38,Greece,-,Koroneiki, europaea,Greece
+EU34,S4,0,0.69,32.28,Spain,-,Manzanilla de Sevilla, europaea,Spain
+EU34,S5,0,0.69,32.28,Spain,-,Manzanilla de Sevilla, europaea,Spain
+IC12,S1,0.134453916,0.86,23,Iran,Golestan,Livan, europaea,Golestan
+EU34,S6,0,0.69,32.28,Spain,-,Manzanilla de Sevilla, europaea,Spain
+EU34,S2,0,0.69,32.28,Spain,-,Manzanilla de Sevilla, europaea,Spain
+EU34,S3,0,0.69,32.28,Spain,-,Manzanilla de Sevilla, europaea,Spain
+EU34,S9,0.051716468,0.69,32.28,Spain,-,Manzanilla de Sevilla, europaea,Spain
+EU34,S10,0.072359721,0.69,32.28,Spain,-,Manzanilla de Sevilla, europaea,Spain
+EU34,S7,0.860489444,0.69,32.28,Spain,-,Manzanilla de Sevilla, europaea,Spain
+EU34,S8,0,0.69,32.28,Spain,-,Manzanilla de Sevilla, europaea,Spain
+EU34,S11,0.011939678,0.69,32.28,Spain,-,Manzanilla de Sevilla, europaea,Spain
+EU34,S12,0,0.69,32.28,Spain,-,Manzanilla de Sevilla, europaea,Spain
+EU35,S5,0.114386502,0.79,28.1,Turkey,-,Uslu, europaea,Turkey
+EU35,S3,0.002913898,0.79,28.1,Turkey,-,Uslu, europaea,Turkey
+IC74,S1,0.131511913,0.87,21.42,Iran,Ilam,Bansarv1, europaea,Ilam
+EU35,S2,0,0.79,28.1,Turkey,-,Uslu, europaea,Turkey
+EU35,S6,0.001667334,0.79,28.1,Turkey,-,Uslu, europaea,Turkey
+EU35,S7,0.542869494,0.79,28.1,Turkey,-,Uslu, europaea,Turkey
+EU35,S4,0,0.79,28.1,Turkey,-,Uslu, europaea,Turkey
+EU35,S9,0.050198939,0.79,28.1,Turkey,-,Uslu, europaea,Turkey
+EU35,S10,0.002083358,0.79,28.1,Turkey,-,Uslu, europaea,Turkey
+EU35,S11,0.171510818,0.79,28.1,Turkey,-,Uslu, europaea,Turkey
+EU35,S8,0,0.79,28.1,Turkey,-,Uslu, europaea,Turkey
+EU35,S12,0,0.79,28.1,Turkey,-,Uslu, europaea,Turkey
+EU36,S7,0.816594909,0.79,30.68,Spain,-,Lechin de Sevilla, europaea,Spain
+EU36,S4,0,0.79,30.68,Spain,-,Lechin de Sevilla, europaea,Spain
+EU36,S5,0,0.79,30.68,Spain,-,Lechin de Sevilla, europaea,Spain
+EU93,S1,0.131217506,0.66,28.41,Greece,-,Valanolia, europaea,Greece
+EU36,S2,0.170406415,0.79,30.68,Spain,-,Lechin de Sevilla, europaea,Spain
+EU36,S3,0,0.79,30.68,Spain,-,Lechin de Sevilla, europaea,Spain
+EU36,S8,0.004509493,0.79,30.68,Spain,-,Lechin de Sevilla, europaea,Spain
+EU36,S6,0,0.79,30.68,Spain,-,Lechin de Sevilla, europaea,Spain
+EU36,S10,0,0.79,30.68,Spain,-,Lechin de Sevilla, europaea,Spain
+EU36,S11,0,0.79,30.68,Spain,-,Lechin de Sevilla, europaea,Spain
+EU36,S12,0.008489184,0.79,30.68,Spain,-,Lechin de Sevilla, europaea,Spain
+EU36,S9,0,0.79,30.68,Spain,-,Lechin de Sevilla, europaea,Spain
+EU37,S8,0,0.7,35.74,Spain,-,Ocal, europaea,Spain
+EU37,S9,0.060675017,0.7,35.74,Spain,-,Ocal, europaea,Spain
+EU37,S5,0,0.7,35.74,Spain,-,Ocal, europaea,Spain
+IC73a,S1,0.127344641,0.87,21.47,Iran,Ilam,Bansarv2, europaea,Ilam
+EU37,S2,0,0.7,35.74,Spain,-,Ocal, europaea,Spain
+EU37,S3,0,0.7,35.74,Spain,-,Ocal, europaea,Spain
+EU37,S4,0,0.7,35.74,Spain,-,Ocal, europaea,Spain
+EU37,S10,0.063648743,0.7,35.74,Spain,-,Ocal, europaea,Spain
+EU37,S6,0,0.7,35.74,Spain,-,Ocal, europaea,Spain
+EU37,S7,0.822367998,0.7,35.74,Spain,-,Ocal, europaea,Spain
+EU37,S11,0.02901737,0.7,35.74,Spain,-,Ocal, europaea,Spain
+EU37,S12,0.007305317,0.7,35.74,Spain,-,Ocal, europaea,Spain
+EU38,S9,0.047965136,0.69,34.74,Syria,-,Abou Kanani, europaea,Syria
+EU38,S7,0.275120968,0.69,34.74,Syria,-,Abou Kanani, europaea,Syria
+IC95b,S1,0.125433651,0.86,19.62,Iran,Fars,Derak, europaea,Fars
+EU38,S2,0,0.69,34.74,Syria,-,Abou Kanani, europaea,Syria
+EU38,S3,0.005172612,0.69,34.74,Syria,-,Abou Kanani, europaea,Syria
+EU38,S4,0,0.69,34.74,Syria,-,Abou Kanani, europaea,Syria
+EU38,S5,0.072740988,0.69,34.74,Syria,-,Abou Kanani, europaea,Syria
+EU38,S6,0,0.69,34.74,Syria,-,Abou Kanani, europaea,Syria
+EU38,S10,0.098623046,0.69,34.74,Syria,-,Abou Kanani, europaea,Syria
+EU38,S11,0.263402377,0.69,34.74,Syria,-,Abou Kanani, europaea,Syria
+EU38,S8,0,0.69,34.74,Syria,-,Abou Kanani, europaea,Syria
+EU38,S12,0,0.69,34.74,Syria,-,Abou Kanani, europaea,Syria
+EU39,S11,0,0.8,31.54,Spain,-,Verdial de Velez-Malaga-1, europaea,Spain
+EU39,S8,0.011697377,0.8,31.54,Spain,-,Verdial de Velez-Malaga-1, europaea,Spain
+EU39,S9,0,0.8,31.54,Spain,-,Verdial de Velez-Malaga-1, europaea,Spain
+EU101,S1,0.124392873,0.65,28.4,Greece,-,Petrolia, europaea,Greece
+EU39,S2,0.041642677,0.8,31.54,Spain,-,Verdial de Velez-Malaga-1, europaea,Spain
+EU39,S3,0.000325019,0.8,31.54,Spain,-,Verdial de Velez-Malaga-1, europaea,Spain
+EU39,S4,0.002573087,0.8,31.54,Spain,-,Verdial de Velez-Malaga-1, europaea,Spain
+EU39,S5,0,0.8,31.54,Spain,-,Verdial de Velez-Malaga-1, europaea,Spain
+EU39,S6,0,0.8,31.54,Spain,-,Verdial de Velez-Malaga-1, europaea,Spain
+EU39,S7,0.927289937,0.8,31.54,Spain,-,Verdial de Velez-Malaga-1, europaea,Spain
+EU39,S10,0,0.8,31.54,Spain,-,Verdial de Velez-Malaga-1, europaea,Spain
+EU39,S12,0,0.8,31.54,Spain,-,Verdial de Velez-Malaga-1, europaea,Spain
+EU4,S8,0,0.69,30.4,Syria,-,Barri, europaea,Syria
+EU4,S12,0,0.69,30.4,Syria,-,Barri, europaea,Syria
+EU4,S11,0.145143345,0.69,30.4,Syria,-,Barri, europaea,Syria
+EU4,S3,0.015949894,0.69,30.4,Syria,-,Barri, europaea,Syria
+EU12,S1,0.124367853,0.69,28.78,Greece,-,Mavreya, europaea,Greece
+EU4,S2,0,0.69,30.4,Syria,-,Barri, europaea,Syria
+EU4,S7,0.303172271,0.69,30.4,Syria,-,Barri, europaea,Syria
+EU4,S4,0.000190395,0.69,30.4,Syria,-,Barri, europaea,Syria
+EU4,S5,0.019004481,0.69,30.4,Syria,-,Barri, europaea,Syria
+EU4,S6,0.01080899,0.69,30.4,Syria,-,Barri, europaea,Syria
+EU4,S9,0.121395593,0.69,30.4,Syria,-,Barri, europaea,Syria
+EU4,S10,0.164426373,0.69,30.4,Syria,-,Barri, europaea,Syria
+EU40,S2,0.09283832,0.78,43.55,Spain,-,Arbequina, europaea,Spain
+EU40,S11,0.024951184,0.78,43.55,Spain,-,Arbequina, europaea,Spain
+EU95,S1,0.123810128,0.63,26.18,Greece,-,Kolybada, europaea,Greece
+EU40,S6,0,0.78,43.55,Spain,-,Arbequina, europaea,Spain
+EU40,S3,0,0.78,43.55,Spain,-,Arbequina, europaea,Spain
+EU40,S4,0,0.78,43.55,Spain,-,Arbequina, europaea,Spain
+EU40,S5,0,0.78,43.55,Spain,-,Arbequina, europaea,Spain
+EU40,S10,0.750720151,0.78,43.55,Spain,-,Arbequina, europaea,Spain
+EU40,S7,0.067787954,0.78,43.55,Spain,-,Arbequina, europaea,Spain
+EU40,S8,0.007724027,0.78,43.55,Spain,-,Arbequina, europaea,Spain
+EU40,S9,0.003107914,0.78,43.55,Spain,-,Arbequina, europaea,Spain
+EU40,S12,0.000401825,0.78,43.55,Spain,-,Arbequina, europaea,Spain
+EU41,S12,0.028663409,0.69,33.32,Algeria,-,Chemlal de Kabylie, europaea,Algeria
+EU41,S11,0,0.69,33.32,Algeria,-,Chemlal de Kabylie, europaea,Algeria
+EU41,S3,0,0.69,33.32,Algeria,-,Chemlal de Kabylie, europaea,Algeria
+EU35,S1,0.114369657,0.79,28.1,Turkey,-,Uslu, europaea,Turkey
+EU41,S5,0,0.69,33.32,Algeria,-,Chemlal de Kabylie, europaea,Algeria
+EU41,S2,0.379182674,0.69,33.32,Algeria,-,Chemlal de Kabylie, europaea,Algeria
+EU41,S7,0.386401623,0.69,33.32,Algeria,-,Chemlal de Kabylie, europaea,Algeria
+EU41,S4,0,0.69,33.32,Algeria,-,Chemlal de Kabylie, europaea,Algeria
+EU41,S9,0,0.69,33.32,Algeria,-,Chemlal de Kabylie, europaea,Algeria
+EU41,S6,0.00611143,0.69,33.32,Algeria,-,Chemlal de Kabylie, europaea,Algeria
+EU41,S8,0.033550058,0.69,33.32,Algeria,-,Chemlal de Kabylie, europaea,Algeria
+EU41,S10,0.166090807,0.69,33.32,Algeria,-,Chemlal de Kabylie, europaea,Algeria
+EU42,S2,0.845003222,0.68,42.74,Spain,-,Wild02, Sylvestris,Spain
+EU42,S4,0,0.68,42.74,Spain,-,Wild02, Sylvestris,Spain
+EU108,S1,0.113700327,0.65,31.64,Greece,-,Mavrelia, europaea,Greece
+EU42,S5,0,0.68,42.74,Spain,-,Wild02, Sylvestris,Spain
+EU42,S3,0,0.68,42.74,Spain,-,Wild02, Sylvestris,Spain
+EU42,S7,0.031958497,0.68,42.74,Spain,-,Wild02, Sylvestris,Spain
+EU42,S8,0.038670633,0.68,42.74,Spain,-,Wild02, Sylvestris,Spain
+EU42,S9,0,0.68,42.74,Spain,-,Wild02, Sylvestris,Spain
+EU42,S6,0,0.68,42.74,Spain,-,Wild02, Sylvestris,Spain
+EU42,S11,0,0.68,42.74,Spain,-,Wild02, Sylvestris,Spain
+EU42,S12,0.006964729,0.68,42.74,Spain,-,Wild02, Sylvestris,Spain
+EU42,S10,0.077402918,0.68,42.74,Spain,-,Wild02, Sylvestris,Spain
+EU43,S2,0.452171078,0.69,45.59,Croatia,-,Wild01, Sylvestris,Croatia
+EU43,S5,0,0.69,45.59,Croatia,-,Wild01, Sylvestris,Croatia
+EU43,S6,0,0.69,45.59,Croatia,-,Wild01, Sylvestris,Croatia
+EU96,S1,0.107399905,0.68,29.4,Greece,-,Strogylolia, europaea,Greece
+EU43,S7,0.03533134,0.69,45.59,Croatia,-,Wild01, Sylvestris,Croatia
+EU43,S3,0,0.69,45.59,Croatia,-,Wild01, Sylvestris,Croatia
+EU43,S4,0.013482545,0.69,45.59,Croatia,-,Wild01, Sylvestris,Croatia
+EU43,S10,0.44584075,0.69,45.59,Croatia,-,Wild01, Sylvestris,Croatia
+EU43,S11,0,0.69,45.59,Croatia,-,Wild01, Sylvestris,Croatia
+EU43,S8,0.007078552,0.69,45.59,Croatia,-,Wild01, Sylvestris,Croatia
+EU43,S9,0,0.69,45.59,Croatia,-,Wild01, Sylvestris,Croatia
+EU43,S12,0.046095734,0.69,45.59,Croatia,-,Wild01, Sylvestris,Croatia
+EU44,S6,0.001856624,0.79,29.78,Italy,-,Leccino, europaea,Italy
+EU44,S4,0,0.79,29.78,Italy,-,Leccino, europaea,Italy
+EU74,S1,0.106629156,0.65,30.55,Greece,-,Pierias, europaea,Greece
+EU44,S2,0.26880412,0.79,29.78,Italy,-,Leccino, europaea,Italy
+EU44,S3,0,0.79,29.78,Italy,-,Leccino, europaea,Italy
+EU44,S7,0.37309275,0.79,29.78,Italy,-,Leccino, europaea,Italy
+EU44,S8,0.005071175,0.79,29.78,Italy,-,Leccino, europaea,Italy
+EU44,S5,0.029914567,0.79,29.78,Italy,-,Leccino, europaea,Italy
+EU44,S10,0.257865221,0.79,29.78,Italy,-,Leccino, europaea,Italy
+EU44,S11,0.028290675,0.79,29.78,Italy,-,Leccino, europaea,Italy
+EU44,S12,0,0.79,29.78,Italy,-,Leccino, europaea,Italy
+EU44,S9,0.002028768,0.79,29.78,Italy,-,Leccino, europaea,Italy
+EU45,S8,0.024308138,0.71,31.19,Spain,-,Manzanillera de Huercal Overa, europaea,Spain
+EU45,S5,0,0.71,31.19,Spain,-,Manzanillera de Huercal Overa, europaea,Spain
+EU45,S6,0.001548701,0.71,31.19,Spain,-,Manzanillera de Huercal Overa, europaea,Spain
+EU107,S1,0.105473453,0.69,29.04,Greece,-,Megaritiki, europaea,Greece
+EU45,S2,0.170957295,0.71,31.19,Spain,-,Manzanillera de Huercal Overa, europaea,Spain
+EU45,S3,0,0.71,31.19,Spain,-,Manzanillera de Huercal Overa, europaea,Spain
+EU45,S4,0.01108789,0.71,31.19,Spain,-,Manzanillera de Huercal Overa, europaea,Spain
+EU45,S9,0,0.71,31.19,Spain,-,Manzanillera de Huercal Overa, europaea,Spain
+EU45,S7,0.356432994,0.71,31.19,Spain,-,Manzanillera de Huercal Overa, europaea,Spain
+EU45,S11,0.037970078,0.71,31.19,Spain,-,Manzanillera de Huercal Overa, europaea,Spain
+EU45,S12,0.048415424,0.71,31.19,Spain,-,Manzanillera de Huercal Overa, europaea,Spain
+EU45,S10,0.274593036,0.71,31.19,Spain,-,Manzanillera de Huercal Overa, europaea,Spain
+EU46,S6,0,0.72,32.87,Spain,-,Hojiblanca, europaea,Spain
+EU46,S9,0.007574486,0.72,32.87,Spain,-,Hojiblanca, europaea,Spain
+EU46,S10,0.029266916,0.72,32.87,Spain,-,Hojiblanca, europaea,Spain
+EU87,S1,0.096933115,0.7,24.4,Greece,-,Makris, europaea,Greece
+EU46,S2,0.005563972,0.72,32.87,Spain,-,Hojiblanca, europaea,Spain
+EU46,S3,0,0.72,32.87,Spain,-,Hojiblanca, europaea,Spain
+EU46,S4,0,0.72,32.87,Spain,-,Hojiblanca, europaea,Spain
+EU46,S5,0.020501216,0.72,32.87,Spain,-,Hojiblanca, europaea,Spain
+EU46,S11,0,0.72,32.87,Spain,-,Hojiblanca, europaea,Spain
+EU46,S7,0.912269114,0.72,32.87,Spain,-,Hojiblanca, europaea,Spain
+EU46,S8,0.000485907,0.72,32.87,Spain,-,Hojiblanca, europaea,Spain
+EU46,S12,0.008852419,0.72,32.87,Spain,-,Hojiblanca, europaea,Spain
+EU47,S10,0.113017403,0.71,25.25,Greece,-,Kalamon, europaea,Greece
+EU47,S8,0.003832343,0.71,25.25,Greece,-,Kalamon, europaea,Greece
+EU91,S1,0.095048144,0.65,28.94,Greece,-,Throumpa Thasou, europaea,Greece
+EU47,S2,0.068719698,0.71,25.25,Greece,-,Kalamon, europaea,Greece
+EU47,S3,3.47E-05,0.71,25.25,Greece,-,Kalamon, europaea,Greece
+EU47,S4,0.000264241,0.71,25.25,Greece,-,Kalamon, europaea,Greece
+EU47,S5,0.049373904,0.71,25.25,Greece,-,Kalamon, europaea,Greece
+EU47,S6,0,0.71,25.25,Greece,-,Kalamon, europaea,Greece
+EU47,S7,0.663172318,0.71,25.25,Greece,-,Kalamon, europaea,Greece
+EU47,S11,0.087329265,0.71,25.25,Greece,-,Kalamon, europaea,Greece
+EU47,S12,0.014256131,0.71,25.25,Greece,-,Kalamon, europaea,Greece
+EU47,S9,0,0.71,25.25,Greece,-,Kalamon, europaea,Greece
+EU48,S12,0,0.62,36.63,Spain,-,Picual, europaea,Spain
+EU48,S9,0,0.62,36.63,Spain,-,Picual, europaea,Spain
+EU48,S10,0,0.62,36.63,Spain,-,Picual, europaea,Spain
+EU70,S1,0.093934238,0.67,25.77,Greece,-,Gaidourelia, europaea,Greece
+EU48,S2,0,0.62,36.63,Spain,-,Picual, europaea,Spain
+EU48,S3,0,0.62,36.63,Spain,-,Picual, europaea,Spain
+EU48,S4,0,0.62,36.63,Spain,-,Picual, europaea,Spain
+EU48,S5,0,0.62,36.63,Spain,-,Picual, europaea,Spain
+EU48,S6,0,0.62,36.63,Spain,-,Picual, europaea,Spain
+EU48,S7,1,0.62,36.63,Spain,-,Picual, europaea,Spain
+EU48,S8,0,0.62,36.63,Spain,-,Picual, europaea,Spain
+EU48,S11,0,0.62,36.63,Spain,-,Picual, europaea,Spain
+EU5,S12,0.034441788,0.69,38.8,Italy,-,Grappolo, europaea,Italy
+IC17,S1,0.090110645,0.87,23,Iran,Golestan,Uzineh 5, europaea,Golestan
+EU5,S2,0.214253459,0.69,38.8,Italy,-,Grappolo, europaea,Italy
+EU5,S3,0,0.69,38.8,Italy,-,Grappolo, europaea,Italy
+EU5,S4,0,0.69,38.8,Italy,-,Grappolo, europaea,Italy
+EU5,S5,0.006655931,0.69,38.8,Italy,-,Grappolo, europaea,Italy
+EU5,S6,0,0.69,38.8,Italy,-,Grappolo, europaea,Italy
+EU5,S7,0.332397985,0.69,38.8,Italy,-,Grappolo, europaea,Italy
+EU5,S8,0.008031108,0.69,38.8,Italy,-,Grappolo, europaea,Italy
+EU5,S9,0.011914887,0.69,38.8,Italy,-,Grappolo, europaea,Italy
+EU5,S10,0.325254476,0.69,38.8,Italy,-,Grappolo, europaea,Italy
+EU5,S11,0.035781299,0.69,38.8,Italy,-,Grappolo, europaea,Italy
+EU16,S1,0.089803319,0.78,37.46,Spain,-,Llumeta, europaea,Spain
+EU52,S2,0,0.62,36.6,Spain,-,SRR10075692, europaea,Spain
+EU52,S3,0,0.62,36.6,Spain,-,SRR10075692, europaea,Spain
+EU52,S4,0,0.62,36.6,Spain,-,SRR10075692, europaea,Spain
+EU52,S5,0,0.62,36.6,Spain,-,SRR10075692, europaea,Spain
+EU52,S6,0,0.62,36.6,Spain,-,SRR10075692, europaea,Spain
+EU52,S7,1,0.62,36.6,Spain,-,SRR10075692, europaea,Spain
+EU52,S8,0,0.62,36.6,Spain,-,SRR10075692, europaea,Spain
+EU52,S9,0,0.62,36.6,Spain,-,SRR10075692, europaea,Spain
+EU52,S10,0,0.62,36.6,Spain,-,SRR10075692, europaea,Spain
+EU52,S11,0,0.62,36.6,Spain,-,SRR10075692, europaea,Spain
+EU52,S12,0,0.62,36.6,Spain,-,SRR10075692, europaea,Spain
+EU83,S1,0.089697682,0.66,28.93,Greece,-,Thiaki, europaea,Greece
+EU53,S2,0,0.62,36.61,Spain,-,SRR10075695, europaea,Spain
+EU53,S3,0,0.62,36.61,Spain,-,SRR10075695, europaea,Spain
+EU53,S4,0,0.62,36.61,Spain,-,SRR10075695, europaea,Spain
+EU53,S5,0,0.62,36.61,Spain,-,SRR10075695, europaea,Spain
+EU53,S6,0,0.62,36.61,Spain,-,SRR10075695, europaea,Spain
+EU53,S7,1,0.62,36.61,Spain,-,SRR10075695, europaea,Spain
+EU53,S8,0,0.62,36.61,Spain,-,SRR10075695, europaea,Spain
+EU53,S9,0,0.62,36.61,Spain,-,SRR10075695, europaea,Spain
+EU53,S10,0,0.62,36.61,Spain,-,SRR10075695, europaea,Spain
+EU53,S11,0,0.62,36.61,Spain,-,SRR10075695, europaea,Spain
+EU53,S12,0,0.62,36.61,Spain,-,SRR10075695, europaea,Spain
+IC93a,S1,0.089472116,0.87,17.11,Iran,Fars,Tokhmkabki, europaea,Fars
+EU54,S2,0,0.62,36.6,Spain,-,SRR10075694, europaea,Spain
+EU54,S3,0,0.62,36.6,Spain,-,SRR10075694, europaea,Spain
+EU54,S4,0,0.62,36.6,Spain,-,SRR10075694, europaea,Spain
+EU54,S5,0,0.62,36.6,Spain,-,SRR10075694, europaea,Spain
+EU54,S6,0,0.62,36.6,Spain,-,SRR10075694, europaea,Spain
+EU54,S7,1,0.62,36.6,Spain,-,SRR10075694, europaea,Spain
+EU54,S8,0,0.62,36.6,Spain,-,SRR10075694, europaea,Spain
+EU54,S9,0,0.62,36.6,Spain,-,SRR10075694, europaea,Spain
+EU54,S10,0,0.62,36.6,Spain,-,SRR10075694, europaea,Spain
+EU54,S11,0,0.62,36.6,Spain,-,SRR10075694, europaea,Spain
+EU54,S12,0,0.62,36.6,Spain,-,SRR10075694, europaea,Spain
+EU86,S1,0.087798251,0.7,26.96,Greece,-,Asprolia Alexandroupolis, europaea,Greece
+EU57,S2,0.16310339,0.67,32.48,Italy,-,Frantoio 2, europaea,Italy
+EU57,S3,0.002756693,0.67,32.48,Italy,-,Frantoio 2, europaea,Italy
+EU57,S4,0,0.67,32.48,Italy,-,Frantoio 2, europaea,Italy
+EU57,S5,0,0.67,32.48,Italy,-,Frantoio 2, europaea,Italy
+EU57,S6,0,0.67,32.48,Italy,-,Frantoio 2, europaea,Italy
+EU57,S7,0.088298443,0.67,32.48,Italy,-,Frantoio 2, europaea,Italy
+EU57,S8,0,0.67,32.48,Italy,-,Frantoio 2, europaea,Italy
+EU57,S9,0.022680723,0.67,32.48,Italy,-,Frantoio 2, europaea,Italy
+EU57,S10,0.673028803,0.67,32.48,Italy,-,Frantoio 2, europaea,Italy
+EU57,S11,0.006278862,0.67,32.48,Italy,-,Frantoio 2, europaea,Italy
+EU57,S12,0.004130206,0.67,32.48,Italy,-,Frantoio 2, europaea,Italy
+IC7,S1,0.087630654,0.87,24.49,Iran,Khuzestan,Mavi 2, europaea,Khuzestan
+EU58,S2,0.018326834,0.67,31.42,Greece,-,Koroneiki, europaea,Greece
+EU58,S3,0,0.67,31.42,Greece,-,Koroneiki, europaea,Greece
+EU58,S4,0,0.67,31.42,Greece,-,Koroneiki, europaea,Greece
+EU58,S5,0,0.67,31.42,Greece,-,Koroneiki, europaea,Greece
+EU58,S6,0,0.67,31.42,Greece,-,Koroneiki, europaea,Greece
+EU58,S7,0,0.67,31.42,Greece,-,Koroneiki, europaea,Greece
+EU58,S8,0.013434763,0.67,31.42,Greece,-,Koroneiki, europaea,Greece
+EU58,S9,0,0.67,31.42,Greece,-,Koroneiki, europaea,Greece
+EU58,S10,0.95571058,0.67,31.42,Greece,-,Koroneiki, europaea,Greece
+EU58,S11,0,0.67,31.42,Greece,-,Koroneiki, europaea,Greece
+EU58,S12,0.012527823,0.67,31.42,Greece,-,Koroneiki, europaea,Greece
+IC6a,S1,0.087623997,0.85,21.66,Iran,Khuzestan,Mavi 1, europaea,Khuzestan
+EU59,S2,0.398621831,0.67,24.77,Algeria,-, Chemlal de Kabilye, europaea,Algeria
+EU59,S3,0,0.67,24.77,Algeria,-, Chemlal de Kabilye, europaea,Algeria
+EU59,S4,0,0.67,24.77,Algeria,-, Chemlal de Kabilye, europaea,Algeria
+EU59,S5,0.000417891,0.67,24.77,Algeria,-, Chemlal de Kabilye, europaea,Algeria
+EU59,S6,0.003116738,0.67,24.77,Algeria,-, Chemlal de Kabilye, europaea,Algeria
+EU59,S7,0.365951817,0.67,24.77,Algeria,-, Chemlal de Kabilye, europaea,Algeria
+EU59,S8,0.006593987,0.67,24.77,Algeria,-, Chemlal de Kabilye, europaea,Algeria
+EU59,S9,0,0.67,24.77,Algeria,-, Chemlal de Kabilye, europaea,Algeria
+EU59,S10,0.217219023,0.67,24.77,Algeria,-, Chemlal de Kabilye, europaea,Algeria
+EU59,S11,0,0.67,24.77,Algeria,-, Chemlal de Kabilye, europaea,Algeria
+EU59,S12,0.008078714,0.67,24.77,Algeria,-, Chemlal de Kabilye, europaea,Algeria
+EU88,S1,0.086955828,0.64,30.14,Greece,-,Mavrelia Serron, europaea,Greece
+EU6,S2,1,0.68,32.72,Spain,-,Wild 11, Sylvestris,Spain
+EU6,S3,0,0.68,32.72,Spain,-,Wild 11, Sylvestris,Spain
+EU6,S4,0,0.68,32.72,Spain,-,Wild 11, Sylvestris,Spain
+EU6,S5,0,0.68,32.72,Spain,-,Wild 11, Sylvestris,Spain
+EU6,S6,0,0.68,32.72,Spain,-,Wild 11, Sylvestris,Spain
+EU6,S7,0,0.68,32.72,Spain,-,Wild 11, Sylvestris,Spain
+EU6,S8,0,0.68,32.72,Spain,-,Wild 11, Sylvestris,Spain
+EU6,S9,0,0.68,32.72,Spain,-,Wild 11, Sylvestris,Spain
+EU6,S10,0,0.68,32.72,Spain,-,Wild 11, Sylvestris,Spain
+EU6,S11,0,0.68,32.72,Spain,-,Wild 11, Sylvestris,Spain
+EU6,S12,0,0.68,32.72,Spain,-,Wild 11, Sylvestris,Spain
+EU110,S1,0.083023485,0.65,24.62,Greece,-,Chondrolia Chalkidikis, europaea,Greece
+EU60,S2,0.189386063,0.66,31.66,Greece,-,Megaritiki , europaea,Greece
+EU60,S3,0,0.66,31.66,Greece,-,Megaritiki , europaea,Greece
+EU60,S4,0,0.66,31.66,Greece,-,Megaritiki , europaea,Greece
+EU60,S5,0,0.66,31.66,Greece,-,Megaritiki , europaea,Greece
+EU60,S6,0.006031804,0.66,31.66,Greece,-,Megaritiki , europaea,Greece
+EU60,S7,0.022031275,0.66,31.66,Greece,-,Megaritiki , europaea,Greece
+EU60,S8,0.015593727,0.66,31.66,Greece,-,Megaritiki , europaea,Greece
+EU60,S9,0,0.66,31.66,Greece,-,Megaritiki , europaea,Greece
+EU60,S10,0.766957132,0.66,31.66,Greece,-,Megaritiki , europaea,Greece
+EU60,S11,0,0.66,31.66,Greece,-,Megaritiki , europaea,Greece
+EU60,S12,0,0.66,31.66,Greece,-,Megaritiki , europaea,Greece
+IC9b,S1,0.082024386,0.87,21.04,Iran,Khorasan-e-jonoubi,Fosoon, europaea,Khorasan-e-jonoubi
+EU61,S2,0.036148935,0.7,23.38,Spain,-,Lechin de Granada, europaea,Spain
+EU61,S3,0,0.7,23.38,Spain,-,Lechin de Granada, europaea,Spain
+EU61,S4,0,0.7,23.38,Spain,-,Lechin de Granada, europaea,Spain
+EU61,S5,0,0.7,23.38,Spain,-,Lechin de Granada, europaea,Spain
+EU61,S6,0,0.7,23.38,Spain,-,Lechin de Granada, europaea,Spain
+EU61,S7,0.497686591,0.7,23.38,Spain,-,Lechin de Granada, europaea,Spain
+EU61,S8,0,0.7,23.38,Spain,-,Lechin de Granada, europaea,Spain
+EU61,S9,0,0.7,23.38,Spain,-,Lechin de Granada, europaea,Spain
+EU61,S10,0.383023856,0.7,23.38,Spain,-,Lechin de Granada, europaea,Spain
+EU61,S11,0,0.7,23.38,Spain,-,Lechin de Granada, europaea,Spain
+EU61,S12,0.045739966,0.7,23.38,Spain,-,Lechin de Granada, europaea,Spain
+IC3,S1,0.081282807,0.86,17.96,Iran,Khuzestan,Ketfe goushe, europaea,Khuzestan
+EU62,S2,0.979457861,0.66,54.36,Spain,-,Pechon, Sylvestris,Spain
+EU62,S3,0,0.66,54.36,Spain,-,Pechon, Sylvestris,Spain
+EU62,S4,0,0.66,54.36,Spain,-,Pechon, Sylvestris,Spain
+EU62,S5,0,0.66,54.36,Spain,-,Pechon, Sylvestris,Spain
+EU62,S6,0,0.66,54.36,Spain,-,Pechon, Sylvestris,Spain
+EU62,S7,0,0.66,54.36,Spain,-,Pechon, Sylvestris,Spain
+EU62,S8,0,0.66,54.36,Spain,-,Pechon, Sylvestris,Spain
+EU62,S9,0,0.66,54.36,Spain,-,Pechon, Sylvestris,Spain
+EU62,S10,0,0.66,54.36,Spain,-,Pechon, Sylvestris,Spain
+EU62,S11,0,0.66,54.36,Spain,-,Pechon, Sylvestris,Spain
+EU62,S12,0.020542139,0.66,54.36,Spain,-,Pechon, Sylvestris,Spain
+EU92,S1,0.080776333,0.49,26.98,Greece,-,Galatistas Ag. Orous, europaea,Greece
+EU63,S2,0,0.59,55.2,Greece,-,Cuspidata, Cuspidata,Greece
+EU63,S3,1,0.59,55.2,Greece,-,Cuspidata, Cuspidata,Greece
+EU63,S4,0,0.59,55.2,Greece,-,Cuspidata, Cuspidata,Greece
+EU63,S5,0,0.59,55.2,Greece,-,Cuspidata, Cuspidata,Greece
+EU63,S6,0,0.59,55.2,Greece,-,Cuspidata, Cuspidata,Greece
+EU63,S7,0,0.59,55.2,Greece,-,Cuspidata, Cuspidata,Greece
+EU63,S8,0,0.59,55.2,Greece,-,Cuspidata, Cuspidata,Greece
+EU63,S9,0,0.59,55.2,Greece,-,Cuspidata, Cuspidata,Greece
+EU63,S10,0,0.59,55.2,Greece,-,Cuspidata, Cuspidata,Greece
+EU63,S11,0,0.59,55.2,Greece,-,Cuspidata, Cuspidata,Greece
+EU63,S12,0,0.59,55.2,Greece,-,Cuspidata, Cuspidata,Greece
+EU104,S1,0.080087436,0.66,27.99,Greece,-,Chalkidikis, europaea,Greece
+EU64,S2,0.16257845,0.68,49.14,Spain,-,Lechin_Sevilla1, europaea,Spain
+EU64,S3,0,0.68,49.14,Spain,-,Lechin_Sevilla1, europaea,Spain
+EU64,S4,0,0.68,49.14,Spain,-,Lechin_Sevilla1, europaea,Spain
+EU64,S5,0,0.68,49.14,Spain,-,Lechin_Sevilla1, europaea,Spain
+EU64,S6,0,0.68,49.14,Spain,-,Lechin_Sevilla1, europaea,Spain
+EU64,S7,0.815921708,0.68,49.14,Spain,-,Lechin_Sevilla1, europaea,Spain
+EU64,S8,0.002819276,0.68,49.14,Spain,-,Lechin_Sevilla1, europaea,Spain
+EU64,S9,0,0.68,49.14,Spain,-,Lechin_Sevilla1, europaea,Spain
+EU64,S10,0,0.68,49.14,Spain,-,Lechin_Sevilla1, europaea,Spain
+EU64,S11,0,0.68,49.14,Spain,-,Lechin_Sevilla1, europaea,Spain
+EU64,S12,0.018680567,0.68,49.14,Spain,-,Lechin_Sevilla1, europaea,Spain
+EU11,S1,0.075444536,0.69,32.71,Spain,-,Pinonera, europaea,Spain
+EU65,S2,0.172621832,0.68,47.02,Spain,-,Lechin_Sevilla2, europaea,Spain
+EU65,S3,0,0.68,47.02,Spain,-,Lechin_Sevilla2, europaea,Spain
+EU65,S4,0,0.68,47.02,Spain,-,Lechin_Sevilla2, europaea,Spain
+EU65,S5,0,0.68,47.02,Spain,-,Lechin_Sevilla2, europaea,Spain
+EU65,S6,0,0.68,47.02,Spain,-,Lechin_Sevilla2, europaea,Spain
+EU65,S7,0.827378168,0.68,47.02,Spain,-,Lechin_Sevilla2, europaea,Spain
+EU65,S8,0,0.68,47.02,Spain,-,Lechin_Sevilla2, europaea,Spain
+EU65,S9,0,0.68,47.02,Spain,-,Lechin_Sevilla2, europaea,Spain
+EU65,S10,0,0.68,47.02,Spain,-,Lechin_Sevilla2, europaea,Spain
+EU65,S11,0,0.68,47.02,Spain,-,Lechin_Sevilla2, europaea,Spain
+EU65,S12,0,0.68,47.02,Spain,-,Lechin_Sevilla2, europaea,Spain
+IC1,S1,0.07511371,0.87,21.18,Iran,Lorestan,Sepid dasht, europaea,Lorestan
+EU66,S2,0,0.68,47.14,Spain,-,Picual, europaea,Spain
+EU66,S3,0,0.68,47.14,Spain,-,Picual, europaea,Spain
+EU66,S4,0,0.68,47.14,Spain,-,Picual, europaea,Spain
+EU66,S5,0,0.68,47.14,Spain,-,Picual, europaea,Spain
+EU66,S6,0,0.68,47.14,Spain,-,Picual, europaea,Spain
+EU66,S7,1,0.68,47.14,Spain,-,Picual, europaea,Spain
+EU66,S8,0,0.68,47.14,Spain,-,Picual, europaea,Spain
+EU66,S9,0,0.68,47.14,Spain,-,Picual, europaea,Spain
+EU66,S10,0,0.68,47.14,Spain,-,Picual, europaea,Spain
+EU66,S11,0,0.68,47.14,Spain,-,Picual, europaea,Spain
+EU66,S12,0,0.68,47.14,Spain,-,Picual, europaea,Spain
+IC15b,S1,0.074736514,0.88,18.13,Iran,Golestan,Uzineh 3, europaea,Golestan
+EU67,S2,0,0.69,58.28,Syria,-,Sorani, europaea,Syria
+EU67,S3,0.000227524,0.69,58.28,Syria,-,Sorani, europaea,Syria
+EU67,S4,0,0.69,58.28,Syria,-,Sorani, europaea,Syria
+EU67,S5,0,0.69,58.28,Syria,-,Sorani, europaea,Syria
+EU67,S6,0,0.69,58.28,Syria,-,Sorani, europaea,Syria
+EU67,S7,0.409091535,0.69,58.28,Syria,-,Sorani, europaea,Syria
+EU67,S8,0,0.69,58.28,Syria,-,Sorani, europaea,Syria
+EU67,S9,0.067339729,0.69,58.28,Syria,-,Sorani, europaea,Syria
+EU67,S10,0.102569391,0.69,58.28,Syria,-,Sorani, europaea,Syria
+EU67,S11,0.175324569,0.69,58.28,Syria,-,Sorani, europaea,Syria
+EU67,S12,0,0.69,58.28,Syria,-,Sorani, europaea,Syria
+EU45,S1,0.074686443,0.71,31.19,Spain,-,Manzanillera de Huercal Overa, europaea,Spain
+EU68,S2,0,1,56.1,Lebanon,-,Beladi, europaea,Lebanon
+EU68,S3,0,1,56.1,Lebanon,-,Beladi, europaea,Lebanon
+EU68,S4,0,1,56.1,Lebanon,-,Beladi, europaea,Lebanon
+EU68,S5,0,1,56.1,Lebanon,-,Beladi, europaea,Lebanon
+EU68,S6,0,1,56.1,Lebanon,-,Beladi, europaea,Lebanon
+EU68,S7,0.400028077,1,56.1,Lebanon,-,Beladi, europaea,Lebanon
+EU68,S8,0,1,56.1,Lebanon,-,Beladi, europaea,Lebanon
+EU68,S9,0.131010519,1,56.1,Lebanon,-,Beladi, europaea,Lebanon
+EU68,S10,0.115506072,1,56.1,Lebanon,-,Beladi, europaea,Lebanon
+EU68,S11,0.127823224,1,56.1,Lebanon,-,Beladi, europaea,Lebanon
+EU68,S12,0,1,56.1,Lebanon,-,Beladi, europaea,Lebanon
+IC50b,S1,0.071846593,0.87,20.15,Iran,Tarom,T2, europaea,Tarom
+EU69,S2,0.078474115,0.69,54.13,Spain,-,Arbequina, europaea,Spain
+EU69,S3,0,0.69,54.13,Spain,-,Arbequina, europaea,Spain
+EU69,S4,0,0.69,54.13,Spain,-,Arbequina, europaea,Spain
+EU69,S5,0,0.69,54.13,Spain,-,Arbequina, europaea,Spain
+EU69,S6,0,0.69,54.13,Spain,-,Arbequina, europaea,Spain
+EU69,S7,0.058577101,0.69,54.13,Spain,-,Arbequina, europaea,Spain
+EU69,S8,0.012434362,0.69,54.13,Spain,-,Arbequina, europaea,Spain
+EU69,S9,0,0.69,54.13,Spain,-,Arbequina, europaea,Spain
+EU69,S10,0.773103766,0.69,54.13,Spain,-,Arbequina, europaea,Spain
+EU69,S11,0.021334742,0.69,54.13,Spain,-,Arbequina, europaea,Spain
+EU69,S12,0,0.69,54.13,Spain,-,Arbequina, europaea,Spain
+IC123,S1,0.066768376,0.86,15.38,Iran,Golestan,CTO50, europaea,Golestan
+EU7,S2,0.767190587,0.69,34.77,Albania,-,Wild 09, Sylvestris,Albania
+EU7,S3,0,0.69,34.77,Albania,-,Wild 09, Sylvestris,Albania
+EU7,S4,0.007420664,0.69,34.77,Albania,-,Wild 09, Sylvestris,Albania
+EU7,S5,0,0.69,34.77,Albania,-,Wild 09, Sylvestris,Albania
+EU7,S6,0,0.69,34.77,Albania,-,Wild 09, Sylvestris,Albania
+EU7,S7,0,0.69,34.77,Albania,-,Wild 09, Sylvestris,Albania
+EU7,S8,0,0.69,34.77,Albania,-,Wild 09, Sylvestris,Albania
+EU7,S9,0.004768469,0.69,34.77,Albania,-,Wild 09, Sylvestris,Albania
+EU7,S10,0.213783166,0.69,34.77,Albania,-,Wild 09, Sylvestris,Albania
+EU7,S11,0.006837114,0.69,34.77,Albania,-,Wild 09, Sylvestris,Albania
+EU7,S12,0,0.69,34.77,Albania,-,Wild 09, Sylvestris,Albania
+EU113,S1,0.063634719,0.67,28.32,Greece,-,Konservolia Amfissis, europaea,Greece
+EU70,S2,0,0.67,25.77,Greece,-,Gaidourelia, europaea,Greece
+EU70,S3,0,0.67,25.77,Greece,-,Gaidourelia, europaea,Greece
+EU70,S4,0.031380809,0.67,25.77,Greece,-,Gaidourelia, europaea,Greece
+EU70,S5,0.054652963,0.67,25.77,Greece,-,Gaidourelia, europaea,Greece
+EU70,S6,0.015161039,0.67,25.77,Greece,-,Gaidourelia, europaea,Greece
+EU70,S7,0.412669099,0.67,25.77,Greece,-,Gaidourelia, europaea,Greece
+EU70,S8,0,0.67,25.77,Greece,-,Gaidourelia, europaea,Greece
+EU70,S9,0.113442344,0.67,25.77,Greece,-,Gaidourelia, europaea,Greece
+EU70,S10,0.068233106,0.67,25.77,Greece,-,Gaidourelia, europaea,Greece
+EU70,S11,0.210526402,0.67,25.77,Greece,-,Gaidourelia, europaea,Greece
+EU70,S12,0,0.67,25.77,Greece,-,Gaidourelia, europaea,Greece
+EU3,S1,0.061053764,0.69,33.86,Albania,-,Klon-14-1812, europaea,Albania
+EU71,S2,0.074536326,0.68,25.13,Greece,-,Myrtolia, europaea,Greece
+EU71,S3,0,0.68,25.13,Greece,-,Myrtolia, europaea,Greece
+EU71,S4,0.013785682,0.68,25.13,Greece,-,Myrtolia, europaea,Greece
+EU71,S5,0.027243361,0.68,25.13,Greece,-,Myrtolia, europaea,Greece
+EU71,S6,0.027752461,0.68,25.13,Greece,-,Myrtolia, europaea,Greece
+EU71,S7,0.087176235,0.68,25.13,Greece,-,Myrtolia, europaea,Greece
+EU71,S8,0.017856135,0.68,25.13,Greece,-,Myrtolia, europaea,Greece
+EU71,S9,0.023661808,0.68,25.13,Greece,-,Myrtolia, europaea,Greece
+EU71,S10,0.625922074,0.68,25.13,Greece,-,Myrtolia, europaea,Greece
+EU71,S11,0.080088195,0.68,25.13,Greece,-,Myrtolia, europaea,Greece
+EU71,S12,0.010436046,0.68,25.13,Greece,-,Myrtolia, europaea,Greece
+EU24,S1,0.059412602,0.79,32.15,Spain,-,Forastera de Tortosa, europaea,Spain
+EU72,S2,0.054398147,0.64,27.41,Greece,-,Tragolia, europaea,Greece
+EU72,S3,0.006882746,0.64,27.41,Greece,-,Tragolia, europaea,Greece
+EU72,S4,0.012663938,0.64,27.41,Greece,-,Tragolia, europaea,Greece
+EU72,S5,0.006763246,0.64,27.41,Greece,-,Tragolia, europaea,Greece
+EU72,S6,0.000424323,0.64,27.41,Greece,-,Tragolia, europaea,Greece
+EU72,S7,0.182216616,0.64,27.41,Greece,-,Tragolia, europaea,Greece
+EU72,S8,0.01632552,0.64,27.41,Greece,-,Tragolia, europaea,Greece
+EU72,S9,0,0.64,27.41,Greece,-,Tragolia, europaea,Greece
+EU72,S10,0.706646808,0.64,27.41,Greece,-,Tragolia, europaea,Greece
+EU72,S11,0.013678655,0.64,27.41,Greece,-,Tragolia, europaea,Greece
+EU72,S12,0,0.64,27.41,Greece,-,Tragolia, europaea,Greece
+IC22,S1,0.058743158,0.87,14.82,Iran,Golestan,Ghazanghaye 7, europaea,Golestan
+EU73,S2,0.24285311,0.66,23.12,Greece,-,Mavrolia Lefkados, europaea,Greece
+EU73,S3,0.000164598,0.66,23.12,Greece,-,Mavrolia Lefkados, europaea,Greece
+EU73,S4,0.018099115,0.66,23.12,Greece,-,Mavrolia Lefkados, europaea,Greece
+EU73,S5,0,0.66,23.12,Greece,-,Mavrolia Lefkados, europaea,Greece
+EU73,S6,0.016642502,0.66,23.12,Greece,-,Mavrolia Lefkados, europaea,Greece
+EU73,S7,0.251133127,0.66,23.12,Greece,-,Mavrolia Lefkados, europaea,Greece
+EU73,S8,0.00664048,0.66,23.12,Greece,-,Mavrolia Lefkados, europaea,Greece
+EU73,S9,0.026092219,0.66,23.12,Greece,-,Mavrolia Lefkados, europaea,Greece
+EU73,S10,0.354334559,0.66,23.12,Greece,-,Mavrolia Lefkados, europaea,Greece
+EU73,S11,0.084040291,0.66,23.12,Greece,-,Mavrolia Lefkados, europaea,Greece
+EU73,S12,0,0.66,23.12,Greece,-,Mavrolia Lefkados, europaea,Greece
+EU69,S1,0.056075914,0.69,54.13,Spain,-,Arbequina, europaea,Spain
+EU74,S2,0,0.65,30.55,Greece,-,Pierias, europaea,Greece
+EU74,S3,0,0.65,30.55,Greece,-,Pierias, europaea,Greece
+EU74,S4,0.000360521,0.65,30.55,Greece,-,Pierias, europaea,Greece
+EU74,S5,0.053237715,0.65,30.55,Greece,-,Pierias, europaea,Greece
+EU74,S6,0,0.65,30.55,Greece,-,Pierias, europaea,Greece
+EU74,S7,0.509378366,0.65,30.55,Greece,-,Pierias, europaea,Greece
+EU74,S8,0,0.65,30.55,Greece,-,Pierias, europaea,Greece
+EU74,S9,0.077629841,0.65,30.55,Greece,-,Pierias, europaea,Greece
+EU74,S10,0.146753415,0.65,30.55,Greece,-,Pierias, europaea,Greece
+EU74,S11,0.106010986,0.65,30.55,Greece,-,Pierias, europaea,Greece
+EU74,S12,0,0.65,30.55,Greece,-,Pierias, europaea,Greece
+IC4b,S1,0.055314596,0.86,20.4,Iran,Khuzestan,Avend, europaea,Khuzestan
+EU75,S2,0.21860638,0.63,26.06,Greece,-,Matolia Ilias, europaea,Greece
+EU75,S3,0.003035398,0.63,26.06,Greece,-,Matolia Ilias, europaea,Greece
+EU75,S4,0.019170814,0.63,26.06,Greece,-,Matolia Ilias, europaea,Greece
+EU75,S5,0.000473068,0.63,26.06,Greece,-,Matolia Ilias, europaea,Greece
+EU75,S6,0.000528225,0.63,26.06,Greece,-,Matolia Ilias, europaea,Greece
+EU75,S7,0.196890882,0.63,26.06,Greece,-,Matolia Ilias, europaea,Greece
+EU75,S8,0.012505872,0.63,26.06,Greece,-,Matolia Ilias, europaea,Greece
+EU75,S9,0,0.63,26.06,Greece,-,Matolia Ilias, europaea,Greece
+EU75,S10,0.450522895,0.63,26.06,Greece,-,Matolia Ilias, europaea,Greece
+EU75,S11,0.063146211,0.63,26.06,Greece,-,Matolia Ilias, europaea,Greece
+EU75,S12,0,0.63,26.06,Greece,-,Matolia Ilias, europaea,Greece
+IC5,S1,0.054261601,0.86,20.35,Iran,Khuzestan,Chele nesa'a, europaea,Khuzestan
+EU76,S2,0.016733628,0.65,29.49,Greece,-,Asprolia Lefkados, europaea,Greece
+EU76,S3,0,0.65,29.49,Greece,-,Asprolia Lefkados, europaea,Greece
+EU76,S4,0.007769101,0.65,29.49,Greece,-,Asprolia Lefkados, europaea,Greece
+EU76,S5,0,0.65,29.49,Greece,-,Asprolia Lefkados, europaea,Greece
+EU76,S6,0.001077596,0.65,29.49,Greece,-,Asprolia Lefkados, europaea,Greece
+EU76,S7,0.152305613,0.65,29.49,Greece,-,Asprolia Lefkados, europaea,Greece
+EU76,S8,0.002561106,0.65,29.49,Greece,-,Asprolia Lefkados, europaea,Greece
+EU76,S9,0.001779752,0.65,29.49,Greece,-,Asprolia Lefkados, europaea,Greece
+EU76,S10,0.525916868,0.65,29.49,Greece,-,Asprolia Lefkados, europaea,Greece
+EU76,S11,0.121203074,0.65,29.49,Greece,-,Asprolia Lefkados, europaea,Greece
+EU76,S12,0,0.65,29.49,Greece,-,Asprolia Lefkados, europaea,Greece
+IC64,S1,0.05258063,0.87,20.53,Iran,Tarom,T18, europaea,Tarom
+EU77,S2,0,0.71,26.08,Greece,-,Rachati, europaea,Greece
+EU77,S3,0,0.71,26.08,Greece,-,Rachati, europaea,Greece
+EU77,S4,0.006113023,0.71,26.08,Greece,-,Rachati, europaea,Greece
+EU77,S5,0,0.71,26.08,Greece,-,Rachati, europaea,Greece
+EU77,S6,0.002001329,0.71,26.08,Greece,-,Rachati, europaea,Greece
+EU77,S7,0.01400109,0.71,26.08,Greece,-,Rachati, europaea,Greece
+EU77,S8,0,0.71,26.08,Greece,-,Rachati, europaea,Greece
+EU77,S9,0.010971002,0.71,26.08,Greece,-,Rachati, europaea,Greece
+EU77,S10,0.895154488,0.71,26.08,Greece,-,Rachati, europaea,Greece
+EU77,S11,0.041977113,0.71,26.08,Greece,-,Rachati, europaea,Greece
+EU77,S12,0,0.71,26.08,Greece,-,Rachati, europaea,Greece
+EU40,S1,0.052468625,0.78,43.55,Spain,-,Arbequina, europaea,Spain
+EU78,S2,0.156835623,0.63,26.91,Greece,-,Lianolia Kerkyras, europaea,Greece
+EU78,S3,0,0.63,26.91,Greece,-,Lianolia Kerkyras, europaea,Greece
+EU78,S4,0.015676029,0.63,26.91,Greece,-,Lianolia Kerkyras, europaea,Greece
+EU78,S5,0,0.63,26.91,Greece,-,Lianolia Kerkyras, europaea,Greece
+EU78,S6,0.012077151,0.63,26.91,Greece,-,Lianolia Kerkyras, europaea,Greece
+EU78,S7,0.038032367,0.63,26.91,Greece,-,Lianolia Kerkyras, europaea,Greece
+EU78,S8,0,0.63,26.91,Greece,-,Lianolia Kerkyras, europaea,Greece
+EU78,S9,0,0.63,26.91,Greece,-,Lianolia Kerkyras, europaea,Greece
+EU78,S10,0.77737883,0.63,26.91,Greece,-,Lianolia Kerkyras, europaea,Greece
+EU78,S11,0,0.63,26.91,Greece,-,Lianolia Kerkyras, europaea,Greece
+EU78,S12,0,0.63,26.91,Greece,-,Lianolia Kerkyras, europaea,Greece
+EU105,S1,0.050210374,0.67,23.42,Greece,-,Mastoidis, europaea,Greece
+EU79,S2,0,0.67,26.92,Greece,-,Karydolia, europaea,Greece
+EU79,S3,0,0.67,26.92,Greece,-,Karydolia, europaea,Greece
+EU79,S4,0.008834504,0.67,26.92,Greece,-,Karydolia, europaea,Greece
+EU79,S5,0,0.67,26.92,Greece,-,Karydolia, europaea,Greece
+EU79,S6,0.001508022,0.67,26.92,Greece,-,Karydolia, europaea,Greece
+EU79,S7,0.30735143,0.67,26.92,Greece,-,Karydolia, europaea,Greece
+EU79,S8,0,0.67,26.92,Greece,-,Karydolia, europaea,Greece
+EU79,S9,0.032199923,0.67,26.92,Greece,-,Karydolia, europaea,Greece
+EU79,S10,0.326879041,0.67,26.92,Greece,-,Karydolia, europaea,Greece
+EU79,S11,0.160390138,0.67,26.92,Greece,-,Karydolia, europaea,Greece
+EU79,S12,0,0.67,26.92,Greece,-,Karydolia, europaea,Greece
+IC13,S1,0.050102714,0.88,39.1,Iran,Golestan,Lemesk, europaea,Golestan
+EU8,S2,0.467949822,0.69,35.48,Morocco,-,Wild 08, Sylvestris,Morocco
+EU8,S3,0,0.69,35.48,Morocco,-,Wild 08, Sylvestris,Morocco
+EU8,S4,0,0.69,35.48,Morocco,-,Wild 08, Sylvestris,Morocco
+EU8,S5,0,0.69,35.48,Morocco,-,Wild 08, Sylvestris,Morocco
+EU8,S6,0.012016898,0.69,35.48,Morocco,-,Wild 08, Sylvestris,Morocco
+EU8,S7,0.435015911,0.69,35.48,Morocco,-,Wild 08, Sylvestris,Morocco
+EU8,S8,0.017455966,0.69,35.48,Morocco,-,Wild 08, Sylvestris,Morocco
+EU8,S9,0,0.69,35.48,Morocco,-,Wild 08, Sylvestris,Morocco
+EU8,S10,0.014397445,0.69,35.48,Morocco,-,Wild 08, Sylvestris,Morocco
+EU8,S11,0,0.69,35.48,Morocco,-,Wild 08, Sylvestris,Morocco
+EU8,S12,0.053163957,0.69,35.48,Morocco,-,Wild 08, Sylvestris,Morocco
+IC71b,S1,0.048121228,0.87,17.25,Iran,Yazd,Tabas, europaea,Yazd
+EU80,S2,0.089475067,0.67,27.63,Greece,-,Kalokairida, europaea,Greece
+EU80,S3,0.001135647,0.67,27.63,Greece,-,Kalokairida, europaea,Greece
+EU80,S4,0.017178196,0.67,27.63,Greece,-,Kalokairida, europaea,Greece
+EU80,S5,0.052279183,0.67,27.63,Greece,-,Kalokairida, europaea,Greece
+EU80,S6,0.008999636,0.67,27.63,Greece,-,Kalokairida, europaea,Greece
+EU80,S7,0.46287293,0.67,27.63,Greece,-,Kalokairida, europaea,Greece
+EU80,S8,0.019496158,0.67,27.63,Greece,-,Kalokairida, europaea,Greece
+EU80,S9,0.046533542,0.67,27.63,Greece,-,Kalokairida, europaea,Greece
+EU80,S10,0.238661269,0.67,27.63,Greece,-,Kalokairida, europaea,Greece
+EU80,S11,0.063368371,0.67,27.63,Greece,-,Kalokairida, europaea,Greece
+EU80,S12,0,0.67,27.63,Greece,-,Kalokairida, europaea,Greece
+EU19,S1,0.046259849,0.71,26.03,Greece,-,Mastoidis, europaea,Greece
+EU81,S2,0,0.67,28.41,Greece,-,Kothreiki, europaea,Greece
+EU81,S3,0,0.67,28.41,Greece,-,Kothreiki, europaea,Greece
+EU81,S4,0,0.67,28.41,Greece,-,Kothreiki, europaea,Greece
+EU81,S5,0,0.67,28.41,Greece,-,Kothreiki, europaea,Greece
+EU81,S6,0,0.67,28.41,Greece,-,Kothreiki, europaea,Greece
+EU81,S7,0.112128617,0.67,28.41,Greece,-,Kothreiki, europaea,Greece
+EU81,S8,0,0.67,28.41,Greece,-,Kothreiki, europaea,Greece
+EU81,S9,0.021349714,0.67,28.41,Greece,-,Kothreiki, europaea,Greece
+EU81,S10,0.508718273,0.67,28.41,Greece,-,Kothreiki, europaea,Greece
+EU81,S11,0.179780993,0.67,28.41,Greece,-,Kothreiki, europaea,Greece
+EU81,S12,0,0.67,28.41,Greece,-,Kothreiki, europaea,Greece
+EU17,S1,0.045334177,0.79,34.69,Israel,-,Barnea, europaea,Israel
+EU82,S2,0.036627016,0.67,31.88,Greece,-,Dafnelia, europaea,Greece
+EU82,S3,0.003972349,0.67,31.88,Greece,-,Dafnelia, europaea,Greece
+EU82,S4,0.012701614,0.67,31.88,Greece,-,Dafnelia, europaea,Greece
+EU82,S5,0,0.67,31.88,Greece,-,Dafnelia, europaea,Greece
+EU82,S6,0.013787134,0.67,31.88,Greece,-,Dafnelia, europaea,Greece
+EU82,S7,0.064467683,0.67,31.88,Greece,-,Dafnelia, europaea,Greece
+EU82,S8,0.022880332,0.67,31.88,Greece,-,Dafnelia, europaea,Greece
+EU82,S9,0.035087761,0.67,31.88,Greece,-,Dafnelia, europaea,Greece
+EU82,S10,0.383949458,0.67,31.88,Greece,-,Dafnelia, europaea,Greece
+EU82,S11,0.173785905,0.67,31.88,Greece,-,Dafnelia, europaea,Greece
+EU82,S12,0.004539432,0.67,31.88,Greece,-,Dafnelia, europaea,Greece
+IC65,S1,0.043611203,0.87,30.18,Iran,Tarom,T19, europaea,Tarom
+EU83,S2,0.219868119,0.66,28.93,Greece,-,Thiaki, europaea,Greece
+EU83,S3,0,0.66,28.93,Greece,-,Thiaki, europaea,Greece
+EU83,S4,0.015638245,0.66,28.93,Greece,-,Thiaki, europaea,Greece
+EU83,S5,0,0.66,28.93,Greece,-,Thiaki, europaea,Greece
+EU83,S6,0.014252766,0.66,28.93,Greece,-,Thiaki, europaea,Greece
+EU83,S7,0.056012607,0.66,28.93,Greece,-,Thiaki, europaea,Greece
+EU83,S8,0.024676506,0.66,28.93,Greece,-,Thiaki, europaea,Greece
+EU83,S9,0,0.66,28.93,Greece,-,Thiaki, europaea,Greece
+EU83,S10,0.528707264,0.66,28.93,Greece,-,Thiaki, europaea,Greece
+EU83,S11,0.044981493,0.66,28.93,Greece,-,Thiaki, europaea,Greece
+EU83,S12,0.006165317,0.66,28.93,Greece,-,Thiaki, europaea,Greece
+IC83,S1,0.041757118,0.89,18.89,Iran,Ilam,Pardeh, europaea,Ilam
+EU84,S2,0,0.59,26.33,Greece,-,Olea cuspidata, Cuspidata,Greece
+EU84,S3,0,0.59,26.33,Greece,-,Olea cuspidata, Cuspidata,Greece
+EU84,S4,1,0.59,26.33,Greece,-,Olea cuspidata, Cuspidata,Greece
+EU84,S5,0,0.59,26.33,Greece,-,Olea cuspidata, Cuspidata,Greece
+EU84,S6,0,0.59,26.33,Greece,-,Olea cuspidata, Cuspidata,Greece
+EU84,S7,0,0.59,26.33,Greece,-,Olea cuspidata, Cuspidata,Greece
+EU84,S8,0,0.59,26.33,Greece,-,Olea cuspidata, Cuspidata,Greece
+EU84,S9,0,0.59,26.33,Greece,-,Olea cuspidata, Cuspidata,Greece
+EU84,S10,0,0.59,26.33,Greece,-,Olea cuspidata, Cuspidata,Greece
+EU84,S11,0,0.59,26.33,Greece,-,Olea cuspidata, Cuspidata,Greece
+EU84,S12,0,0.59,26.33,Greece,-,Olea cuspidata, Cuspidata,Greece
+IC96,S1,0.041183913,0.86,18.07,Iran,Fars,Dehghan, europaea,Fars
+EU85,S2,0,0.65,28.2,Greece,-,Throuba Naxou, europaea,Greece
+EU85,S3,0,0.65,28.2,Greece,-,Throuba Naxou, europaea,Greece
+EU85,S4,0,0.65,28.2,Greece,-,Throuba Naxou, europaea,Greece
+EU85,S5,0,0.65,28.2,Greece,-,Throuba Naxou, europaea,Greece
+EU85,S6,0,0.65,28.2,Greece,-,Throuba Naxou, europaea,Greece
+EU85,S7,0.112640549,0.65,28.2,Greece,-,Throuba Naxou, europaea,Greece
+EU85,S8,0,0.65,28.2,Greece,-,Throuba Naxou, europaea,Greece
+EU85,S9,0.003833457,0.65,28.2,Greece,-,Throuba Naxou, europaea,Greece
+EU85,S10,0.315128097,0.65,28.2,Greece,-,Throuba Naxou, europaea,Greece
+EU85,S11,0.237867517,0.65,28.2,Greece,-,Throuba Naxou, europaea,Greece
+EU85,S12,0,0.65,28.2,Greece,-,Throuba Naxou, europaea,Greece
+EU102,S1,0.040337545,0.63,28.23,Greece,-,Kolyreiki, europaea,Greece
+EU86,S2,0,0.7,26.96,Greece,-,Asprolia Alexandroupolis, europaea,Greece
+EU86,S3,0.021030302,0.7,26.96,Greece,-,Asprolia Alexandroupolis, europaea,Greece
+EU86,S4,0.01997144,0.7,26.96,Greece,-,Asprolia Alexandroupolis, europaea,Greece
+EU86,S5,0.037091502,0.7,26.96,Greece,-,Asprolia Alexandroupolis, europaea,Greece
+EU86,S6,0.021511445,0.7,26.96,Greece,-,Asprolia Alexandroupolis, europaea,Greece
+EU86,S7,0.427375601,0.7,26.96,Greece,-,Asprolia Alexandroupolis, europaea,Greece
+EU86,S8,0.000431622,0.7,26.96,Greece,-,Asprolia Alexandroupolis, europaea,Greece
+EU86,S9,0.032632573,0.7,26.96,Greece,-,Asprolia Alexandroupolis, europaea,Greece
+EU86,S10,0.106198358,0.7,26.96,Greece,-,Asprolia Alexandroupolis, europaea,Greece
+EU86,S11,0.245958906,0.7,26.96,Greece,-,Asprolia Alexandroupolis, europaea,Greece
+EU86,S12,0,0.7,26.96,Greece,-,Asprolia Alexandroupolis, europaea,Greece
+IC42,S1,0.04010454,0.88,20.09,Iran,Kermanshah,Dasht-e-Direh1, europaea,Kermanshah
+EU87,S2,0,0.7,24.4,Greece,-,Makris, europaea,Greece
+EU87,S3,0.005501125,0.7,24.4,Greece,-,Makris, europaea,Greece
+EU87,S4,0.022191293,0.7,24.4,Greece,-,Makris, europaea,Greece
+EU87,S5,0.0413281,0.7,24.4,Greece,-,Makris, europaea,Greece
+EU87,S6,0.016337566,0.7,24.4,Greece,-,Makris, europaea,Greece
+EU87,S7,0.523081906,0.7,24.4,Greece,-,Makris, europaea,Greece
+EU87,S8,0,0.7,24.4,Greece,-,Makris, europaea,Greece
+EU87,S9,0.025659132,0.7,24.4,Greece,-,Makris, europaea,Greece
+EU87,S10,0.047549754,0.7,24.4,Greece,-,Makris, europaea,Greece
+EU87,S11,0.22141801,0.7,24.4,Greece,-,Makris, europaea,Greece
+EU87,S12,0,0.7,24.4,Greece,-,Makris, europaea,Greece
+IC92,S1,0.040024087,0.87,20.71,Iran,Fars,Pirzeytun-estahban, europaea,Fars
+EU88,S2,0,0.64,30.14,Greece,-,Mavrelia Serron, europaea,Greece
+EU88,S3,0,0.64,30.14,Greece,-,Mavrelia Serron, europaea,Greece
+EU88,S4,0.002482278,0.64,30.14,Greece,-,Mavrelia Serron, europaea,Greece
+EU88,S5,0.009848688,0.64,30.14,Greece,-,Mavrelia Serron, europaea,Greece
+EU88,S6,0,0.64,30.14,Greece,-,Mavrelia Serron, europaea,Greece
+EU88,S7,0.503795594,0.64,30.14,Greece,-,Mavrelia Serron, europaea,Greece
+EU88,S8,0,0.64,30.14,Greece,-,Mavrelia Serron, europaea,Greece
+EU88,S9,0.0756486,0.64,30.14,Greece,-,Mavrelia Serron, europaea,Greece
+EU88,S10,0.172399051,0.64,30.14,Greece,-,Mavrelia Serron, europaea,Greece
+EU88,S11,0.148869961,0.64,30.14,Greece,-,Mavrelia Serron, europaea,Greece
+EU88,S12,0,0.64,30.14,Greece,-,Mavrelia Serron, europaea,Greece
+IC21b,S1,0.039832678,0.86,23.74,Iran,Golestan,Ghazanghaye 6, europaea,Golestan
+EU89,S2,0,0.65,27.16,Greece,-,Lefkolia Serron, europaea,Greece
+EU89,S3,0,0.65,27.16,Greece,-,Lefkolia Serron, europaea,Greece
+EU89,S4,0.008604828,0.65,27.16,Greece,-,Lefkolia Serron, europaea,Greece
+EU89,S5,0.015607647,0.65,27.16,Greece,-,Lefkolia Serron, europaea,Greece
+EU89,S6,0,0.65,27.16,Greece,-,Lefkolia Serron, europaea,Greece
+EU89,S7,0.514684749,0.65,27.16,Greece,-,Lefkolia Serron, europaea,Greece
+EU89,S8,0,0.65,27.16,Greece,-,Lefkolia Serron, europaea,Greece
+EU89,S9,0.082381865,0.65,27.16,Greece,-,Lefkolia Serron, europaea,Greece
+EU89,S10,0.137758558,0.65,27.16,Greece,-,Lefkolia Serron, europaea,Greece
+EU89,S11,0.093386109,0.65,27.16,Greece,-,Lefkolia Serron, europaea,Greece
+EU89,S12,0,0.65,27.16,Greece,-,Lefkolia Serron, europaea,Greece
+EU57,S1,0.039722881,0.67,32.48,Italy,-,Frantoio 2, europaea,Italy
+EU9,S2,0,0.69,32.76,Iran,Golestan,Mari, europaea,Golestan
+EU9,S3,0.000236883,0.69,32.76,Iran,Golestan,Mari, europaea,Golestan
+EU9,S4,0,0.69,32.76,Iran,Golestan,Mari, europaea,Golestan
+EU9,S5,0.093249041,0.69,32.76,Iran,Golestan,Mari, europaea,Golestan
+EU9,S6,0,0.69,32.76,Iran,Golestan,Mari, europaea,Golestan
+EU9,S7,0,0.69,32.76,Iran,Golestan,Mari, europaea,Golestan
+EU9,S8,0,0.69,32.76,Iran,Golestan,Mari, europaea,Golestan
+EU9,S9,0,0.69,32.76,Iran,Golestan,Mari, europaea,Golestan
+EU9,S10,0,0.69,32.76,Iran,Golestan,Mari, europaea,Golestan
+EU9,S11,0,0.69,32.76,Iran,Golestan,Mari, europaea,Golestan
+EU9,S12,0.000394205,0.69,32.76,Iran,Golestan,Mari, europaea,Golestan
+EU98,S1,0.039279978,0.65,29.49,Greece,-,Arbequina, europaea,Greece
+EU90,S2,0,0.68,36.14,Greece,-,Throubolia, europaea,Greece
+EU90,S3,0,0.68,36.14,Greece,-,Throubolia, europaea,Greece
+EU90,S4,0,0.68,36.14,Greece,-,Throubolia, europaea,Greece
+EU90,S5,0,0.68,36.14,Greece,-,Throubolia, europaea,Greece
+EU90,S6,0,0.68,36.14,Greece,-,Throubolia, europaea,Greece
+EU90,S7,0.119343513,0.68,36.14,Greece,-,Throubolia, europaea,Greece
+EU90,S8,0,0.68,36.14,Greece,-,Throubolia, europaea,Greece
+EU90,S9,0.005362234,0.68,36.14,Greece,-,Throubolia, europaea,Greece
+EU90,S10,0.312424441,0.68,36.14,Greece,-,Throubolia, europaea,Greece
+EU90,S11,0.243084812,0.68,36.14,Greece,-,Throubolia, europaea,Greece
+EU90,S12,0,0.68,36.14,Greece,-,Throubolia, europaea,Greece
+EU109,S1,0.039059794,0.67,31.22,Greece,-,Koutsourelia, europaea,Greece
+EU91,S2,0,0.65,28.94,Greece,-,Throumpa Thasou, europaea,Greece
+EU91,S3,0,0.65,28.94,Greece,-,Throumpa Thasou, europaea,Greece
+EU91,S4,0.015192812,0.65,28.94,Greece,-,Throumpa Thasou, europaea,Greece
+EU91,S5,0.036573668,0.65,28.94,Greece,-,Throumpa Thasou, europaea,Greece
+EU91,S6,0.018867848,0.65,28.94,Greece,-,Throumpa Thasou, europaea,Greece
+EU91,S7,0.444087582,0.65,28.94,Greece,-,Throumpa Thasou, europaea,Greece
+EU91,S8,0,0.65,28.94,Greece,-,Throumpa Thasou, europaea,Greece
+EU91,S9,0.169135732,0.65,28.94,Greece,-,Throumpa Thasou, europaea,Greece
+EU91,S10,0.060398577,0.65,28.94,Greece,-,Throumpa Thasou, europaea,Greece
+EU91,S11,0.160695637,0.65,28.94,Greece,-,Throumpa Thasou, europaea,Greece
+EU91,S12,0,0.65,28.94,Greece,-,Throumpa Thasou, europaea,Greece
+EU61,S1,0.037400652,0.7,23.38,Spain,-,Lechin de Granada, europaea,Spain
+EU92,S2,0,0.49,26.98,Greece,-,Galatistas Ag. Orous, europaea,Greece
+EU92,S3,0,0.49,26.98,Greece,-,Galatistas Ag. Orous, europaea,Greece
+EU92,S4,0.00067949,0.49,26.98,Greece,-,Galatistas Ag. Orous, europaea,Greece
+EU92,S5,0.026619009,0.49,26.98,Greece,-,Galatistas Ag. Orous, europaea,Greece
+EU92,S6,0.011221303,0.49,26.98,Greece,-,Galatistas Ag. Orous, europaea,Greece
+EU92,S7,0.478348351,0.49,26.98,Greece,-,Galatistas Ag. Orous, europaea,Greece
+EU92,S8,0,0.49,26.98,Greece,-,Galatistas Ag. Orous, europaea,Greece
+EU92,S9,0.065488857,0.49,26.98,Greece,-,Galatistas Ag. Orous, europaea,Greece
+EU92,S10,0.180292415,0.49,26.98,Greece,-,Galatistas Ag. Orous, europaea,Greece
+EU92,S11,0.156574242,0.49,26.98,Greece,-,Galatistas Ag. Orous, europaea,Greece
+EU92,S12,0,0.49,26.98,Greece,-,Galatistas Ag. Orous, europaea,Greece
+IC38,S1,0.037011123,0.87,21.66,Iran,Kermanshah,Dalahoo, europaea,Kermanshah
+EU93,S2,0,0.66,28.41,Greece,-,Valanolia, europaea,Greece
+EU93,S3,0,0.66,28.41,Greece,-,Valanolia, europaea,Greece
+EU93,S4,0,0.66,28.41,Greece,-,Valanolia, europaea,Greece
+EU93,S5,0,0.66,28.41,Greece,-,Valanolia, europaea,Greece
+EU93,S6,0,0.66,28.41,Greece,-,Valanolia, europaea,Greece
+EU93,S7,0.276249919,0.66,28.41,Greece,-,Valanolia, europaea,Greece
+EU93,S8,0,0.66,28.41,Greece,-,Valanolia, europaea,Greece
+EU93,S9,0.074514292,0.66,28.41,Greece,-,Valanolia, europaea,Greece
+EU93,S10,0.329076057,0.66,28.41,Greece,-,Valanolia, europaea,Greece
+EU93,S11,0.188942226,0.66,28.41,Greece,-,Valanolia, europaea,Greece
+EU93,S12,0,0.66,28.41,Greece,-,Valanolia, europaea,Greece
+IC14,S1,0.036905899,0.87,18.12,Iran,Golestan,Uzineh 1, europaea,Golestan
+EU94,S2,0,0.68,25.28,Greece,-,Amygdalolia, europaea,Greece
+EU94,S3,0,0.68,25.28,Greece,-,Amygdalolia, europaea,Greece
+EU94,S4,0,0.68,25.28,Greece,-,Amygdalolia, europaea,Greece
+EU94,S5,0.057899124,0.68,25.28,Greece,-,Amygdalolia, europaea,Greece
+EU94,S6,0,0.68,25.28,Greece,-,Amygdalolia, europaea,Greece
+EU94,S7,0.505828434,0.68,25.28,Greece,-,Amygdalolia, europaea,Greece
+EU94,S8,0,0.68,25.28,Greece,-,Amygdalolia, europaea,Greece
+EU94,S9,0.055691544,0.68,25.28,Greece,-,Amygdalolia, europaea,Greece
+EU94,S10,0.288038113,0.68,25.28,Greece,-,Amygdalolia, europaea,Greece
+EU94,S11,0.068322666,0.68,25.28,Greece,-,Amygdalolia, europaea,Greece
+EU94,S12,0,0.68,25.28,Greece,-,Amygdalolia, europaea,Greece
+DEZ,S1,0.035732707,0.86,14.75,Iran,Khuzestan,Dezful, europaea,Khuzestan
+EU95,S2,0,0.63,26.18,Greece,-,Kolybada, europaea,Greece
+EU95,S3,0,0.63,26.18,Greece,-,Kolybada, europaea,Greece
+EU95,S4,0,0.63,26.18,Greece,-,Kolybada, europaea,Greece
+EU95,S5,0.004262932,0.63,26.18,Greece,-,Kolybada, europaea,Greece
+EU95,S6,0,0.63,26.18,Greece,-,Kolybada, europaea,Greece
+EU95,S7,0.307685416,0.63,26.18,Greece,-,Kolybada, europaea,Greece
+EU95,S8,0,0.63,26.18,Greece,-,Kolybada, europaea,Greece
+EU95,S9,0.030417467,0.63,26.18,Greece,-,Kolybada, europaea,Greece
+EU95,S10,0.394165978,0.63,26.18,Greece,-,Kolybada, europaea,Greece
+EU95,S11,0.13965808,0.63,26.18,Greece,-,Kolybada, europaea,Greece
+EU95,S12,0,0.63,26.18,Greece,-,Kolybada, europaea,Greece
+EU75,S1,0.035120255,0.63,26.06,Greece,-,Matolia Ilias, europaea,Greece
+EU96,S2,0,0.68,29.4,Greece,-,Strogylolia, europaea,Greece
+EU96,S3,0,0.68,29.4,Greece,-,Strogylolia, europaea,Greece
+EU96,S4,0.007666947,0.68,29.4,Greece,-,Strogylolia, europaea,Greece
+EU96,S5,0.052192865,0.68,29.4,Greece,-,Strogylolia, europaea,Greece
+EU96,S6,0,0.68,29.4,Greece,-,Strogylolia, europaea,Greece
+EU96,S7,0.468875573,0.68,29.4,Greece,-,Strogylolia, europaea,Greece
+EU96,S8,0,0.68,29.4,Greece,-,Strogylolia, europaea,Greece
+EU96,S9,0.054629132,0.68,29.4,Greece,-,Strogylolia, europaea,Greece
+EU96,S10,0.208458829,0.68,29.4,Greece,-,Strogylolia, europaea,Greece
+EU96,S11,0.100776748,0.68,29.4,Greece,-,Strogylolia, europaea,Greece
+EU96,S12,0,0.68,29.4,Greece,-,Strogylolia, europaea,Greece
+IC61,S1,0.034085201,0.88,20.21,Iran,Tarom,T15, europaea,Tarom
+EU97,S2,0,0.66,26.26,Spain,-,Picual, europaea,Spain
+EU97,S3,0,0.66,26.26,Spain,-,Picual, europaea,Spain
+EU97,S4,0.001673187,0.66,26.26,Spain,-,Picual, europaea,Spain
+EU97,S5,0.002193191,0.66,26.26,Spain,-,Picual, europaea,Spain
+EU97,S6,0.007378227,0.66,26.26,Spain,-,Picual, europaea,Spain
+EU97,S7,0.923992468,0.66,26.26,Spain,-,Picual, europaea,Spain
+EU97,S8,0.005906136,0.66,26.26,Spain,-,Picual, europaea,Spain
+EU97,S9,0,0.66,26.26,Spain,-,Picual, europaea,Spain
+EU97,S10,0.058856791,0.66,26.26,Spain,-,Picual, europaea,Spain
+EU97,S11,0,0.66,26.26,Spain,-,Picual, europaea,Spain
+EU97,S12,0,0.66,26.26,Spain,-,Picual, europaea,Spain
+IC16,S1,0.033439442,0.89,20.83,Iran,Golestan,Uzineh 4, europaea,Golestan
+EU98,S2,0,0.65,29.49,Greece,-,Arbequina, europaea,Greece
+EU98,S3,0,0.65,29.49,Greece,-,Arbequina, europaea,Greece
+EU98,S4,0.0060903,0.65,29.49,Greece,-,Arbequina, europaea,Greece
+EU98,S5,0,0.65,29.49,Greece,-,Arbequina, europaea,Greece
+EU98,S6,0.006909115,0.65,29.49,Greece,-,Arbequina, europaea,Greece
+EU98,S7,0.734701714,0.65,29.49,Greece,-,Arbequina, europaea,Greece
+EU98,S8,0,0.65,29.49,Greece,-,Arbequina, europaea,Greece
+EU98,S9,0.020360776,0.65,29.49,Greece,-,Arbequina, europaea,Greece
+EU98,S10,0.111730771,0.65,29.49,Greece,-,Arbequina, europaea,Greece
+EU98,S11,0.059390649,0.65,29.49,Greece,-,Arbequina, europaea,Greece
+EU98,S12,0.021536697,0.65,29.49,Greece,-,Arbequina, europaea,Greece
+EU44,S1,0.0330761,0.79,29.78,Italy,-,Leccino, europaea,Italy
+EU99,S2,0,0.7,27.5,Greece,-,Aggouromanakolia, europaea,Greece
+EU99,S3,0,0.7,27.5,Greece,-,Aggouromanakolia, europaea,Greece
+EU99,S4,0,0.7,27.5,Greece,-,Aggouromanakolia, europaea,Greece
+EU99,S5,0,0.7,27.5,Greece,-,Aggouromanakolia, europaea,Greece
+EU99,S6,0,0.7,27.5,Greece,-,Aggouromanakolia, europaea,Greece
+EU99,S7,0.133355356,0.7,27.5,Greece,-,Aggouromanakolia, europaea,Greece
+EU99,S8,0,0.7,27.5,Greece,-,Aggouromanakolia, europaea,Greece
+EU99,S9,0,0.7,27.5,Greece,-,Aggouromanakolia, europaea,Greece
+EU99,S10,0.530645793,0.7,27.5,Greece,-,Aggouromanakolia, europaea,Greece
+EU99,S11,0.158959886,0.7,27.5,Greece,-,Aggouromanakolia, europaea,Greece
+EU99,S12,0,0.7,27.5,Greece,-,Aggouromanakolia, europaea,Greece
+EU2,S1,0.032382018,0.69,33.19,Greece,-,Myrtolia, europaea,Greece
+G2A,S2,0.000554446,0.86,17.03,Iran,Golestan,Shenge, europaea,Golestan
+G2A,S3,0,0.86,17.03,Iran,Golestan,Shenge, europaea,Golestan
+G2A,S4,0,0.86,17.03,Iran,Golestan,Shenge, europaea,Golestan
+G2A,S5,0.051777212,0.86,17.03,Iran,Golestan,Shenge, europaea,Golestan
+G2A,S6,0,0.86,17.03,Iran,Golestan,Shenge, europaea,Golestan
+G2A,S7,0,0.86,17.03,Iran,Golestan,Shenge, europaea,Golestan
+G2A,S8,0.003516936,0.86,17.03,Iran,Golestan,Shenge, europaea,Golestan
+G2A,S9,0,0.86,17.03,Iran,Golestan,Shenge, europaea,Golestan
+G2A,S10,0,0.86,17.03,Iran,Golestan,Shenge, europaea,Golestan
+G2A,S11,0.211131748,0.86,17.03,Iran,Golestan,Shenge, europaea,Golestan
+G2A,S12,0.000192009,0.86,17.03,Iran,Golestan,Shenge, europaea,Golestan
+EU5,S1,0.031269066,0.69,38.8,Italy,-,Grappolo, europaea,Italy
+G3A,S2,0,0.87,13.52,Iran,Golestan,Zard, europaea,Golestan
+G3A,S3,0,0.87,13.52,Iran,Golestan,Zard, europaea,Golestan
+G3A,S4,0,0.87,13.52,Iran,Golestan,Zard, europaea,Golestan
+G3A,S5,0,0.87,13.52,Iran,Golestan,Zard, europaea,Golestan
+G3A,S6,0,0.87,13.52,Iran,Golestan,Zard, europaea,Golestan
+G3A,S7,0,0.87,13.52,Iran,Golestan,Zard, europaea,Golestan
+G3A,S8,0,0.87,13.52,Iran,Golestan,Zard, europaea,Golestan
+G3A,S9,0,0.87,13.52,Iran,Golestan,Zard, europaea,Golestan
+G3A,S10,0,0.87,13.52,Iran,Golestan,Zard, europaea,Golestan
+G3A,S11,0,0.87,13.52,Iran,Golestan,Zard, europaea,Golestan
+G3A,S12,0,0.87,13.52,Iran,Golestan,Zard, europaea,Golestan
+EU14,S1,0.030026409,0.68,47.23,Spain,-,Royal, europaea,Spain
+IC1,S2,0,0.87,21.18,Iran,Lorestan,Sepid dasht, europaea,Lorestan
+IC1,S3,0,0.87,21.18,Iran,Lorestan,Sepid dasht, europaea,Lorestan
+IC1,S4,0,0.87,21.18,Iran,Lorestan,Sepid dasht, europaea,Lorestan
+IC1,S5,0.045387388,0.87,21.18,Iran,Lorestan,Sepid dasht, europaea,Lorestan
+IC1,S6,0.001062046,0.87,21.18,Iran,Lorestan,Sepid dasht, europaea,Lorestan
+IC1,S7,0.000850828,0.87,21.18,Iran,Lorestan,Sepid dasht, europaea,Lorestan
+IC1,S8,0.001205854,0.87,21.18,Iran,Lorestan,Sepid dasht, europaea,Lorestan
+IC1,S9,0.674008502,0.87,21.18,Iran,Lorestan,Sepid dasht, europaea,Lorestan
+IC1,S10,0.045773218,0.87,21.18,Iran,Lorestan,Sepid dasht, europaea,Lorestan
+IC1,S11,0.156598454,0.87,21.18,Iran,Lorestan,Sepid dasht, europaea,Lorestan
+IC1,S12,0,0.87,21.18,Iran,Lorestan,Sepid dasht, europaea,Lorestan
+EU77,S1,0.029781956,0.71,26.08,Greece,-,Rachati, europaea,Greece
+IC100b,S2,0,0.87,24.94,Iran,Khoor va Biabanak,Ordib, europaea,Khoor va Biabanak
+IC100b,S3,0,0.87,24.94,Iran,Khoor va Biabanak,Ordib, europaea,Khoor va Biabanak
+IC100b,S4,0,0.87,24.94,Iran,Khoor va Biabanak,Ordib, europaea,Khoor va Biabanak
+IC100b,S5,0.115524132,0.87,24.94,Iran,Khoor va Biabanak,Ordib, europaea,Khoor va Biabanak
+IC100b,S6,0,0.87,24.94,Iran,Khoor va Biabanak,Ordib, europaea,Khoor va Biabanak
+IC100b,S7,0,0.87,24.94,Iran,Khoor va Biabanak,Ordib, europaea,Khoor va Biabanak
+IC100b,S8,0,0.87,24.94,Iran,Khoor va Biabanak,Ordib, europaea,Khoor va Biabanak
+IC100b,S9,0.014546977,0.87,24.94,Iran,Khoor va Biabanak,Ordib, europaea,Khoor va Biabanak
+IC100b,S10,0.033431118,0.87,24.94,Iran,Khoor va Biabanak,Ordib, europaea,Khoor va Biabanak
+IC100b,S11,0.617463511,0.87,24.94,Iran,Khoor va Biabanak,Ordib, europaea,Khoor va Biabanak
+IC100b,S12,0,0.87,24.94,Iran,Khoor va Biabanak,Ordib, europaea,Khoor va Biabanak
+EU94,S1,0.024220119,0.68,25.28,Greece,-,Amygdalolia, europaea,Greece
+IC10a,S2,0.00347516,0.88,19.2,Iran,Golestan,Minoudasht 2, europaea,Golestan
+IC10a,S3,0,0.88,19.2,Iran,Golestan,Minoudasht 2, europaea,Golestan
+IC10a,S4,0.001117128,0.88,19.2,Iran,Golestan,Minoudasht 2, europaea,Golestan
+IC10a,S5,0.951086072,0.88,19.2,Iran,Golestan,Minoudasht 2, europaea,Golestan
+IC10a,S6,0.003365832,0.88,19.2,Iran,Golestan,Minoudasht 2, europaea,Golestan
+IC10a,S7,0.021868441,0.88,19.2,Iran,Golestan,Minoudasht 2, europaea,Golestan
+IC10a,S8,0.002009281,0.88,19.2,Iran,Golestan,Minoudasht 2, europaea,Golestan
+IC10a,S9,0,0.88,19.2,Iran,Golestan,Minoudasht 2, europaea,Golestan
+IC10a,S10,0,0.88,19.2,Iran,Golestan,Minoudasht 2, europaea,Golestan
+IC10a,S11,0,0.88,19.2,Iran,Golestan,Minoudasht 2, europaea,Golestan
+IC10a,S12,0,0.88,19.2,Iran,Golestan,Minoudasht 2, europaea,Golestan
+IC97,S1,0.022656653,0.87,14.82,Iran,Fars,Shapoor, europaea,Fars
+IC11,S2,0,0.87,20.16,Iran,Golestan,Minoudasht 3, europaea,Golestan
+IC11,S3,0.001341241,0.87,20.16,Iran,Golestan,Minoudasht 3, europaea,Golestan
+IC11,S4,0,0.87,20.16,Iran,Golestan,Minoudasht 3, europaea,Golestan
+IC11,S5,0.752411805,0.87,20.16,Iran,Golestan,Minoudasht 3, europaea,Golestan
+IC11,S6,0,0.87,20.16,Iran,Golestan,Minoudasht 3, europaea,Golestan
+IC11,S7,0.083525891,0.87,20.16,Iran,Golestan,Minoudasht 3, europaea,Golestan
+IC11,S8,0,0.87,20.16,Iran,Golestan,Minoudasht 3, europaea,Golestan
+IC11,S9,0.115079945,0.87,20.16,Iran,Golestan,Minoudasht 3, europaea,Golestan
+IC11,S10,0,0.87,20.16,Iran,Golestan,Minoudasht 3, europaea,Golestan
+IC11,S11,0.047641117,0.87,20.16,Iran,Golestan,Minoudasht 3, europaea,Golestan
+IC11,S12,0,0.87,20.16,Iran,Golestan,Minoudasht 3, europaea,Golestan
+EU112,S1,0.021701956,0.65,28.49,Greece,-,Kalamon, europaea,Greece
+IC12,S2,0.003858963,0.86,23,Iran,Golestan,Livan, europaea,Golestan
+IC12,S3,0.000651863,0.86,23,Iran,Golestan,Livan, europaea,Golestan
+IC12,S4,0.001249862,0.86,23,Iran,Golestan,Livan, europaea,Golestan
+IC12,S5,0.463390002,0.86,23,Iran,Golestan,Livan, europaea,Golestan
+IC12,S6,0,0.86,23,Iran,Golestan,Livan, europaea,Golestan
+IC12,S7,0,0.86,23,Iran,Golestan,Livan, europaea,Golestan
+IC12,S8,0,0.86,23,Iran,Golestan,Livan, europaea,Golestan
+IC12,S9,0.067988449,0.86,23,Iran,Golestan,Livan, europaea,Golestan
+IC12,S10,0.026409754,0.86,23,Iran,Golestan,Livan, europaea,Golestan
+IC12,S11,0.301997192,0.86,23,Iran,Golestan,Livan, europaea,Golestan
+IC12,S12,0,0.86,23,Iran,Golestan,Livan, europaea,Golestan
+IC18,S1,0.019044192,0.87,25.53,Iran,Golestan,Nasr abad 1, europaea,Golestan
+IC123,S2,0,0.86,15.38,Iran,Golestan,CTO50, europaea,Golestan
+IC123,S3,0,0.86,15.38,Iran,Golestan,CTO50, europaea,Golestan
+IC123,S4,0.000919353,0.86,15.38,Iran,Golestan,CTO50, europaea,Golestan
+IC123,S5,0.648505017,0.86,15.38,Iran,Golestan,CTO50, europaea,Golestan
+IC123,S6,0,0.86,15.38,Iran,Golestan,CTO50, europaea,Golestan
+IC123,S7,0.057676273,0.86,15.38,Iran,Golestan,CTO50, europaea,Golestan
+IC123,S8,0,0.86,15.38,Iran,Golestan,CTO50, europaea,Golestan
+IC123,S9,0.066470996,0.86,15.38,Iran,Golestan,CTO50, europaea,Golestan
+IC123,S10,0.002968606,0.86,15.38,Iran,Golestan,CTO50, europaea,Golestan
+IC123,S11,0.156362495,0.86,15.38,Iran,Golestan,CTO50, europaea,Golestan
+IC123,S12,0.000328886,0.86,15.38,Iran,Golestan,CTO50, europaea,Golestan
+IC36,S1,0.017306999,0.86,14.4,Iran,Boushehr,Kheirak-jonoobi, europaea,Boushehr
+IC13,S2,0,0.88,39.1,Iran,Golestan,Lemesk, europaea,Golestan
+IC13,S3,0.000648486,0.88,39.1,Iran,Golestan,Lemesk, europaea,Golestan
+IC13,S4,0.000426026,0.88,39.1,Iran,Golestan,Lemesk, europaea,Golestan
+IC13,S5,0.873979515,0.88,39.1,Iran,Golestan,Lemesk, europaea,Golestan
+IC13,S6,0,0.88,39.1,Iran,Golestan,Lemesk, europaea,Golestan
+IC13,S7,0.06344401,0.88,39.1,Iran,Golestan,Lemesk, europaea,Golestan
+IC13,S8,0,0.88,39.1,Iran,Golestan,Lemesk, europaea,Golestan
+IC13,S9,0,0.88,39.1,Iran,Golestan,Lemesk, europaea,Golestan
+IC13,S10,0,0.88,39.1,Iran,Golestan,Lemesk, europaea,Golestan
+IC13,S11,0.011399249,0.88,39.1,Iran,Golestan,Lemesk, europaea,Golestan
+IC13,S12,0,0.88,39.1,Iran,Golestan,Lemesk, europaea,Golestan
+IC10a,S1,0.017078087,0.88,19.2,Iran,Golestan,Minoudasht 2, europaea,Golestan
+IC14,S2,0,0.87,18.12,Iran,Golestan,Uzineh 1, europaea,Golestan
+IC14,S3,0,0.87,18.12,Iran,Golestan,Uzineh 1, europaea,Golestan
+IC14,S4,0,0.87,18.12,Iran,Golestan,Uzineh 1, europaea,Golestan
+IC14,S5,0.709445899,0.87,18.12,Iran,Golestan,Uzineh 1, europaea,Golestan
+IC14,S6,0.000795646,0.87,18.12,Iran,Golestan,Uzineh 1, europaea,Golestan
+IC14,S7,0.01189986,0.87,18.12,Iran,Golestan,Uzineh 1, europaea,Golestan
+IC14,S8,0,0.87,18.12,Iran,Golestan,Uzineh 1, europaea,Golestan
+IC14,S9,0.000905779,0.87,18.12,Iran,Golestan,Uzineh 1, europaea,Golestan
+IC14,S10,0.035215371,0.87,18.12,Iran,Golestan,Uzineh 1, europaea,Golestan
+IC14,S11,0.204831546,0.87,18.12,Iran,Golestan,Uzineh 1, europaea,Golestan
+IC14,S12,0,0.87,18.12,Iran,Golestan,Uzineh 1, europaea,Golestan
+EU37,S1,0.016985554,0.7,35.74,Spain,-,Ocal, europaea,Spain
+IC140a,S2,0,0.87,19.36,Iran,Golestan,Farshbaf1, europaea,Golestan
+IC140a,S3,0,0.87,19.36,Iran,Golestan,Farshbaf1, europaea,Golestan
+IC140a,S4,0,0.87,19.36,Iran,Golestan,Farshbaf1, europaea,Golestan
+IC140a,S5,0.983830757,0.87,19.36,Iran,Golestan,Farshbaf1, europaea,Golestan
+IC140a,S6,0,0.87,19.36,Iran,Golestan,Farshbaf1, europaea,Golestan
+IC140a,S7,0,0.87,19.36,Iran,Golestan,Farshbaf1, europaea,Golestan
+IC140a,S8,0,0.87,19.36,Iran,Golestan,Farshbaf1, europaea,Golestan
+IC140a,S9,0,0.87,19.36,Iran,Golestan,Farshbaf1, europaea,Golestan
+IC140a,S10,0,0.87,19.36,Iran,Golestan,Farshbaf1, europaea,Golestan
+IC140a,S11,0,0.87,19.36,Iran,Golestan,Farshbaf1, europaea,Golestan
+IC140a,S12,0,0.87,19.36,Iran,Golestan,Farshbaf1, europaea,Golestan
+EU39,S1,0.016471903,0.8,31.54,Spain,-,Verdial de Velez-Malaga-1, europaea,Spain
+IC141,S2,0.01614234,0.86,21.57,Greece,Greece,Meidan, europaea,Greece
+IC141,S3,0,0.86,21.57,Greece,Greece,Meidan, europaea,Greece
+IC141,S4,0,0.86,21.57,Greece,Greece,Meidan, europaea,Greece
+IC141,S5,0.011449444,0.86,21.57,Greece,Greece,Meidan, europaea,Greece
+IC141,S6,0,0.86,21.57,Greece,Greece,Meidan, europaea,Greece
+IC141,S7,0.364613922,0.86,21.57,Greece,Greece,Meidan, europaea,Greece
+IC141,S8,0.014271128,0.86,21.57,Greece,Greece,Meidan, europaea,Greece
+IC141,S9,0,0.86,21.57,Greece,Greece,Meidan, europaea,Greece
+IC141,S10,0.562988694,0.86,21.57,Greece,Greece,Meidan, europaea,Greece
+IC141,S11,0,0.86,21.57,Greece,Greece,Meidan, europaea,Greece
+IC141,S12,0.030534472,0.86,21.57,Greece,Greece,Meidan, europaea,Greece
+IC140a,S1,0.016169243,0.87,19.36,Iran,Golestan,Farshbaf1, europaea,Golestan
+IC144b,S2,0,0.87,22.55,Iran,Golestan,Gal Sensitive, europaea,Golestan
+IC144b,S3,0,0.87,22.55,Iran,Golestan,Gal Sensitive, europaea,Golestan
+IC144b,S4,0,0.87,22.55,Iran,Golestan,Gal Sensitive, europaea,Golestan
+IC144b,S5,0.045479627,0.87,22.55,Iran,Golestan,Gal Sensitive, europaea,Golestan
+IC144b,S6,0,0.87,22.55,Iran,Golestan,Gal Sensitive, europaea,Golestan
+IC144b,S7,0,0.87,22.55,Iran,Golestan,Gal Sensitive, europaea,Golestan
+IC144b,S8,0,0.87,22.55,Iran,Golestan,Gal Sensitive, europaea,Golestan
+IC144b,S9,0,0.87,22.55,Iran,Golestan,Gal Sensitive, europaea,Golestan
+IC144b,S10,0,0.87,22.55,Iran,Golestan,Gal Sensitive, europaea,Golestan
+IC144b,S11,0.234391121,0.87,22.55,Iran,Golestan,Gal Sensitive, europaea,Golestan
+IC144b,S12,0,0.87,22.55,Iran,Golestan,Gal Sensitive, europaea,Golestan
+EU46,S1,0.01548597,0.72,32.87,Spain,-,Hojiblanca, europaea,Spain
+IC145,S2,0,0.88,18.77,Iran,Golestan,Gal Sensitive, europaea,Golestan
+IC145,S3,0,0.88,18.77,Iran,Golestan,Gal Sensitive, europaea,Golestan
+IC145,S4,0,0.88,18.77,Iran,Golestan,Gal Sensitive, europaea,Golestan
+IC145,S5,0.035006024,0.88,18.77,Iran,Golestan,Gal Sensitive, europaea,Golestan
+IC145,S6,0,0.88,18.77,Iran,Golestan,Gal Sensitive, europaea,Golestan
+IC145,S7,0,0.88,18.77,Iran,Golestan,Gal Sensitive, europaea,Golestan
+IC145,S8,0,0.88,18.77,Iran,Golestan,Gal Sensitive, europaea,Golestan
+IC145,S9,0,0.88,18.77,Iran,Golestan,Gal Sensitive, europaea,Golestan
+IC145,S10,0,0.88,18.77,Iran,Golestan,Gal Sensitive, europaea,Golestan
+IC145,S11,0.23545404,0.88,18.77,Iran,Golestan,Gal Sensitive, europaea,Golestan
+IC145,S12,0,0.88,18.77,Iran,Golestan,Gal Sensitive, europaea,Golestan
+IC94,S1,0.015406017,0.86,19.94,Iran,Fars,Shiraz, europaea,Fars
+IC146,S2,0,0.88,21.1,Iran,Golestan,Gal Tolerant, europaea,Golestan
+IC146,S3,0,0.88,21.1,Iran,Golestan,Gal Tolerant, europaea,Golestan
+IC146,S4,0,0.88,21.1,Iran,Golestan,Gal Tolerant, europaea,Golestan
+IC146,S5,0,0.88,21.1,Iran,Golestan,Gal Tolerant, europaea,Golestan
+IC146,S6,0,0.88,21.1,Iran,Golestan,Gal Tolerant, europaea,Golestan
+IC146,S7,0,0.88,21.1,Iran,Golestan,Gal Tolerant, europaea,Golestan
+IC146,S8,0,0.88,21.1,Iran,Golestan,Gal Tolerant, europaea,Golestan
+IC146,S9,0,0.88,21.1,Iran,Golestan,Gal Tolerant, europaea,Golestan
+IC146,S10,0,0.88,21.1,Iran,Golestan,Gal Tolerant, europaea,Golestan
+IC146,S11,0,0.88,21.1,Iran,Golestan,Gal Tolerant, europaea,Golestan
+IC146,S12,0,0.88,21.1,Iran,Golestan,Gal Tolerant, europaea,Golestan
+IC25,S1,0.013354388,0.86,20.43,Iran,Golestan,Azadshahr 3, europaea,Golestan
+IC147,S2,0,0.86,23.5,Iran,Golestan,Gal Tolerant, europaea,Golestan
+IC147,S3,0,0.86,23.5,Iran,Golestan,Gal Tolerant, europaea,Golestan
+IC147,S4,0,0.86,23.5,Iran,Golestan,Gal Tolerant, europaea,Golestan
+IC147,S5,0,0.86,23.5,Iran,Golestan,Gal Tolerant, europaea,Golestan
+IC147,S6,0,0.86,23.5,Iran,Golestan,Gal Tolerant, europaea,Golestan
+IC147,S7,0,0.86,23.5,Iran,Golestan,Gal Tolerant, europaea,Golestan
+IC147,S8,0,0.86,23.5,Iran,Golestan,Gal Tolerant, europaea,Golestan
+IC147,S9,0,0.86,23.5,Iran,Golestan,Gal Tolerant, europaea,Golestan
+IC147,S10,0,0.86,23.5,Iran,Golestan,Gal Tolerant, europaea,Golestan
+IC147,S11,0,0.86,23.5,Iran,Golestan,Gal Tolerant, europaea,Golestan
+IC147,S12,0,0.86,23.5,Iran,Golestan,Gal Tolerant, europaea,Golestan
+EU71,S1,0.011541677,0.68,25.13,Greece,-,Myrtolia, europaea,Greece
+IC15b,S2,0,0.88,18.13,Iran,Golestan,Uzineh 3, europaea,Golestan
+IC15b,S3,0,0.88,18.13,Iran,Golestan,Uzineh 3, europaea,Golestan
+IC15b,S4,0,0.88,18.13,Iran,Golestan,Uzineh 3, europaea,Golestan
+IC15b,S5,0.8320707,0.88,18.13,Iran,Golestan,Uzineh 3, europaea,Golestan
+IC15b,S6,0,0.88,18.13,Iran,Golestan,Uzineh 3, europaea,Golestan
+IC15b,S7,0,0.88,18.13,Iran,Golestan,Uzineh 3, europaea,Golestan
+IC15b,S8,0,0.88,18.13,Iran,Golestan,Uzineh 3, europaea,Golestan
+IC15b,S9,0.002557262,0.88,18.13,Iran,Golestan,Uzineh 3, europaea,Golestan
+IC15b,S10,0.012318785,0.88,18.13,Iran,Golestan,Uzineh 3, europaea,Golestan
+IC15b,S11,0.078316739,0.88,18.13,Iran,Golestan,Uzineh 3, europaea,Golestan
+IC15b,S12,0,0.88,18.13,Iran,Golestan,Uzineh 3, europaea,Golestan
+IC23,S1,0.007779742,0.87,20.45,Iran,Golestan,Ghazanghaye 8, europaea,Golestan
+IC16,S2,0,0.89,20.83,Iran,Golestan,Uzineh 4, europaea,Golestan
+IC16,S3,0,0.89,20.83,Iran,Golestan,Uzineh 4, europaea,Golestan
+IC16,S4,0,0.89,20.83,Iran,Golestan,Uzineh 4, europaea,Golestan
+IC16,S5,0.726843216,0.89,20.83,Iran,Golestan,Uzineh 4, europaea,Golestan
+IC16,S6,0,0.89,20.83,Iran,Golestan,Uzineh 4, europaea,Golestan
+IC16,S7,0,0.89,20.83,Iran,Golestan,Uzineh 4, europaea,Golestan
+IC16,S8,0,0.89,20.83,Iran,Golestan,Uzineh 4, europaea,Golestan
+IC16,S9,0.089255667,0.89,20.83,Iran,Golestan,Uzineh 4, europaea,Golestan
+IC16,S10,0.027827759,0.89,20.83,Iran,Golestan,Uzineh 4, europaea,Golestan
+IC16,S11,0.122633914,0.89,20.83,Iran,Golestan,Uzineh 4, europaea,Golestan
+IC16,S12,0,0.89,20.83,Iran,Golestan,Uzineh 4, europaea,Golestan
+EU111,S1,0.004911165,0.66,28.68,Greece,-,Vasilikada, europaea,Greece
+IC17,S2,0,0.87,23,Iran,Golestan,Uzineh 5, europaea,Golestan
+IC17,S3,0,0.87,23,Iran,Golestan,Uzineh 5, europaea,Golestan
+IC17,S4,0,0.87,23,Iran,Golestan,Uzineh 5, europaea,Golestan
+IC17,S5,0.697243874,0.87,23,Iran,Golestan,Uzineh 5, europaea,Golestan
+IC17,S6,0,0.87,23,Iran,Golestan,Uzineh 5, europaea,Golestan
+IC17,S7,0,0.87,23,Iran,Golestan,Uzineh 5, europaea,Golestan
+IC17,S8,0,0.87,23,Iran,Golestan,Uzineh 5, europaea,Golestan
+IC17,S9,0,0.87,23,Iran,Golestan,Uzineh 5, europaea,Golestan
+IC17,S10,0.046702455,0.87,23,Iran,Golestan,Uzineh 5, europaea,Golestan
+IC17,S11,0.165943027,0.87,23,Iran,Golestan,Uzineh 5, europaea,Golestan
+IC17,S12,0,0.87,23,Iran,Golestan,Uzineh 5, europaea,Golestan
+EU34,S1,0.003494689,0.69,32.28,Spain,-,Manzanilla de Sevilla, europaea,Spain
+IC18,S2,0,0.87,25.53,Iran,Golestan,Nasr abad 1, europaea,Golestan
+IC18,S3,0.002194035,0.87,25.53,Iran,Golestan,Nasr abad 1, europaea,Golestan
+IC18,S4,0.000257611,0.87,25.53,Iran,Golestan,Nasr abad 1, europaea,Golestan
+IC18,S5,0.729803263,0.87,25.53,Iran,Golestan,Nasr abad 1, europaea,Golestan
+IC18,S6,0,0.87,25.53,Iran,Golestan,Nasr abad 1, europaea,Golestan
+IC18,S7,0.050418454,0.87,25.53,Iran,Golestan,Nasr abad 1, europaea,Golestan
+IC18,S8,0,0.87,25.53,Iran,Golestan,Nasr abad 1, europaea,Golestan
+IC18,S9,0.065629731,0.87,25.53,Iran,Golestan,Nasr abad 1, europaea,Golestan
+IC18,S10,0.005463053,0.87,25.53,Iran,Golestan,Nasr abad 1, europaea,Golestan
+IC18,S11,0.127189661,0.87,25.53,Iran,Golestan,Nasr abad 1, europaea,Golestan
+IC18,S12,0,0.87,25.53,Iran,Golestan,Nasr abad 1, europaea,Golestan
+IC26,S1,0.002791754,0.79,19.03,Iran,Golestan,Azadshahr 5, europaea,Golestan
+IC19,S2,0,0.87,29.39,Iran,Golestan,Ghazanghaye 1, europaea,Golestan
+IC19,S3,0,0.87,29.39,Iran,Golestan,Ghazanghaye 1, europaea,Golestan
+IC19,S4,0,0.87,29.39,Iran,Golestan,Ghazanghaye 1, europaea,Golestan
+IC19,S5,0.767922167,0.87,29.39,Iran,Golestan,Ghazanghaye 1, europaea,Golestan
+IC19,S6,0,0.87,29.39,Iran,Golestan,Ghazanghaye 1, europaea,Golestan
+IC19,S7,0.156355771,0.87,29.39,Iran,Golestan,Ghazanghaye 1, europaea,Golestan
+IC19,S8,0,0.87,29.39,Iran,Golestan,Ghazanghaye 1, europaea,Golestan
+IC19,S9,0.064751014,0.87,29.39,Iran,Golestan,Ghazanghaye 1, europaea,Golestan
+IC19,S10,0,0.87,29.39,Iran,Golestan,Ghazanghaye 1, europaea,Golestan
+IC19,S11,0.010971049,0.87,29.39,Iran,Golestan,Ghazanghaye 1, europaea,Golestan
+IC19,S12,0,0.87,29.39,Iran,Golestan,Ghazanghaye 1, europaea,Golestan
+CT1,S1,0,0.89,11.37,Iran,Golestan,CTO1, europaea,Golestan
+IC2,S2,0,0.86,18.51,Iran,Lorestan,Chamsangar, europaea,Lorestan
+IC2,S3,0,0.86,18.51,Iran,Lorestan,Chamsangar, europaea,Lorestan
+IC2,S4,0,0.86,18.51,Iran,Lorestan,Chamsangar, europaea,Lorestan
+IC2,S5,0,0.86,18.51,Iran,Lorestan,Chamsangar, europaea,Lorestan
+IC2,S6,0,0.86,18.51,Iran,Lorestan,Chamsangar, europaea,Lorestan
+IC2,S7,0,0.86,18.51,Iran,Lorestan,Chamsangar, europaea,Lorestan
+IC2,S8,0,0.86,18.51,Iran,Lorestan,Chamsangar, europaea,Lorestan
+IC2,S9,0,0.86,18.51,Iran,Lorestan,Chamsangar, europaea,Lorestan
+IC2,S10,0,0.86,18.51,Iran,Lorestan,Chamsangar, europaea,Lorestan
+IC2,S11,0,0.86,18.51,Iran,Lorestan,Chamsangar, europaea,Lorestan
+IC2,S12,0,0.86,18.51,Iran,Lorestan,Chamsangar, europaea,Lorestan
+EU1,S1,0,0.81,36.29,Morocco,-,Wild 07, Sylvestris,Morocco
+IC20,S2,0,0.88,21.65,Iran,Golestan,Ghazanghaye 2, europaea,Golestan
+IC20,S3,0,0.88,21.65,Iran,Golestan,Ghazanghaye 2, europaea,Golestan
+IC20,S4,0,0.88,21.65,Iran,Golestan,Ghazanghaye 2, europaea,Golestan
+IC20,S5,0.653082372,0.88,21.65,Iran,Golestan,Ghazanghaye 2, europaea,Golestan
+IC20,S6,0,0.88,21.65,Iran,Golestan,Ghazanghaye 2, europaea,Golestan
+IC20,S7,0.178192828,0.88,21.65,Iran,Golestan,Ghazanghaye 2, europaea,Golestan
+IC20,S8,0,0.88,21.65,Iran,Golestan,Ghazanghaye 2, europaea,Golestan
+IC20,S9,0.1687248,0.88,21.65,Iran,Golestan,Ghazanghaye 2, europaea,Golestan
+IC20,S10,0,0.88,21.65,Iran,Golestan,Ghazanghaye 2, europaea,Golestan
+IC20,S11,0,0.88,21.65,Iran,Golestan,Ghazanghaye 2, europaea,Golestan
+IC20,S12,0,0.88,21.65,Iran,Golestan,Ghazanghaye 2, europaea,Golestan
+EU10,S1,0,0.69,37.19,Greece,-,Lianolia Kerkyras, europaea,Greece
+IC21b,S2,0,0.86,23.74,Iran,Golestan,Ghazanghaye 6, europaea,Golestan
+IC21b,S3,0,0.86,23.74,Iran,Golestan,Ghazanghaye 6, europaea,Golestan
+IC21b,S4,0.000664366,0.86,23.74,Iran,Golestan,Ghazanghaye 6, europaea,Golestan
+IC21b,S5,0.725188446,0.86,23.74,Iran,Golestan,Ghazanghaye 6, europaea,Golestan
+IC21b,S6,0,0.86,23.74,Iran,Golestan,Ghazanghaye 6, europaea,Golestan
+IC21b,S7,0.034490693,0.86,23.74,Iran,Golestan,Ghazanghaye 6, europaea,Golestan
+IC21b,S8,0,0.86,23.74,Iran,Golestan,Ghazanghaye 6, europaea,Golestan
+IC21b,S9,0.034393109,0.86,23.74,Iran,Golestan,Ghazanghaye 6, europaea,Golestan
+IC21b,S10,0,0.86,23.74,Iran,Golestan,Ghazanghaye 6, europaea,Golestan
+IC21b,S11,0.165430707,0.86,23.74,Iran,Golestan,Ghazanghaye 6, europaea,Golestan
+IC21b,S12,0,0.86,23.74,Iran,Golestan,Ghazanghaye 6, europaea,Golestan
+EU100,S1,0,0.64,24.47,Greece,-,Ntopia Zakynthou, europaea,Greece
+IC22,S2,0,0.87,14.82,Iran,Golestan,Ghazanghaye 7, europaea,Golestan
+IC22,S3,0,0.87,14.82,Iran,Golestan,Ghazanghaye 7, europaea,Golestan
+IC22,S4,0,0.87,14.82,Iran,Golestan,Ghazanghaye 7, europaea,Golestan
+IC22,S5,0.788493391,0.87,14.82,Iran,Golestan,Ghazanghaye 7, europaea,Golestan
+IC22,S6,0.000769801,0.87,14.82,Iran,Golestan,Ghazanghaye 7, europaea,Golestan
+IC22,S7,0.089219211,0.87,14.82,Iran,Golestan,Ghazanghaye 7, europaea,Golestan
+IC22,S8,0,0.87,14.82,Iran,Golestan,Ghazanghaye 7, europaea,Golestan
+IC22,S9,0,0.87,14.82,Iran,Golestan,Ghazanghaye 7, europaea,Golestan
+IC22,S10,0,0.87,14.82,Iran,Golestan,Ghazanghaye 7, europaea,Golestan
+IC22,S11,0.06277444,0.87,14.82,Iran,Golestan,Ghazanghaye 7, europaea,Golestan
+IC22,S12,0,0.87,14.82,Iran,Golestan,Ghazanghaye 7, europaea,Golestan
+EU103,S1,0,0.55,30.26,Greece,-,Chrysolia, Cuspidata,Greece
+IC23,S2,0.000205161,0.87,20.45,Iran,Golestan,Ghazanghaye 8, europaea,Golestan
+IC23,S3,0,0.87,20.45,Iran,Golestan,Ghazanghaye 8, europaea,Golestan
+IC23,S4,0.002846073,0.87,20.45,Iran,Golestan,Ghazanghaye 8, europaea,Golestan
+IC23,S5,0.889094151,0.87,20.45,Iran,Golestan,Ghazanghaye 8, europaea,Golestan
+IC23,S6,0.004822014,0.87,20.45,Iran,Golestan,Ghazanghaye 8, europaea,Golestan
+IC23,S7,0.034391683,0.87,20.45,Iran,Golestan,Ghazanghaye 8, europaea,Golestan
+IC23,S8,0,0.87,20.45,Iran,Golestan,Ghazanghaye 8, europaea,Golestan
+IC23,S9,0.00293415,0.87,20.45,Iran,Golestan,Ghazanghaye 8, europaea,Golestan
+IC23,S10,0.006298475,0.87,20.45,Iran,Golestan,Ghazanghaye 8, europaea,Golestan
+IC23,S11,0.05149014,0.87,20.45,Iran,Golestan,Ghazanghaye 8, europaea,Golestan
+IC23,S12,0.00013841,0.87,20.45,Iran,Golestan,Ghazanghaye 8, europaea,Golestan
+EU106,S1,0,0.66,26.22,Greece,-,Koroneiki, europaea,Greece
+IC24b,S2,0,0.87,15.3,Iran,Golestan,Azadshahr 2, europaea,Golestan
+IC24b,S3,0,0.87,15.3,Iran,Golestan,Azadshahr 2, europaea,Golestan
+IC24b,S4,0.001219411,0.87,15.3,Iran,Golestan,Azadshahr 2, europaea,Golestan
+IC24b,S5,0.988105371,0.87,15.3,Iran,Golestan,Azadshahr 2, europaea,Golestan
+IC24b,S6,0,0.87,15.3,Iran,Golestan,Azadshahr 2, europaea,Golestan
+IC24b,S7,0,0.87,15.3,Iran,Golestan,Azadshahr 2, europaea,Golestan
+IC24b,S8,0,0.87,15.3,Iran,Golestan,Azadshahr 2, europaea,Golestan
+IC24b,S9,0.010675218,0.87,15.3,Iran,Golestan,Azadshahr 2, europaea,Golestan
+IC24b,S10,0,0.87,15.3,Iran,Golestan,Azadshahr 2, europaea,Golestan
+IC24b,S11,0,0.87,15.3,Iran,Golestan,Azadshahr 2, europaea,Golestan
+IC24b,S12,0,0.87,15.3,Iran,Golestan,Azadshahr 2, europaea,Golestan
+EU13,S1,0,0.69,42.65,Spain,-,Wild 04, Sylvestris,Spain
+IC25,S2,0,0.86,20.43,Iran,Golestan,Azadshahr 3, europaea,Golestan
+IC25,S3,0,0.86,20.43,Iran,Golestan,Azadshahr 3, europaea,Golestan
+IC25,S4,0,0.86,20.43,Iran,Golestan,Azadshahr 3, europaea,Golestan
+IC25,S5,0.985168015,0.86,20.43,Iran,Golestan,Azadshahr 3, europaea,Golestan
+IC25,S6,0.001357549,0.86,20.43,Iran,Golestan,Azadshahr 3, europaea,Golestan
+IC25,S7,0,0.86,20.43,Iran,Golestan,Azadshahr 3, europaea,Golestan
+IC25,S8,0,0.86,20.43,Iran,Golestan,Azadshahr 3, europaea,Golestan
+IC25,S9,0,0.86,20.43,Iran,Golestan,Azadshahr 3, europaea,Golestan
+IC25,S10,0,0.86,20.43,Iran,Golestan,Azadshahr 3, europaea,Golestan
+IC25,S11,0,0.86,20.43,Iran,Golestan,Azadshahr 3, europaea,Golestan
+IC25,S12,0.000120048,0.86,20.43,Iran,Golestan,Azadshahr 3, europaea,Golestan
+EU15,S1,0,0.82,44.72,Spain,-,Wild03, Sylvestris,Spain
+IC26,S2,0.004259834,0.79,19.03,Iran,Golestan,Azadshahr 5, europaea,Golestan
+IC26,S3,0,0.79,19.03,Iran,Golestan,Azadshahr 5, europaea,Golestan
+IC26,S4,0,0.79,19.03,Iran,Golestan,Azadshahr 5, europaea,Golestan
+IC26,S5,0.968688092,0.79,19.03,Iran,Golestan,Azadshahr 5, europaea,Golestan
+IC26,S6,0.004674069,0.79,19.03,Iran,Golestan,Azadshahr 5, europaea,Golestan
+IC26,S7,0,0.79,19.03,Iran,Golestan,Azadshahr 5, europaea,Golestan
+IC26,S8,0,0.79,19.03,Iran,Golestan,Azadshahr 5, europaea,Golestan
+IC26,S9,0,0.79,19.03,Iran,Golestan,Azadshahr 5, europaea,Golestan
+IC26,S10,0.002493196,0.79,19.03,Iran,Golestan,Azadshahr 5, europaea,Golestan
+IC26,S11,0,0.79,19.03,Iran,Golestan,Azadshahr 5, europaea,Golestan
+IC26,S12,0.017093055,0.79,19.03,Iran,Golestan,Azadshahr 5, europaea,Golestan
+EU23,S1,0,0.76,32.11,Spain,-,Wild 06, Sylvestris,Spain
+IC27,S2,0,0.89,17.51,Iran,Kohgiluyeh,Mondan2, europaea,Kohgiluyeh
+IC27,S3,0,0.89,17.51,Iran,Kohgiluyeh,Mondan2, europaea,Kohgiluyeh
+IC27,S4,0,0.89,17.51,Iran,Kohgiluyeh,Mondan2, europaea,Kohgiluyeh
+IC27,S5,0,0.89,17.51,Iran,Kohgiluyeh,Mondan2, europaea,Kohgiluyeh
+IC27,S6,0,0.89,17.51,Iran,Kohgiluyeh,Mondan2, europaea,Kohgiluyeh
+IC27,S7,0,0.89,17.51,Iran,Kohgiluyeh,Mondan2, europaea,Kohgiluyeh
+IC27,S8,0,0.89,17.51,Iran,Kohgiluyeh,Mondan2, europaea,Kohgiluyeh
+IC27,S9,1,0.89,17.51,Iran,Kohgiluyeh,Mondan2, europaea,Kohgiluyeh
+IC27,S10,0,0.89,17.51,Iran,Kohgiluyeh,Mondan2, europaea,Kohgiluyeh
+IC27,S11,0,0.89,17.51,Iran,Kohgiluyeh,Mondan2, europaea,Kohgiluyeh
+IC27,S12,0,0.89,17.51,Iran,Kohgiluyeh,Mondan2, europaea,Kohgiluyeh
+EU25,S1,0,0.77,35.83,Spain,-,Wild 05, Sylvestris,Spain
+IC28,S2,0,0.87,19.49,Iran,Kohgiluyeh,Mondan3, europaea,Kohgiluyeh
+IC28,S3,0.001850408,0.87,19.49,Iran,Kohgiluyeh,Mondan3, europaea,Kohgiluyeh
+IC28,S4,0,0.87,19.49,Iran,Kohgiluyeh,Mondan3, europaea,Kohgiluyeh
+IC28,S5,0.131840112,0.87,19.49,Iran,Kohgiluyeh,Mondan3, europaea,Kohgiluyeh
+IC28,S6,0,0.87,19.49,Iran,Kohgiluyeh,Mondan3, europaea,Kohgiluyeh
+IC28,S7,0.014207175,0.87,19.49,Iran,Kohgiluyeh,Mondan3, europaea,Kohgiluyeh
+IC28,S8,0,0.87,19.49,Iran,Kohgiluyeh,Mondan3, europaea,Kohgiluyeh
+IC28,S9,0.029631733,0.87,19.49,Iran,Kohgiluyeh,Mondan3, europaea,Kohgiluyeh
+IC28,S10,0.132992172,0.87,19.49,Iran,Kohgiluyeh,Mondan3, europaea,Kohgiluyeh
+IC28,S11,0.441337395,0.87,19.49,Iran,Kohgiluyeh,Mondan3, europaea,Kohgiluyeh
+IC28,S12,0,0.87,19.49,Iran,Kohgiluyeh,Mondan3, europaea,Kohgiluyeh
+EU26,S1,0,0.78,28.03,Tunisia,-,Dokkar, europaea,Tunisia
+IC29,S2,0,0.87,20.14,Iran,Kohgiluyeh,Delibayar1, europaea,Kohgiluyeh
+IC29,S3,0,0.87,20.14,Iran,Kohgiluyeh,Delibayar1, europaea,Kohgiluyeh
+IC29,S4,0,0.87,20.14,Iran,Kohgiluyeh,Delibayar1, europaea,Kohgiluyeh
+IC29,S5,0,0.87,20.14,Iran,Kohgiluyeh,Delibayar1, europaea,Kohgiluyeh
+IC29,S6,0,0.87,20.14,Iran,Kohgiluyeh,Delibayar1, europaea,Kohgiluyeh
+IC29,S7,0,0.87,20.14,Iran,Kohgiluyeh,Delibayar1, europaea,Kohgiluyeh
+IC29,S8,0,0.87,20.14,Iran,Kohgiluyeh,Delibayar1, europaea,Kohgiluyeh
+IC29,S9,1,0.87,20.14,Iran,Kohgiluyeh,Delibayar1, europaea,Kohgiluyeh
+IC29,S10,0,0.87,20.14,Iran,Kohgiluyeh,Delibayar1, europaea,Kohgiluyeh
+IC29,S11,0,0.87,20.14,Iran,Kohgiluyeh,Delibayar1, europaea,Kohgiluyeh
+IC29,S12,0,0.87,20.14,Iran,Kohgiluyeh,Delibayar1, europaea,Kohgiluyeh
+EU29,S1,0,0.79,27.75,Spain,-,Picudo, europaea,Spain
+IC3,S2,0.003150105,0.86,17.96,Iran,Khuzestan,Ketfe goushe, europaea,Khuzestan
+IC3,S3,0.005140624,0.86,17.96,Iran,Khuzestan,Ketfe goushe, europaea,Khuzestan
+IC3,S4,0,0.86,17.96,Iran,Khuzestan,Ketfe goushe, europaea,Khuzestan
+IC3,S5,0.119983113,0.86,17.96,Iran,Khuzestan,Ketfe goushe, europaea,Khuzestan
+IC3,S6,0.006114316,0.86,17.96,Iran,Khuzestan,Ketfe goushe, europaea,Khuzestan
+IC3,S7,0,0.86,17.96,Iran,Khuzestan,Ketfe goushe, europaea,Khuzestan
+IC3,S8,0.004786934,0.86,17.96,Iran,Khuzestan,Ketfe goushe, europaea,Khuzestan
+IC3,S9,0.447332565,0.86,17.96,Iran,Khuzestan,Ketfe goushe, europaea,Khuzestan
+IC3,S10,0.041293983,0.86,17.96,Iran,Khuzestan,Ketfe goushe, europaea,Khuzestan
+IC3,S11,0.290472397,0.86,17.96,Iran,Khuzestan,Ketfe goushe, europaea,Khuzestan
+IC3,S12,0.000443157,0.86,17.96,Iran,Khuzestan,Ketfe goushe, europaea,Khuzestan
+EU31,S1,0,0.7,37.68,Spain,-,Temprano, europaea,Spain
+IC30,S2,0,0.88,22.57,Iran,Kohgiluyeh,Delibayar4, europaea,Kohgiluyeh
+IC30,S3,0,0.88,22.57,Iran,Kohgiluyeh,Delibayar4, europaea,Kohgiluyeh
+IC30,S4,0.002816379,0.88,22.57,Iran,Kohgiluyeh,Delibayar4, europaea,Kohgiluyeh
+IC30,S5,0.034669486,0.88,22.57,Iran,Kohgiluyeh,Delibayar4, europaea,Kohgiluyeh
+IC30,S6,0,0.88,22.57,Iran,Kohgiluyeh,Delibayar4, europaea,Kohgiluyeh
+IC30,S7,0.037662563,0.88,22.57,Iran,Kohgiluyeh,Delibayar4, europaea,Kohgiluyeh
+IC30,S8,0,0.88,22.57,Iran,Kohgiluyeh,Delibayar4, europaea,Kohgiluyeh
+IC30,S9,0.78981347,0.88,22.57,Iran,Kohgiluyeh,Delibayar4, europaea,Kohgiluyeh
+IC30,S10,0,0.88,22.57,Iran,Kohgiluyeh,Delibayar4, europaea,Kohgiluyeh
+IC30,S11,0.135038103,0.88,22.57,Iran,Kohgiluyeh,Delibayar4, europaea,Kohgiluyeh
+IC30,S12,0,0.88,22.57,Iran,Kohgiluyeh,Delibayar4, europaea,Kohgiluyeh
+EU33,S1,0,0.69,40.38,Greece,-,Koroneiki, europaea,Greece
+IC31b,S2,0,0.87,21.14,Iran,Kohgiluyeh,Savari, europaea,Kohgiluyeh
+IC31b,S3,0,0.87,21.14,Iran,Kohgiluyeh,Savari, europaea,Kohgiluyeh
+IC31b,S4,0,0.87,21.14,Iran,Kohgiluyeh,Savari, europaea,Kohgiluyeh
+IC31b,S5,0,0.87,21.14,Iran,Kohgiluyeh,Savari, europaea,Kohgiluyeh
+IC31b,S6,0,0.87,21.14,Iran,Kohgiluyeh,Savari, europaea,Kohgiluyeh
+IC31b,S7,0,0.87,21.14,Iran,Kohgiluyeh,Savari, europaea,Kohgiluyeh
+IC31b,S8,0,0.87,21.14,Iran,Kohgiluyeh,Savari, europaea,Kohgiluyeh
+IC31b,S9,1,0.87,21.14,Iran,Kohgiluyeh,Savari, europaea,Kohgiluyeh
+IC31b,S10,0,0.87,21.14,Iran,Kohgiluyeh,Savari, europaea,Kohgiluyeh
+IC31b,S11,0,0.87,21.14,Iran,Kohgiluyeh,Savari, europaea,Kohgiluyeh
+IC31b,S12,0,0.87,21.14,Iran,Kohgiluyeh,Savari, europaea,Kohgiluyeh
+EU36,S1,0,0.79,30.68,Spain,-,Lechin de Sevilla, europaea,Spain
+IC32a,S2,0,0.86,23.84,Iran,Kohgiluyeh,PoleBreemk5, europaea,Kohgiluyeh
+IC32a,S3,0,0.86,23.84,Iran,Kohgiluyeh,PoleBreemk5, europaea,Kohgiluyeh
+IC32a,S4,0,0.86,23.84,Iran,Kohgiluyeh,PoleBreemk5, europaea,Kohgiluyeh
+IC32a,S5,0,0.86,23.84,Iran,Kohgiluyeh,PoleBreemk5, europaea,Kohgiluyeh
+IC32a,S6,0,0.86,23.84,Iran,Kohgiluyeh,PoleBreemk5, europaea,Kohgiluyeh
+IC32a,S7,0,0.86,23.84,Iran,Kohgiluyeh,PoleBreemk5, europaea,Kohgiluyeh
+IC32a,S8,0,0.86,23.84,Iran,Kohgiluyeh,PoleBreemk5, europaea,Kohgiluyeh
+IC32a,S9,1,0.86,23.84,Iran,Kohgiluyeh,PoleBreemk5, europaea,Kohgiluyeh
+IC32a,S10,0,0.86,23.84,Iran,Kohgiluyeh,PoleBreemk5, europaea,Kohgiluyeh
+IC32a,S11,0,0.86,23.84,Iran,Kohgiluyeh,PoleBreemk5, europaea,Kohgiluyeh
+IC32a,S12,0,0.86,23.84,Iran,Kohgiluyeh,PoleBreemk5, europaea,Kohgiluyeh
+EU41,S1,0,0.69,33.32,Algeria,-,Chemlal de Kabylie, europaea,Algeria
+IC33,S2,0,0.83,16.83,Iran,Kohgiluyeh,TangeTamoradik6, europaea,Kohgiluyeh
+IC33,S3,0,0.83,16.83,Iran,Kohgiluyeh,TangeTamoradik6, europaea,Kohgiluyeh
+IC33,S4,0,0.83,16.83,Iran,Kohgiluyeh,TangeTamoradik6, europaea,Kohgiluyeh
+IC33,S5,0,0.83,16.83,Iran,Kohgiluyeh,TangeTamoradik6, europaea,Kohgiluyeh
+IC33,S6,0,0.83,16.83,Iran,Kohgiluyeh,TangeTamoradik6, europaea,Kohgiluyeh
+IC33,S7,0,0.83,16.83,Iran,Kohgiluyeh,TangeTamoradik6, europaea,Kohgiluyeh
+IC33,S8,0,0.83,16.83,Iran,Kohgiluyeh,TangeTamoradik6, europaea,Kohgiluyeh
+IC33,S9,1,0.83,16.83,Iran,Kohgiluyeh,TangeTamoradik6, europaea,Kohgiluyeh
+IC33,S10,0,0.83,16.83,Iran,Kohgiluyeh,TangeTamoradik6, europaea,Kohgiluyeh
+IC33,S11,0,0.83,16.83,Iran,Kohgiluyeh,TangeTamoradik6, europaea,Kohgiluyeh
+IC33,S12,0,0.83,16.83,Iran,Kohgiluyeh,TangeTamoradik6, europaea,Kohgiluyeh
+EU42,S1,0,0.68,42.74,Spain,-,Wild02, Sylvestris,Spain
+IC34a,S2,0,0.87,25.36,Iran,Kohgiluyeh,TangTamoradi114493, europaea,Kohgiluyeh
+IC34a,S3,0,0.87,25.36,Iran,Kohgiluyeh,TangTamoradi114493, europaea,Kohgiluyeh
+IC34a,S4,0,0.87,25.36,Iran,Kohgiluyeh,TangTamoradi114493, europaea,Kohgiluyeh
+IC34a,S5,0,0.87,25.36,Iran,Kohgiluyeh,TangTamoradi114493, europaea,Kohgiluyeh
+IC34a,S6,0,0.87,25.36,Iran,Kohgiluyeh,TangTamoradi114493, europaea,Kohgiluyeh
+IC34a,S7,0,0.87,25.36,Iran,Kohgiluyeh,TangTamoradi114493, europaea,Kohgiluyeh
+IC34a,S8,0,0.87,25.36,Iran,Kohgiluyeh,TangTamoradi114493, europaea,Kohgiluyeh
+IC34a,S9,1,0.87,25.36,Iran,Kohgiluyeh,TangTamoradi114493, europaea,Kohgiluyeh
+IC34a,S10,0,0.87,25.36,Iran,Kohgiluyeh,TangTamoradi114493, europaea,Kohgiluyeh
+IC34a,S11,0,0.87,25.36,Iran,Kohgiluyeh,TangTamoradi114493, europaea,Kohgiluyeh
+IC34a,S12,0,0.87,25.36,Iran,Kohgiluyeh,TangTamoradi114493, europaea,Kohgiluyeh
+EU43,S1,0,0.69,45.59,Croatia,-,Wild01, Sylvestris,Croatia
+IC36,S2,0.001436103,0.86,14.4,Iran,Boushehr,Kheirak-jonoobi, europaea,Boushehr
+IC36,S3,0,0.86,14.4,Iran,Boushehr,Kheirak-jonoobi, europaea,Boushehr
+IC36,S4,0,0.86,14.4,Iran,Boushehr,Kheirak-jonoobi, europaea,Boushehr
+IC36,S5,0.016608402,0.86,14.4,Iran,Boushehr,Kheirak-jonoobi, europaea,Boushehr
+IC36,S6,0.004924892,0.86,14.4,Iran,Boushehr,Kheirak-jonoobi, europaea,Boushehr
+IC36,S7,0,0.86,14.4,Iran,Boushehr,Kheirak-jonoobi, europaea,Boushehr
+IC36,S8,0.003126432,0.86,14.4,Iran,Boushehr,Kheirak-jonoobi, europaea,Boushehr
+IC36,S9,0.675977222,0.86,14.4,Iran,Boushehr,Kheirak-jonoobi, europaea,Boushehr
+IC36,S10,0.013812688,0.86,14.4,Iran,Boushehr,Kheirak-jonoobi, europaea,Boushehr
+IC36,S11,0.26492735,0.86,14.4,Iran,Boushehr,Kheirak-jonoobi, europaea,Boushehr
+IC36,S12,0.001879913,0.86,14.4,Iran,Boushehr,Kheirak-jonoobi, europaea,Boushehr
+EU47,S1,0,0.71,25.25,Greece,-,Kalamon, europaea,Greece
+IC37,S2,0.011142884,0.87,17.57,Iran,Kermanshah,Deh-Sefid8, europaea,Kermanshah
+IC37,S3,0.002374617,0.87,17.57,Iran,Kermanshah,Deh-Sefid8, europaea,Kermanshah
+IC37,S4,0.004304398,0.87,17.57,Iran,Kermanshah,Deh-Sefid8, europaea,Kermanshah
+IC37,S5,0.098862015,0.87,17.57,Iran,Kermanshah,Deh-Sefid8, europaea,Kermanshah
+IC37,S6,0.006753012,0.87,17.57,Iran,Kermanshah,Deh-Sefid8, europaea,Kermanshah
+IC37,S7,0,0.87,17.57,Iran,Kermanshah,Deh-Sefid8, europaea,Kermanshah
+IC37,S8,0.008325442,0.87,17.57,Iran,Kermanshah,Deh-Sefid8, europaea,Kermanshah
+IC37,S9,0.145545964,0.87,17.57,Iran,Kermanshah,Deh-Sefid8, europaea,Kermanshah
+IC37,S10,0,0.87,17.57,Iran,Kermanshah,Deh-Sefid8, europaea,Kermanshah
+IC37,S11,0.429618645,0.87,17.57,Iran,Kermanshah,Deh-Sefid8, europaea,Kermanshah
+IC37,S12,0.022105256,0.87,17.57,Iran,Kermanshah,Deh-Sefid8, europaea,Kermanshah
+EU48,S1,0,0.62,36.63,Spain,-,Picual, europaea,Spain
+IC38,S2,0,0.87,21.66,Iran,Kermanshah,Dalahoo, europaea,Kermanshah
+IC38,S3,0,0.87,21.66,Iran,Kermanshah,Dalahoo, europaea,Kermanshah
+IC38,S4,0,0.87,21.66,Iran,Kermanshah,Dalahoo, europaea,Kermanshah
+IC38,S5,0.074343547,0.87,21.66,Iran,Kermanshah,Dalahoo, europaea,Kermanshah
+IC38,S6,0,0.87,21.66,Iran,Kermanshah,Dalahoo, europaea,Kermanshah
+IC38,S7,0.414716363,0.87,21.66,Iran,Kermanshah,Dalahoo, europaea,Kermanshah
+IC38,S8,0,0.87,21.66,Iran,Kermanshah,Dalahoo, europaea,Kermanshah
+IC38,S9,0.146827782,0.87,21.66,Iran,Kermanshah,Dalahoo, europaea,Kermanshah
+IC38,S10,0,0.87,21.66,Iran,Kermanshah,Dalahoo, europaea,Kermanshah
+IC38,S11,0.327101185,0.87,21.66,Iran,Kermanshah,Dalahoo, europaea,Kermanshah
+IC38,S12,0,0.87,21.66,Iran,Kermanshah,Dalahoo, europaea,Kermanshah
+EU52,S1,0,0.62,36.6,Spain,-,SRR10075692, europaea,Spain
+IC39,S2,0.001743444,0.87,18.56,Iran,Kermanshah,Banavareh7, europaea,Kermanshah
+IC39,S3,0.008708767,0.87,18.56,Iran,Kermanshah,Banavareh7, europaea,Kermanshah
+IC39,S4,0.013189325,0.87,18.56,Iran,Kermanshah,Banavareh7, europaea,Kermanshah
+IC39,S5,0.067866053,0.87,18.56,Iran,Kermanshah,Banavareh7, europaea,Kermanshah
+IC39,S6,0.002110824,0.87,18.56,Iran,Kermanshah,Banavareh7, europaea,Kermanshah
+IC39,S7,0.011318383,0.87,18.56,Iran,Kermanshah,Banavareh7, europaea,Kermanshah
+IC39,S8,0.005155135,0.87,18.56,Iran,Kermanshah,Banavareh7, europaea,Kermanshah
+IC39,S9,0.107525963,0.87,18.56,Iran,Kermanshah,Banavareh7, europaea,Kermanshah
+IC39,S10,0.026550029,0.87,18.56,Iran,Kermanshah,Banavareh7, europaea,Kermanshah
+IC39,S11,0.492268329,0.87,18.56,Iran,Kermanshah,Banavareh7, europaea,Kermanshah
+IC39,S12,0.0484604,0.87,18.56,Iran,Kermanshah,Banavareh7, europaea,Kermanshah
+EU53,S1,0,0.62,36.61,Spain,-,SRR10075695, europaea,Spain
+IC40,S2,0,0.88,20.11,Iran,Kermanshah,Deh-Sefid3, europaea,Kermanshah
+IC40,S3,0,0.88,20.11,Iran,Kermanshah,Deh-Sefid3, europaea,Kermanshah
+IC40,S4,0,0.88,20.11,Iran,Kermanshah,Deh-Sefid3, europaea,Kermanshah
+IC40,S5,0.203378632,0.88,20.11,Iran,Kermanshah,Deh-Sefid3, europaea,Kermanshah
+IC40,S6,0,0.88,20.11,Iran,Kermanshah,Deh-Sefid3, europaea,Kermanshah
+IC40,S7,0.125240122,0.88,20.11,Iran,Kermanshah,Deh-Sefid3, europaea,Kermanshah
+IC40,S8,0,0.88,20.11,Iran,Kermanshah,Deh-Sefid3, europaea,Kermanshah
+IC40,S9,0.091941018,0.88,20.11,Iran,Kermanshah,Deh-Sefid3, europaea,Kermanshah
+IC40,S10,0,0.88,20.11,Iran,Kermanshah,Deh-Sefid3, europaea,Kermanshah
+IC40,S11,0.579440227,0.88,20.11,Iran,Kermanshah,Deh-Sefid3, europaea,Kermanshah
+IC40,S12,0,0.88,20.11,Iran,Kermanshah,Deh-Sefid3, europaea,Kermanshah
+EU54,S1,0,0.62,36.6,Spain,-,SRR10075694, europaea,Spain
+IC41,S2,0.012650023,0.86,16.31,Iran,Kermanshah,Banavareh6, europaea,Kermanshah
+IC41,S3,0.00101689,0.86,16.31,Iran,Kermanshah,Banavareh6, europaea,Kermanshah
+IC41,S4,0.00943567,0.86,16.31,Iran,Kermanshah,Banavareh6, europaea,Kermanshah
+IC41,S5,0.088013148,0.86,16.31,Iran,Kermanshah,Banavareh6, europaea,Kermanshah
+IC41,S6,0.001215588,0.86,16.31,Iran,Kermanshah,Banavareh6, europaea,Kermanshah
+IC41,S7,0,0.86,16.31,Iran,Kermanshah,Banavareh6, europaea,Kermanshah
+IC41,S8,0.00145942,0.86,16.31,Iran,Kermanshah,Banavareh6, europaea,Kermanshah
+IC41,S9,0.127172796,0.86,16.31,Iran,Kermanshah,Banavareh6, europaea,Kermanshah
+IC41,S10,0,0.86,16.31,Iran,Kermanshah,Banavareh6, europaea,Kermanshah
+IC41,S11,0.407289882,0.86,16.31,Iran,Kermanshah,Banavareh6, europaea,Kermanshah
+IC41,S12,0.007918804,0.86,16.31,Iran,Kermanshah,Banavareh6, europaea,Kermanshah
+EU58,S1,0,0.67,31.42,Greece,-,Koroneiki, europaea,Greece
+IC42,S2,0,0.88,20.09,Iran,Kermanshah,Dasht-e-Direh1, europaea,Kermanshah
+IC42,S3,0,0.88,20.09,Iran,Kermanshah,Dasht-e-Direh1, europaea,Kermanshah
+IC42,S4,0,0.88,20.09,Iran,Kermanshah,Dasht-e-Direh1, europaea,Kermanshah
+IC42,S5,0.060279375,0.88,20.09,Iran,Kermanshah,Dasht-e-Direh1, europaea,Kermanshah
+IC42,S6,0,0.88,20.09,Iran,Kermanshah,Dasht-e-Direh1, europaea,Kermanshah
+IC42,S7,0.431959992,0.88,20.09,Iran,Kermanshah,Dasht-e-Direh1, europaea,Kermanshah
+IC42,S8,0,0.88,20.09,Iran,Kermanshah,Dasht-e-Direh1, europaea,Kermanshah
+IC42,S9,0.113869167,0.88,20.09,Iran,Kermanshah,Dasht-e-Direh1, europaea,Kermanshah
+IC42,S10,0,0.88,20.09,Iran,Kermanshah,Dasht-e-Direh1, europaea,Kermanshah
+IC42,S11,0.353786926,0.88,20.09,Iran,Kermanshah,Dasht-e-Direh1, europaea,Kermanshah
+IC42,S12,0,0.88,20.09,Iran,Kermanshah,Dasht-e-Direh1, europaea,Kermanshah
+EU59,S1,0,0.67,24.77,Algeria,-, Chemlal de Kabilye, europaea,Algeria
+IC44,S2,0,0.88,18.34,Iran,Kermanshah,Gilan-e-Gharb, europaea,Kermanshah
+IC44,S3,0,0.88,18.34,Iran,Kermanshah,Gilan-e-Gharb, europaea,Kermanshah
+IC44,S4,0,0.88,18.34,Iran,Kermanshah,Gilan-e-Gharb, europaea,Kermanshah
+IC44,S5,0.027929743,0.88,18.34,Iran,Kermanshah,Gilan-e-Gharb, europaea,Kermanshah
+IC44,S6,0,0.88,18.34,Iran,Kermanshah,Gilan-e-Gharb, europaea,Kermanshah
+IC44,S7,0.046613716,0.88,18.34,Iran,Kermanshah,Gilan-e-Gharb, europaea,Kermanshah
+IC44,S8,4.84E-05,0.88,18.34,Iran,Kermanshah,Gilan-e-Gharb, europaea,Kermanshah
+IC44,S9,0.101961444,0.88,18.34,Iran,Kermanshah,Gilan-e-Gharb, europaea,Kermanshah
+IC44,S10,0,0.88,18.34,Iran,Kermanshah,Gilan-e-Gharb, europaea,Kermanshah
+IC44,S11,0.61756942,0.88,18.34,Iran,Kermanshah,Gilan-e-Gharb, europaea,Kermanshah
+IC44,S12,0.018434328,0.88,18.34,Iran,Kermanshah,Gilan-e-Gharb, europaea,Kermanshah
+EU6,S1,0,0.68,32.72,Spain,-,Wild 11, Sylvestris,Spain
+IC49a,S2,0.055492698,0.87,20.71,Iran,Tarom,T1, europaea,Tarom
+IC49a,S3,0.001029983,0.87,20.71,Iran,Tarom,T1, europaea,Tarom
+IC49a,S4,0,0.87,20.71,Iran,Tarom,T1, europaea,Tarom
+IC49a,S5,0.026872364,0.87,20.71,Iran,Tarom,T1, europaea,Tarom
+IC49a,S6,0,0.87,20.71,Iran,Tarom,T1, europaea,Tarom
+IC49a,S7,0.069015991,0.87,20.71,Iran,Tarom,T1, europaea,Tarom
+IC49a,S8,0,0.87,20.71,Iran,Tarom,T1, europaea,Tarom
+IC49a,S9,0.040118077,0.87,20.71,Iran,Tarom,T1, europaea,Tarom
+IC49a,S10,0.212026493,0.87,20.71,Iran,Tarom,T1, europaea,Tarom
+IC49a,S11,0.185992354,0.87,20.71,Iran,Tarom,T1, europaea,Tarom
+IC49a,S12,0.046603653,0.87,20.71,Iran,Tarom,T1, europaea,Tarom
+EU60,S1,0,0.66,31.66,Greece,-,Megaritiki , europaea,Greece
+IC4b,S2,0.006063397,0.86,20.4,Iran,Khuzestan,Avend, europaea,Khuzestan
+IC4b,S3,0.009102424,0.86,20.4,Iran,Khuzestan,Avend, europaea,Khuzestan
+IC4b,S4,0,0.86,20.4,Iran,Khuzestan,Avend, europaea,Khuzestan
+IC4b,S5,0.124190387,0.86,20.4,Iran,Khuzestan,Avend, europaea,Khuzestan
+IC4b,S6,0,0.86,20.4,Iran,Khuzestan,Avend, europaea,Khuzestan
+IC4b,S7,0,0.86,20.4,Iran,Khuzestan,Avend, europaea,Khuzestan
+IC4b,S8,0,0.86,20.4,Iran,Khuzestan,Avend, europaea,Khuzestan
+IC4b,S9,0.442356951,0.86,20.4,Iran,Khuzestan,Avend, europaea,Khuzestan
+IC4b,S10,0.051569935,0.86,20.4,Iran,Khuzestan,Avend, europaea,Khuzestan
+IC4b,S11,0.301455215,0.86,20.4,Iran,Khuzestan,Avend, europaea,Khuzestan
+IC4b,S12,0.009947096,0.86,20.4,Iran,Khuzestan,Avend, europaea,Khuzestan
+EU62,S1,0,0.66,54.36,Spain,-,Pechon, Sylvestris,Spain
+IC5,S2,0.001862033,0.86,20.35,Iran,Khuzestan,Chele nesa'a, europaea,Khuzestan
+IC5,S3,0.002264061,0.86,20.35,Iran,Khuzestan,Chele nesa'a, europaea,Khuzestan
+IC5,S4,0,0.86,20.35,Iran,Khuzestan,Chele nesa'a, europaea,Khuzestan
+IC5,S5,0.114092557,0.86,20.35,Iran,Khuzestan,Chele nesa'a, europaea,Khuzestan
+IC5,S6,0,0.86,20.35,Iran,Khuzestan,Chele nesa'a, europaea,Khuzestan
+IC5,S7,0,0.86,20.35,Iran,Khuzestan,Chele nesa'a, europaea,Khuzestan
+IC5,S8,0.003998494,0.86,20.35,Iran,Khuzestan,Chele nesa'a, europaea,Khuzestan
+IC5,S9,0.475916265,0.86,20.35,Iran,Khuzestan,Chele nesa'a, europaea,Khuzestan
+IC5,S10,0.048237891,0.86,20.35,Iran,Khuzestan,Chele nesa'a, europaea,Khuzestan
+IC5,S11,0.289660357,0.86,20.35,Iran,Khuzestan,Chele nesa'a, europaea,Khuzestan
+IC5,S12,0.009706742,0.86,20.35,Iran,Khuzestan,Chele nesa'a, europaea,Khuzestan
+EU63,S1,0,0.59,55.2,Greece,-,Cuspidata, Cuspidata,Greece
+IC50b,S2,0,0.87,20.15,Iran,Tarom,T2, europaea,Tarom
+IC50b,S3,0,0.87,20.15,Iran,Tarom,T2, europaea,Tarom
+IC50b,S4,0,0.87,20.15,Iran,Tarom,T2, europaea,Tarom
+IC50b,S5,0.051068717,0.87,20.15,Iran,Tarom,T2, europaea,Tarom
+IC50b,S6,0,0.87,20.15,Iran,Tarom,T2, europaea,Tarom
+IC50b,S7,0.492113638,0.87,20.15,Iran,Tarom,T2, europaea,Tarom
+IC50b,S8,0,0.87,20.15,Iran,Tarom,T2, europaea,Tarom
+IC50b,S9,0.09459542,0.87,20.15,Iran,Tarom,T2, europaea,Tarom
+IC50b,S10,0.146333583,0.87,20.15,Iran,Tarom,T2, europaea,Tarom
+IC50b,S11,0.144042049,0.87,20.15,Iran,Tarom,T2, europaea,Tarom
+IC50b,S12,0,0.87,20.15,Iran,Tarom,T2, europaea,Tarom
+EU64,S1,0,0.68,49.14,Spain,-,Lechin_Sevilla1, europaea,Spain
+IC51,S2,0,0.87,18.93,Iran,Tarom,T4, europaea,Tarom
+IC51,S3,0,0.87,18.93,Iran,Tarom,T4, europaea,Tarom
+IC51,S4,0,0.87,18.93,Iran,Tarom,T4, europaea,Tarom
+IC51,S5,0.024842431,0.87,18.93,Iran,Tarom,T4, europaea,Tarom
+IC51,S6,0.003086312,0.87,18.93,Iran,Tarom,T4, europaea,Tarom
+IC51,S7,0.011609961,0.87,18.93,Iran,Tarom,T4, europaea,Tarom
+IC51,S8,0,0.87,18.93,Iran,Tarom,T4, europaea,Tarom
+IC51,S9,0,0.87,18.93,Iran,Tarom,T4, europaea,Tarom
+IC51,S10,0.058949662,0.87,18.93,Iran,Tarom,T4, europaea,Tarom
+IC51,S11,0.015149404,0.87,18.93,Iran,Tarom,T4, europaea,Tarom
+IC51,S12,0,0.87,18.93,Iran,Tarom,T4, europaea,Tarom
+EU65,S1,0,0.68,47.02,Spain,-,Lechin_Sevilla2, europaea,Spain
+IC52,S2,0.081218699,0.88,22.29,Iran,Tarom,T5, europaea,Tarom
+IC52,S3,0,0.88,22.29,Iran,Tarom,T5, europaea,Tarom
+IC52,S4,0,0.88,22.29,Iran,Tarom,T5, europaea,Tarom
+IC52,S5,0.044361605,0.88,22.29,Iran,Tarom,T5, europaea,Tarom
+IC52,S6,0,0.88,22.29,Iran,Tarom,T5, europaea,Tarom
+IC52,S7,0.097543288,0.88,22.29,Iran,Tarom,T5, europaea,Tarom
+IC52,S8,0,0.88,22.29,Iran,Tarom,T5, europaea,Tarom
+IC52,S9,0,0.88,22.29,Iran,Tarom,T5, europaea,Tarom
+IC52,S10,0.283876456,0.88,22.29,Iran,Tarom,T5, europaea,Tarom
+IC52,S11,0.001533954,0.88,22.29,Iran,Tarom,T5, europaea,Tarom
+IC52,S12,0.017161897,0.88,22.29,Iran,Tarom,T5, europaea,Tarom
+EU66,S1,0,0.68,47.14,Spain,-,Picual, europaea,Spain
+IC53,S2,0,0.87,21.61,Iran,Tarom,T6, europaea,Tarom
+IC53,S3,0,0.87,21.61,Iran,Tarom,T6, europaea,Tarom
+IC53,S4,0,0.87,21.61,Iran,Tarom,T6, europaea,Tarom
+IC53,S5,0.042858356,0.87,21.61,Iran,Tarom,T6, europaea,Tarom
+IC53,S6,0,0.87,21.61,Iran,Tarom,T6, europaea,Tarom
+IC53,S7,0.296053502,0.87,21.61,Iran,Tarom,T6, europaea,Tarom
+IC53,S8,0,0.87,21.61,Iran,Tarom,T6, europaea,Tarom
+IC53,S9,0.082109882,0.87,21.61,Iran,Tarom,T6, europaea,Tarom
+IC53,S10,0.185391073,0.87,21.61,Iran,Tarom,T6, europaea,Tarom
+IC53,S11,0.134717719,0.87,21.61,Iran,Tarom,T6, europaea,Tarom
+IC53,S12,0,0.87,21.61,Iran,Tarom,T6, europaea,Tarom
+EU7,S1,0,0.69,34.77,Albania,-,Wild 09, Sylvestris,Albania
+IC54,S2,0,0.87,13.35,Iran,Tarom,T7, europaea,Tarom
+IC54,S3,0,0.87,13.35,Iran,Tarom,T7, europaea,Tarom
+IC54,S4,0,0.87,13.35,Iran,Tarom,T7, europaea,Tarom
+IC54,S5,0,0.87,13.35,Iran,Tarom,T7, europaea,Tarom
+IC54,S6,0,0.87,13.35,Iran,Tarom,T7, europaea,Tarom
+IC54,S7,0,0.87,13.35,Iran,Tarom,T7, europaea,Tarom
+IC54,S8,0,0.87,13.35,Iran,Tarom,T7, europaea,Tarom
+IC54,S9,0,0.87,13.35,Iran,Tarom,T7, europaea,Tarom
+IC54,S10,0,0.87,13.35,Iran,Tarom,T7, europaea,Tarom
+IC54,S11,0,0.87,13.35,Iran,Tarom,T7, europaea,Tarom
+IC54,S12,0,0.87,13.35,Iran,Tarom,T7, europaea,Tarom
+EU72,S1,0,0.64,27.41,Greece,-,Tragolia, europaea,Greece
+IC56b,S2,0,0.83,18.19,Iran,Tarom,T8, europaea,Tarom
+IC56b,S3,0.005526357,0.83,18.19,Iran,Tarom,T8, europaea,Tarom
+IC56b,S4,0,0.83,18.19,Iran,Tarom,T8, europaea,Tarom
+IC56b,S5,0.04958947,0.83,18.19,Iran,Tarom,T8, europaea,Tarom
+IC56b,S6,0,0.83,18.19,Iran,Tarom,T8, europaea,Tarom
+IC56b,S7,0,0.83,18.19,Iran,Tarom,T8, europaea,Tarom
+IC56b,S8,0.006829688,0.83,18.19,Iran,Tarom,T8, europaea,Tarom
+IC56b,S9,0,0.83,18.19,Iran,Tarom,T8, europaea,Tarom
+IC56b,S10,0,0.83,18.19,Iran,Tarom,T8, europaea,Tarom
+IC56b,S11,0.218912274,0.83,18.19,Iran,Tarom,T8, europaea,Tarom
+IC56b,S12,0,0.83,18.19,Iran,Tarom,T8, europaea,Tarom
+EU73,S1,0,0.66,23.12,Greece,-,Mavrolia Lefkados, europaea,Greece
+IC58a,S2,0,0.88,19.18,Iran,Tarom,T10, europaea,Tarom
+IC58a,S3,0,0.88,19.18,Iran,Tarom,T10, europaea,Tarom
+IC58a,S4,0,0.88,19.18,Iran,Tarom,T10, europaea,Tarom
+IC58a,S5,0.060102682,0.88,19.18,Iran,Tarom,T10, europaea,Tarom
+IC58a,S6,0,0.88,19.18,Iran,Tarom,T10, europaea,Tarom
+IC58a,S7,0,0.88,19.18,Iran,Tarom,T10, europaea,Tarom
+IC58a,S8,0,0.88,19.18,Iran,Tarom,T10, europaea,Tarom
+IC58a,S9,0,0.88,19.18,Iran,Tarom,T10, europaea,Tarom
+IC58a,S10,0,0.88,19.18,Iran,Tarom,T10, europaea,Tarom
+IC58a,S11,0.939897318,0.88,19.18,Iran,Tarom,T10, europaea,Tarom
+IC58a,S12,0,0.88,19.18,Iran,Tarom,T10, europaea,Tarom
+EU78,S1,0,0.63,26.91,Greece,-,Lianolia Kerkyras, europaea,Greece
+IC59a,S2,0.033762001,0.86,31.99,Iran,Tarom,T12, europaea,Tarom
+IC59a,S3,0,0.86,31.99,Iran,Tarom,T12, europaea,Tarom
+IC59a,S4,0,0.86,31.99,Iran,Tarom,T12, europaea,Tarom
+IC59a,S5,0.258903305,0.86,31.99,Iran,Tarom,T12, europaea,Tarom
+IC59a,S6,0,0.86,31.99,Iran,Tarom,T12, europaea,Tarom
+IC59a,S7,0,0.86,31.99,Iran,Tarom,T12, europaea,Tarom
+IC59a,S8,0.01594369,0.86,31.99,Iran,Tarom,T12, europaea,Tarom
+IC59a,S9,0,0.86,31.99,Iran,Tarom,T12, europaea,Tarom
+IC59a,S10,0.691391004,0.86,31.99,Iran,Tarom,T12, europaea,Tarom
+IC59a,S11,0,0.86,31.99,Iran,Tarom,T12, europaea,Tarom
+IC59a,S12,0,0.86,31.99,Iran,Tarom,T12, europaea,Tarom
+EU8,S1,0,0.69,35.48,Morocco,-,Wild 08, Sylvestris,Morocco
+IC60,S2,0.036614686,0.87,23.58,Iran,Tarom,T14, europaea,Tarom
+IC60,S3,0,0.87,23.58,Iran,Tarom,T14, europaea,Tarom
+IC60,S4,0,0.87,23.58,Iran,Tarom,T14, europaea,Tarom
+IC60,S5,0.256533129,0.87,23.58,Iran,Tarom,T14, europaea,Tarom
+IC60,S6,0,0.87,23.58,Iran,Tarom,T14, europaea,Tarom
+IC60,S7,0,0.87,23.58,Iran,Tarom,T14, europaea,Tarom
+IC60,S8,0.008984246,0.87,23.58,Iran,Tarom,T14, europaea,Tarom
+IC60,S9,0,0.87,23.58,Iran,Tarom,T14, europaea,Tarom
+IC60,S10,0.697844097,0.87,23.58,Iran,Tarom,T14, europaea,Tarom
+IC60,S11,0,0.87,23.58,Iran,Tarom,T14, europaea,Tarom
+IC60,S12,2.38E-05,0.87,23.58,Iran,Tarom,T14, europaea,Tarom
+EU80,S1,0,0.67,27.63,Greece,-,Kalokairida, europaea,Greece
+IC61,S2,0,0.88,20.21,Iran,Tarom,T15, europaea,Tarom
+IC61,S3,0,0.88,20.21,Iran,Tarom,T15, europaea,Tarom
+IC61,S4,0,0.88,20.21,Iran,Tarom,T15, europaea,Tarom
+IC61,S5,0.961011967,0.88,20.21,Iran,Tarom,T15, europaea,Tarom
+IC61,S6,0.002474479,0.88,20.21,Iran,Tarom,T15, europaea,Tarom
+IC61,S7,0,0.88,20.21,Iran,Tarom,T15, europaea,Tarom
+IC61,S8,0.002428353,0.88,20.21,Iran,Tarom,T15, europaea,Tarom
+IC61,S9,0,0.88,20.21,Iran,Tarom,T15, europaea,Tarom
+IC61,S10,0,0.88,20.21,Iran,Tarom,T15, europaea,Tarom
+IC61,S11,0,0.88,20.21,Iran,Tarom,T15, europaea,Tarom
+IC61,S12,0,0.88,20.21,Iran,Tarom,T15, europaea,Tarom
+EU84,S1,0,0.59,26.33,Greece,-,Olea cuspidata, Cuspidata,Greece
+IC62,S2,0.01735011,0.87,23.34,Iran,Tarom,T16, europaea,Tarom
+IC62,S3,0,0.87,23.34,Iran,Tarom,T16, europaea,Tarom
+IC62,S4,0.001074627,0.87,23.34,Iran,Tarom,T16, europaea,Tarom
+IC62,S5,0.298685929,0.87,23.34,Iran,Tarom,T16, europaea,Tarom
+IC62,S6,0,0.87,23.34,Iran,Tarom,T16, europaea,Tarom
+IC62,S7,0,0.87,23.34,Iran,Tarom,T16, europaea,Tarom
+IC62,S8,0.028693416,0.87,23.34,Iran,Tarom,T16, europaea,Tarom
+IC62,S9,0,0.87,23.34,Iran,Tarom,T16, europaea,Tarom
+IC62,S10,0.646151941,0.87,23.34,Iran,Tarom,T16, europaea,Tarom
+IC62,S11,0.008043977,0.87,23.34,Iran,Tarom,T16, europaea,Tarom
+IC62,S12,0,0.87,23.34,Iran,Tarom,T16, europaea,Tarom
+EU97,S1,0,0.66,26.26,Spain,-,Picual, europaea,Spain
+IC63,S2,0.018446525,0.89,21.2,Iran,Tarom,T17, europaea,Tarom
+IC63,S3,0,0.89,21.2,Iran,Tarom,T17, europaea,Tarom
+IC63,S4,0,0.89,21.2,Iran,Tarom,T17, europaea,Tarom
+IC63,S5,0.007215739,0.89,21.2,Iran,Tarom,T17, europaea,Tarom
+IC63,S6,0,0.89,21.2,Iran,Tarom,T17, europaea,Tarom
+IC63,S7,0.268619427,0.89,21.2,Iran,Tarom,T17, europaea,Tarom
+IC63,S8,0.01002619,0.89,21.2,Iran,Tarom,T17, europaea,Tarom
+IC63,S9,0.019081236,0.89,21.2,Iran,Tarom,T17, europaea,Tarom
+IC63,S10,0.650970384,0.89,21.2,Iran,Tarom,T17, europaea,Tarom
+IC63,S11,0,0.89,21.2,Iran,Tarom,T17, europaea,Tarom
+IC63,S12,0.0256405,0.89,21.2,Iran,Tarom,T17, europaea,Tarom
+IC11,S1,0,0.87,20.16,Iran,Golestan,Minoudasht 3, europaea,Golestan
+IC64,S2,0.23165254,0.87,20.53,Iran,Tarom,T18, europaea,Tarom
+IC64,S3,0.006544052,0.87,20.53,Iran,Tarom,T18, europaea,Tarom
+IC64,S4,0,0.87,20.53,Iran,Tarom,T18, europaea,Tarom
+IC64,S5,0,0.87,20.53,Iran,Tarom,T18, europaea,Tarom
+IC64,S6,0,0.87,20.53,Iran,Tarom,T18, europaea,Tarom
+IC64,S7,0.044633172,0.87,20.53,Iran,Tarom,T18, europaea,Tarom
+IC64,S8,0,0.87,20.53,Iran,Tarom,T18, europaea,Tarom
+IC64,S9,0.020800753,0.87,20.53,Iran,Tarom,T18, europaea,Tarom
+IC64,S10,0.608070441,0.87,20.53,Iran,Tarom,T18, europaea,Tarom
+IC64,S11,0.016239603,0.87,20.53,Iran,Tarom,T18, europaea,Tarom
+IC64,S12,0.019478807,0.87,20.53,Iran,Tarom,T18, europaea,Tarom
+IC141,S1,0,0.86,21.57,Greece,Greece,Meidan, europaea,Greece
+IC65,S2,0.258804608,0.87,30.18,Iran,Tarom,T19, europaea,Tarom
+IC65,S3,0,0.87,30.18,Iran,Tarom,T19, europaea,Tarom
+IC65,S4,0,0.87,30.18,Iran,Tarom,T19, europaea,Tarom
+IC65,S5,0.043178778,0.87,30.18,Iran,Tarom,T19, europaea,Tarom
+IC65,S6,0.006479821,0.87,30.18,Iran,Tarom,T19, europaea,Tarom
+IC65,S7,0.115995705,0.87,30.18,Iran,Tarom,T19, europaea,Tarom
+IC65,S8,0.031749798,0.87,30.18,Iran,Tarom,T19, europaea,Tarom
+IC65,S9,0.008415418,0.87,30.18,Iran,Tarom,T19, europaea,Tarom
+IC65,S10,0.453914575,0.87,30.18,Iran,Tarom,T19, europaea,Tarom
+IC65,S11,0.037850094,0.87,30.18,Iran,Tarom,T19, europaea,Tarom
+IC65,S12,0,0.87,30.18,Iran,Tarom,T19, europaea,Tarom
+IC19,S1,0,0.87,29.39,Iran,Golestan,Ghazanghaye 1, europaea,Golestan
+IC66b,S2,0,0.88,27.17,Iran,Tarom,T20, europaea,Tarom
+IC66b,S3,0,0.88,27.17,Iran,Tarom,T20, europaea,Tarom
+IC66b,S4,0,0.88,27.17,Iran,Tarom,T20, europaea,Tarom
+IC66b,S5,1,0.88,27.17,Iran,Tarom,T20, europaea,Tarom
+IC66b,S6,0,0.88,27.17,Iran,Tarom,T20, europaea,Tarom
+IC66b,S7,0,0.88,27.17,Iran,Tarom,T20, europaea,Tarom
+IC66b,S8,0,0.88,27.17,Iran,Tarom,T20, europaea,Tarom
+IC66b,S9,0,0.88,27.17,Iran,Tarom,T20, europaea,Tarom
+IC66b,S10,0,0.88,27.17,Iran,Tarom,T20, europaea,Tarom
+IC66b,S11,0,0.88,27.17,Iran,Tarom,T20, europaea,Tarom
+IC66b,S12,0,0.88,27.17,Iran,Tarom,T20, europaea,Tarom
+IC20,S1,0,0.88,21.65,Iran,Golestan,Ghazanghaye 2, europaea,Golestan
+IC67a,S2,0,0.87,20.08,Iran,Tarom,T21, europaea,Tarom
+IC67a,S3,0,0.87,20.08,Iran,Tarom,T21, europaea,Tarom
+IC67a,S4,0,0.87,20.08,Iran,Tarom,T21, europaea,Tarom
+IC67a,S5,1,0.87,20.08,Iran,Tarom,T21, europaea,Tarom
+IC67a,S6,0,0.87,20.08,Iran,Tarom,T21, europaea,Tarom
+IC67a,S7,0,0.87,20.08,Iran,Tarom,T21, europaea,Tarom
+IC67a,S8,0,0.87,20.08,Iran,Tarom,T21, europaea,Tarom
+IC67a,S9,0,0.87,20.08,Iran,Tarom,T21, europaea,Tarom
+IC67a,S10,0,0.87,20.08,Iran,Tarom,T21, europaea,Tarom
+IC67a,S11,0,0.87,20.08,Iran,Tarom,T21, europaea,Tarom
+IC67a,S12,0,0.87,20.08,Iran,Tarom,T21, europaea,Tarom
+IC24b,S1,0,0.87,15.3,Iran,Golestan,Azadshahr 2, europaea,Golestan
+IC68a,S2,0,0.87,28.44,Iran,Tarom,T23, europaea,Tarom
+IC68a,S3,0,0.87,28.44,Iran,Tarom,T23, europaea,Tarom
+IC68a,S4,0,0.87,28.44,Iran,Tarom,T23, europaea,Tarom
+IC68a,S5,0.451942829,0.87,28.44,Iran,Tarom,T23, europaea,Tarom
+IC68a,S6,0,0.87,28.44,Iran,Tarom,T23, europaea,Tarom
+IC68a,S7,0.547504511,0.87,28.44,Iran,Tarom,T23, europaea,Tarom
+IC68a,S8,0.000552661,0.87,28.44,Iran,Tarom,T23, europaea,Tarom
+IC68a,S9,0,0.87,28.44,Iran,Tarom,T23, europaea,Tarom
+IC68a,S10,0,0.87,28.44,Iran,Tarom,T23, europaea,Tarom
+IC68a,S11,0,0.87,28.44,Iran,Tarom,T23, europaea,Tarom
+IC68a,S12,0,0.87,28.44,Iran,Tarom,T23, europaea,Tarom
+IC27,S1,0,0.89,17.51,Iran,Kohgiluyeh,Mondan2, europaea,Kohgiluyeh
+IC69b,S2,0,0.87,25.49,Iran,Tarom,T24, europaea,Tarom
+IC69b,S3,0,0.87,25.49,Iran,Tarom,T24, europaea,Tarom
+IC69b,S4,0,0.87,25.49,Iran,Tarom,T24, europaea,Tarom
+IC69b,S5,0.45839921,0.87,25.49,Iran,Tarom,T24, europaea,Tarom
+IC69b,S6,0,0.87,25.49,Iran,Tarom,T24, europaea,Tarom
+IC69b,S7,0.54160079,0.87,25.49,Iran,Tarom,T24, europaea,Tarom
+IC69b,S8,0,0.87,25.49,Iran,Tarom,T24, europaea,Tarom
+IC69b,S9,0,0.87,25.49,Iran,Tarom,T24, europaea,Tarom
+IC69b,S10,0,0.87,25.49,Iran,Tarom,T24, europaea,Tarom
+IC69b,S11,0,0.87,25.49,Iran,Tarom,T24, europaea,Tarom
+IC69b,S12,0,0.87,25.49,Iran,Tarom,T24, europaea,Tarom
+IC29,S1,0,0.87,20.14,Iran,Kohgiluyeh,Delibayar1, europaea,Kohgiluyeh
+IC6a,S2,0,0.85,21.66,Iran,Khuzestan,Mavi 1, europaea,Khuzestan
+IC6a,S3,0,0.85,21.66,Iran,Khuzestan,Mavi 1, europaea,Khuzestan
+IC6a,S4,0,0.85,21.66,Iran,Khuzestan,Mavi 1, europaea,Khuzestan
+IC6a,S5,0.082702379,0.85,21.66,Iran,Khuzestan,Mavi 1, europaea,Khuzestan
+IC6a,S6,0,0.85,21.66,Iran,Khuzestan,Mavi 1, europaea,Khuzestan
+IC6a,S7,0.119179628,0.85,21.66,Iran,Khuzestan,Mavi 1, europaea,Khuzestan
+IC6a,S8,0,0.85,21.66,Iran,Khuzestan,Mavi 1, europaea,Khuzestan
+IC6a,S9,0.545044856,0.85,21.66,Iran,Khuzestan,Mavi 1, europaea,Khuzestan
+IC6a,S10,0,0.85,21.66,Iran,Khuzestan,Mavi 1, europaea,Khuzestan
+IC6a,S11,0.16544914,0.85,21.66,Iran,Khuzestan,Mavi 1, europaea,Khuzestan
+IC6a,S12,0,0.85,21.66,Iran,Khuzestan,Mavi 1, europaea,Khuzestan
+IC30,S1,0,0.88,22.57,Iran,Kohgiluyeh,Delibayar4, europaea,Kohgiluyeh
+IC7,S2,0,0.87,24.49,Iran,Khuzestan,Mavi 2, europaea,Khuzestan
+IC7,S3,0.00044946,0.87,24.49,Iran,Khuzestan,Mavi 2, europaea,Khuzestan
+IC7,S4,0,0.87,24.49,Iran,Khuzestan,Mavi 2, europaea,Khuzestan
+IC7,S5,0.071099169,0.87,24.49,Iran,Khuzestan,Mavi 2, europaea,Khuzestan
+IC7,S6,0,0.87,24.49,Iran,Khuzestan,Mavi 2, europaea,Khuzestan
+IC7,S7,0.127407341,0.87,24.49,Iran,Khuzestan,Mavi 2, europaea,Khuzestan
+IC7,S8,0,0.87,24.49,Iran,Khuzestan,Mavi 2, europaea,Khuzestan
+IC7,S9,0.55255988,0.87,24.49,Iran,Khuzestan,Mavi 2, europaea,Khuzestan
+IC7,S10,0,0.87,24.49,Iran,Khuzestan,Mavi 2, europaea,Khuzestan
+IC7,S11,0.160853495,0.87,24.49,Iran,Khuzestan,Mavi 2, europaea,Khuzestan
+IC7,S12,0,0.87,24.49,Iran,Khuzestan,Mavi 2, europaea,Khuzestan
+IC31b,S1,0,0.87,21.14,Iran,Kohgiluyeh,Savari, europaea,Kohgiluyeh
+IC71b,S2,0.004788598,0.87,17.25,Iran,Yazd,Tabas, europaea,Yazd
+IC71b,S3,0,0.87,17.25,Iran,Yazd,Tabas, europaea,Yazd
+IC71b,S4,0,0.87,17.25,Iran,Yazd,Tabas, europaea,Yazd
+IC71b,S5,0.120105884,0.87,17.25,Iran,Yazd,Tabas, europaea,Yazd
+IC71b,S6,0.00260243,0.87,17.25,Iran,Yazd,Tabas, europaea,Yazd
+IC71b,S7,0,0.87,17.25,Iran,Yazd,Tabas, europaea,Yazd
+IC71b,S8,0,0.87,17.25,Iran,Yazd,Tabas, europaea,Yazd
+IC71b,S9,0.360669011,0.87,17.25,Iran,Yazd,Tabas, europaea,Yazd
+IC71b,S10,0.048738215,0.87,17.25,Iran,Yazd,Tabas, europaea,Yazd
+IC71b,S11,0.414974634,0.87,17.25,Iran,Yazd,Tabas, europaea,Yazd
+IC71b,S12,0,0.87,17.25,Iran,Yazd,Tabas, europaea,Yazd
+IC32a,S1,0,0.86,23.84,Iran,Kohgiluyeh,PoleBreemk5, europaea,Kohgiluyeh
+IC72,S2,0,0.88,19.29,Iran,Ilam,Bansarv3, europaea,Ilam
+IC72,S3,0,0.88,19.29,Iran,Ilam,Bansarv3, europaea,Ilam
+IC72,S4,0,0.88,19.29,Iran,Ilam,Bansarv3, europaea,Ilam
+IC72,S5,0.215699329,0.88,19.29,Iran,Ilam,Bansarv3, europaea,Ilam
+IC72,S6,0,0.88,19.29,Iran,Ilam,Bansarv3, europaea,Ilam
+IC72,S7,0.114722117,0.88,19.29,Iran,Ilam,Bansarv3, europaea,Ilam
+IC72,S8,0,0.88,19.29,Iran,Ilam,Bansarv3, europaea,Ilam
+IC72,S9,0.07497757,0.88,19.29,Iran,Ilam,Bansarv3, europaea,Ilam
+IC72,S10,0,0.88,19.29,Iran,Ilam,Bansarv3, europaea,Ilam
+IC72,S11,0.594600985,0.88,19.29,Iran,Ilam,Bansarv3, europaea,Ilam
+IC72,S12,0,0.88,19.29,Iran,Ilam,Bansarv3, europaea,Ilam
+IC33,S1,0,0.83,16.83,Iran,Kohgiluyeh,TangeTamoradik6, europaea,Kohgiluyeh
+IC73a,S2,0.00173943,0.87,21.47,Iran,Ilam,Bansarv2, europaea,Ilam
+IC73a,S3,0.001631437,0.87,21.47,Iran,Ilam,Bansarv2, europaea,Ilam
+IC73a,S4,0.004924995,0.87,21.47,Iran,Ilam,Bansarv2, europaea,Ilam
+IC73a,S5,0,0.87,21.47,Iran,Ilam,Bansarv2, europaea,Ilam
+IC73a,S6,0,0.87,21.47,Iran,Ilam,Bansarv2, europaea,Ilam
+IC73a,S7,0.008760402,0.87,21.47,Iran,Ilam,Bansarv2, europaea,Ilam
+IC73a,S8,0.007152371,0.87,21.47,Iran,Ilam,Bansarv2, europaea,Ilam
+IC73a,S9,0.021787547,0.87,21.47,Iran,Ilam,Bansarv2, europaea,Ilam
+IC73a,S10,0.030638288,0.87,21.47,Iran,Ilam,Bansarv2, europaea,Ilam
+IC73a,S11,0.792161188,0.87,21.47,Iran,Ilam,Bansarv2, europaea,Ilam
+IC73a,S12,0.0038597,0.87,21.47,Iran,Ilam,Bansarv2, europaea,Ilam
+IC34a,S1,0,0.87,25.36,Iran,Kohgiluyeh,TangTamoradi114493, europaea,Kohgiluyeh
+IC74,S2,0,0.87,21.42,Iran,Ilam,Bansarv1, europaea,Ilam
+IC74,S3,0.003916728,0.87,21.42,Iran,Ilam,Bansarv1, europaea,Ilam
+IC74,S4,0.009502082,0.87,21.42,Iran,Ilam,Bansarv1, europaea,Ilam
+IC74,S5,0,0.87,21.42,Iran,Ilam,Bansarv1, europaea,Ilam
+IC74,S6,0.00110118,0.87,21.42,Iran,Ilam,Bansarv1, europaea,Ilam
+IC74,S7,0.006814999,0.87,21.42,Iran,Ilam,Bansarv1, europaea,Ilam
+IC74,S8,0.003921143,0.87,21.42,Iran,Ilam,Bansarv1, europaea,Ilam
+IC74,S9,0.031703577,0.87,21.42,Iran,Ilam,Bansarv1, europaea,Ilam
+IC74,S10,0.031169361,0.87,21.42,Iran,Ilam,Bansarv1, europaea,Ilam
+IC74,S11,0.77451467,0.87,21.42,Iran,Ilam,Bansarv1, europaea,Ilam
+IC74,S12,0.005844346,0.87,21.42,Iran,Ilam,Bansarv1, europaea,Ilam
+IC40,S1,0,0.88,20.11,Iran,Kermanshah,Deh-Sefid3, europaea,Kermanshah
+IC75b,S2,0,0.86,18.58,Iran,Ilam,Malekshahi-Siabdarvish, europaea,Ilam
+IC75b,S3,0,0.86,18.58,Iran,Ilam,Malekshahi-Siabdarvish, europaea,Ilam
+IC75b,S4,0,0.86,18.58,Iran,Ilam,Malekshahi-Siabdarvish, europaea,Ilam
+IC75b,S5,0.204968216,0.86,18.58,Iran,Ilam,Malekshahi-Siabdarvish, europaea,Ilam
+IC75b,S6,0,0.86,18.58,Iran,Ilam,Malekshahi-Siabdarvish, europaea,Ilam
+IC75b,S7,0.127761352,0.86,18.58,Iran,Ilam,Malekshahi-Siabdarvish, europaea,Ilam
+IC75b,S8,0,0.86,18.58,Iran,Ilam,Malekshahi-Siabdarvish, europaea,Ilam
+IC75b,S9,0.095741911,0.86,18.58,Iran,Ilam,Malekshahi-Siabdarvish, europaea,Ilam
+IC75b,S10,0,0.86,18.58,Iran,Ilam,Malekshahi-Siabdarvish, europaea,Ilam
+IC75b,S11,0.571528522,0.86,18.58,Iran,Ilam,Malekshahi-Siabdarvish, europaea,Ilam
+IC75b,S12,0,0.86,18.58,Iran,Ilam,Malekshahi-Siabdarvish, europaea,Ilam
+IC58a,S1,0,0.88,19.18,Iran,Tarom,T10, europaea,Tarom
+IC76,S2,0,0.86,19.81,Iran,Ilam,Chamjiyeh1, europaea,Ilam
+IC76,S3,0,0.86,19.81,Iran,Ilam,Chamjiyeh1, europaea,Ilam
+IC76,S4,0,0.86,19.81,Iran,Ilam,Chamjiyeh1, europaea,Ilam
+IC76,S5,0,0.86,19.81,Iran,Ilam,Chamjiyeh1, europaea,Ilam
+IC76,S6,0,0.86,19.81,Iran,Ilam,Chamjiyeh1, europaea,Ilam
+IC76,S7,0,0.86,19.81,Iran,Ilam,Chamjiyeh1, europaea,Ilam
+IC76,S8,0,0.86,19.81,Iran,Ilam,Chamjiyeh1, europaea,Ilam
+IC76,S9,0,0.86,19.81,Iran,Ilam,Chamjiyeh1, europaea,Ilam
+IC76,S10,0,0.86,19.81,Iran,Ilam,Chamjiyeh1, europaea,Ilam
+IC76,S11,1,0.86,19.81,Iran,Ilam,Chamjiyeh1, europaea,Ilam
+IC76,S12,0,0.86,19.81,Iran,Ilam,Chamjiyeh1, europaea,Ilam
+IC59a,S1,0,0.86,31.99,Iran,Tarom,T12, europaea,Tarom
+IC77,S2,0,0.88,16.68,Iran,Ilam,Chamjiyeh2, europaea,Ilam
+IC77,S3,0,0.88,16.68,Iran,Ilam,Chamjiyeh2, europaea,Ilam
+IC77,S4,0,0.88,16.68,Iran,Ilam,Chamjiyeh2, europaea,Ilam
+IC77,S5,0.215545024,0.88,16.68,Iran,Ilam,Chamjiyeh2, europaea,Ilam
+IC77,S6,0,0.88,16.68,Iran,Ilam,Chamjiyeh2, europaea,Ilam
+IC77,S7,0.126702479,0.88,16.68,Iran,Ilam,Chamjiyeh2, europaea,Ilam
+IC77,S8,0,0.88,16.68,Iran,Ilam,Chamjiyeh2, europaea,Ilam
+IC77,S9,0.089417264,0.88,16.68,Iran,Ilam,Chamjiyeh2, europaea,Ilam
+IC77,S10,0,0.88,16.68,Iran,Ilam,Chamjiyeh2, europaea,Ilam
+IC77,S11,0.568335233,0.88,16.68,Iran,Ilam,Chamjiyeh2, europaea,Ilam
+IC77,S12,0,0.88,16.68,Iran,Ilam,Chamjiyeh2, europaea,Ilam
+IC60,S1,0,0.87,23.58,Iran,Tarom,T14, europaea,Tarom
+IC78a,S2,0,0.86,17.96,Iran,Ilam,Chamjiyeh3, europaea,Ilam
+IC78a,S3,0,0.86,17.96,Iran,Ilam,Chamjiyeh3, europaea,Ilam
+IC78a,S4,0,0.86,17.96,Iran,Ilam,Chamjiyeh3, europaea,Ilam
+IC78a,S5,0,0.86,17.96,Iran,Ilam,Chamjiyeh3, europaea,Ilam
+IC78a,S6,0,0.86,17.96,Iran,Ilam,Chamjiyeh3, europaea,Ilam
+IC78a,S7,0,0.86,17.96,Iran,Ilam,Chamjiyeh3, europaea,Ilam
+IC78a,S8,0,0.86,17.96,Iran,Ilam,Chamjiyeh3, europaea,Ilam
+IC78a,S9,0,0.86,17.96,Iran,Ilam,Chamjiyeh3, europaea,Ilam
+IC78a,S10,0,0.86,17.96,Iran,Ilam,Chamjiyeh3, europaea,Ilam
+IC78a,S11,1,0.86,17.96,Iran,Ilam,Chamjiyeh3, europaea,Ilam
+IC78a,S12,0,0.86,17.96,Iran,Ilam,Chamjiyeh3, europaea,Ilam
+IC62,S1,0,0.87,23.34,Iran,Tarom,T16, europaea,Tarom
+IC79b,S2,0,0.87,16.57,Iran,Ilam,Chamjiyeh4, europaea,Ilam
+IC79b,S3,0,0.87,16.57,Iran,Ilam,Chamjiyeh4, europaea,Ilam
+IC79b,S4,0,0.87,16.57,Iran,Ilam,Chamjiyeh4, europaea,Ilam
+IC79b,S5,0.194938114,0.87,16.57,Iran,Ilam,Chamjiyeh4, europaea,Ilam
+IC79b,S6,0,0.87,16.57,Iran,Ilam,Chamjiyeh4, europaea,Ilam
+IC79b,S7,0.121840375,0.87,16.57,Iran,Ilam,Chamjiyeh4, europaea,Ilam
+IC79b,S8,0,0.87,16.57,Iran,Ilam,Chamjiyeh4, europaea,Ilam
+IC79b,S9,0.099715367,0.87,16.57,Iran,Ilam,Chamjiyeh4, europaea,Ilam
+IC79b,S10,0,0.87,16.57,Iran,Ilam,Chamjiyeh4, europaea,Ilam
+IC79b,S11,0.583506143,0.87,16.57,Iran,Ilam,Chamjiyeh4, europaea,Ilam
+IC79b,S12,0,0.87,16.57,Iran,Ilam,Chamjiyeh4, europaea,Ilam
+IC63,S1,0,0.89,21.2,Iran,Tarom,T17, europaea,Tarom
+IC80a,S2,0,0.88,14.02,Iran,Ilam,Chamjiyeh5, europaea,Ilam
+IC80a,S3,0,0.88,14.02,Iran,Ilam,Chamjiyeh5, europaea,Ilam
+IC80a,S4,0,0.88,14.02,Iran,Ilam,Chamjiyeh5, europaea,Ilam
+IC80a,S5,0,0.88,14.02,Iran,Ilam,Chamjiyeh5, europaea,Ilam
+IC80a,S6,0,0.88,14.02,Iran,Ilam,Chamjiyeh5, europaea,Ilam
+IC80a,S7,0,0.88,14.02,Iran,Ilam,Chamjiyeh5, europaea,Ilam
+IC80a,S8,0,0.88,14.02,Iran,Ilam,Chamjiyeh5, europaea,Ilam
+IC80a,S9,0,0.88,14.02,Iran,Ilam,Chamjiyeh5, europaea,Ilam
+IC80a,S10,0,0.88,14.02,Iran,Ilam,Chamjiyeh5, europaea,Ilam
+IC80a,S11,1,0.88,14.02,Iran,Ilam,Chamjiyeh5, europaea,Ilam
+IC80a,S12,0,0.88,14.02,Iran,Ilam,Chamjiyeh5, europaea,Ilam
+IC66b,S1,0,0.88,27.17,Iran,Tarom,T20, europaea,Tarom
+IC81,S2,0.000222679,0.86,25.76,Iran,Ilam,Chamjiyeh6, europaea,Ilam
+IC81,S3,0,0.86,25.76,Iran,Ilam,Chamjiyeh6, europaea,Ilam
+IC81,S4,6.61E-05,0.86,25.76,Iran,Ilam,Chamjiyeh6, europaea,Ilam
+IC81,S5,0,0.86,25.76,Iran,Ilam,Chamjiyeh6, europaea,Ilam
+IC81,S6,0,0.86,25.76,Iran,Ilam,Chamjiyeh6, europaea,Ilam
+IC81,S7,0,0.86,25.76,Iran,Ilam,Chamjiyeh6, europaea,Ilam
+IC81,S8,0,0.86,25.76,Iran,Ilam,Chamjiyeh6, europaea,Ilam
+IC81,S9,0,0.86,25.76,Iran,Ilam,Chamjiyeh6, europaea,Ilam
+IC81,S10,0,0.86,25.76,Iran,Ilam,Chamjiyeh6, europaea,Ilam
+IC81,S11,0.999711219,0.86,25.76,Iran,Ilam,Chamjiyeh6, europaea,Ilam
+IC81,S12,0,0.86,25.76,Iran,Ilam,Chamjiyeh6, europaea,Ilam
+IC67a,S1,0,0.87,20.08,Iran,Tarom,T21, europaea,Tarom
+IC82,S2,0,0.88,18.72,Iran,Ilam,Chamjiyeh7, europaea,Ilam
+IC82,S3,0,0.88,18.72,Iran,Ilam,Chamjiyeh7, europaea,Ilam
+IC82,S4,0,0.88,18.72,Iran,Ilam,Chamjiyeh7, europaea,Ilam
+IC82,S5,0,0.88,18.72,Iran,Ilam,Chamjiyeh7, europaea,Ilam
+IC82,S6,0,0.88,18.72,Iran,Ilam,Chamjiyeh7, europaea,Ilam
+IC82,S7,0,0.88,18.72,Iran,Ilam,Chamjiyeh7, europaea,Ilam
+IC82,S8,0,0.88,18.72,Iran,Ilam,Chamjiyeh7, europaea,Ilam
+IC82,S9,0,0.88,18.72,Iran,Ilam,Chamjiyeh7, europaea,Ilam
+IC82,S10,0,0.88,18.72,Iran,Ilam,Chamjiyeh7, europaea,Ilam
+IC82,S11,1,0.88,18.72,Iran,Ilam,Chamjiyeh7, europaea,Ilam
+IC82,S12,0,0.88,18.72,Iran,Ilam,Chamjiyeh7, europaea,Ilam
+IC68a,S1,0,0.87,28.44,Iran,Tarom,T23, europaea,Tarom
+IC83,S2,0.003508924,0.89,18.89,Iran,Ilam,Pardeh, europaea,Ilam
+IC83,S3,0,0.89,18.89,Iran,Ilam,Pardeh, europaea,Ilam
+IC83,S4,0.001570695,0.89,18.89,Iran,Ilam,Pardeh, europaea,Ilam
+IC83,S5,0.130957452,0.89,18.89,Iran,Ilam,Pardeh, europaea,Ilam
+IC83,S6,0,0.89,18.89,Iran,Ilam,Pardeh, europaea,Ilam
+IC83,S7,0,0.89,18.89,Iran,Ilam,Pardeh, europaea,Ilam
+IC83,S8,0,0.89,18.89,Iran,Ilam,Pardeh, europaea,Ilam
+IC83,S9,0.36404476,0.89,18.89,Iran,Ilam,Pardeh, europaea,Ilam
+IC83,S10,0.052475079,0.89,18.89,Iran,Ilam,Pardeh, europaea,Ilam
+IC83,S11,0.405685971,0.89,18.89,Iran,Ilam,Pardeh, europaea,Ilam
+IC83,S12,0,0.89,18.89,Iran,Ilam,Pardeh, europaea,Ilam
+IC69b,S1,0,0.87,25.49,Iran,Tarom,T24, europaea,Tarom
+IC84a,S2,0,0.87,18.32,Iran,Ilam,Chonan1-chovar, europaea,Ilam
+IC84a,S3,0,0.87,18.32,Iran,Ilam,Chonan1-chovar, europaea,Ilam
+IC84a,S4,0,0.87,18.32,Iran,Ilam,Chonan1-chovar, europaea,Ilam
+IC84a,S5,0.036390398,0.87,18.32,Iran,Ilam,Chonan1-chovar, europaea,Ilam
+IC84a,S6,0,0.87,18.32,Iran,Ilam,Chonan1-chovar, europaea,Ilam
+IC84a,S7,0.001423672,0.87,18.32,Iran,Ilam,Chonan1-chovar, europaea,Ilam
+IC84a,S8,0,0.87,18.32,Iran,Ilam,Chonan1-chovar, europaea,Ilam
+IC84a,S9,0,0.87,18.32,Iran,Ilam,Chonan1-chovar, europaea,Ilam
+IC84a,S10,0,0.87,18.32,Iran,Ilam,Chonan1-chovar, europaea,Ilam
+IC84a,S11,0.96218593,0.87,18.32,Iran,Ilam,Chonan1-chovar, europaea,Ilam
+IC84a,S12,0,0.87,18.32,Iran,Ilam,Chonan1-chovar, europaea,Ilam
+IC72,S1,0,0.88,19.29,Iran,Ilam,Bansarv3, europaea,Ilam
+IC85,S2,0,0.87,18.6,Iran,Ilam,Chonan2-chovar, europaea,Ilam
+IC85,S3,0,0.87,18.6,Iran,Ilam,Chonan2-chovar, europaea,Ilam
+IC85,S4,0,0.87,18.6,Iran,Ilam,Chonan2-chovar, europaea,Ilam
+IC85,S5,0.03335501,0.87,18.6,Iran,Ilam,Chonan2-chovar, europaea,Ilam
+IC85,S6,0,0.87,18.6,Iran,Ilam,Chonan2-chovar, europaea,Ilam
+IC85,S7,0,0.87,18.6,Iran,Ilam,Chonan2-chovar, europaea,Ilam
+IC85,S8,0,0.87,18.6,Iran,Ilam,Chonan2-chovar, europaea,Ilam
+IC85,S9,0,0.87,18.6,Iran,Ilam,Chonan2-chovar, europaea,Ilam
+IC85,S10,0,0.87,18.6,Iran,Ilam,Chonan2-chovar, europaea,Ilam
+IC85,S11,0.96664499,0.87,18.6,Iran,Ilam,Chonan2-chovar, europaea,Ilam
+IC85,S12,0,0.87,18.6,Iran,Ilam,Chonan2-chovar, europaea,Ilam
+IC75b,S1,0,0.86,18.58,Iran,Ilam,Malekshahi-Siabdarvish, europaea,Ilam
+IC86,S2,0,0.89,19.92,Iran,Ilam,Chonan3-chovar, europaea,Ilam
+IC86,S3,0,0.89,19.92,Iran,Ilam,Chonan3-chovar, europaea,Ilam
+IC86,S4,0,0.89,19.92,Iran,Ilam,Chonan3-chovar, europaea,Ilam
+IC86,S5,0.035260983,0.89,19.92,Iran,Ilam,Chonan3-chovar, europaea,Ilam
+IC86,S6,0,0.89,19.92,Iran,Ilam,Chonan3-chovar, europaea,Ilam
+IC86,S7,0,0.89,19.92,Iran,Ilam,Chonan3-chovar, europaea,Ilam
+IC86,S8,0,0.89,19.92,Iran,Ilam,Chonan3-chovar, europaea,Ilam
+IC86,S9,0,0.89,19.92,Iran,Ilam,Chonan3-chovar, europaea,Ilam
+IC86,S10,0,0.89,19.92,Iran,Ilam,Chonan3-chovar, europaea,Ilam
+IC86,S11,0.964739017,0.89,19.92,Iran,Ilam,Chonan3-chovar, europaea,Ilam
+IC86,S12,0,0.89,19.92,Iran,Ilam,Chonan3-chovar, europaea,Ilam
+IC76,S1,0,0.86,19.81,Iran,Ilam,Chamjiyeh1, europaea,Ilam
+IC87,S2,0,0.78,17.9,Iran,Ilam,Chonan4-chovar, europaea,Ilam
+IC87,S3,0,0.78,17.9,Iran,Ilam,Chonan4-chovar, europaea,Ilam
+IC87,S4,0,0.78,17.9,Iran,Ilam,Chonan4-chovar, europaea,Ilam
+IC87,S5,0.022268606,0.78,17.9,Iran,Ilam,Chonan4-chovar, europaea,Ilam
+IC87,S6,0,0.78,17.9,Iran,Ilam,Chonan4-chovar, europaea,Ilam
+IC87,S7,0.008011941,0.78,17.9,Iran,Ilam,Chonan4-chovar, europaea,Ilam
+IC87,S8,0.002885174,0.78,17.9,Iran,Ilam,Chonan4-chovar, europaea,Ilam
+IC87,S9,0,0.78,17.9,Iran,Ilam,Chonan4-chovar, europaea,Ilam
+IC87,S10,0,0.78,17.9,Iran,Ilam,Chonan4-chovar, europaea,Ilam
+IC87,S11,0.96683428,0.78,17.9,Iran,Ilam,Chonan4-chovar, europaea,Ilam
+IC87,S12,0,0.78,17.9,Iran,Ilam,Chonan4-chovar, europaea,Ilam
+IC77,S1,0,0.88,16.68,Iran,Ilam,Chamjiyeh2, europaea,Ilam
+IC88,S2,0.006577032,0.86,16.1,Iran,Ilam,Nakhchir, europaea,Ilam
+IC88,S3,0,0.86,16.1,Iran,Ilam,Nakhchir, europaea,Ilam
+IC88,S4,0.002794922,0.86,16.1,Iran,Ilam,Nakhchir, europaea,Ilam
+IC88,S5,0.060154648,0.86,16.1,Iran,Ilam,Nakhchir, europaea,Ilam
+IC88,S6,0,0.86,16.1,Iran,Ilam,Nakhchir, europaea,Ilam
+IC88,S7,0,0.86,16.1,Iran,Ilam,Nakhchir, europaea,Ilam
+IC88,S8,0.006353738,0.86,16.1,Iran,Ilam,Nakhchir, europaea,Ilam
+IC88,S9,0.144835275,0.86,16.1,Iran,Ilam,Nakhchir, europaea,Ilam
+IC88,S10,0,0.86,16.1,Iran,Ilam,Nakhchir, europaea,Ilam
+IC88,S11,0.448443147,0.86,16.1,Iran,Ilam,Nakhchir, europaea,Ilam
+IC88,S12,0.028885295,0.86,16.1,Iran,Ilam,Nakhchir, europaea,Ilam
+IC78a,S1,0,0.86,17.96,Iran,Ilam,Chamjiyeh3, europaea,Ilam
+IC89a,S2,0.007691678,0.89,16.92,Iran,Ilam,Gardineh kooh, europaea,Ilam
+IC89a,S3,0.002673119,0.89,16.92,Iran,Ilam,Gardineh kooh, europaea,Ilam
+IC89a,S4,0,0.89,16.92,Iran,Ilam,Gardineh kooh, europaea,Ilam
+IC89a,S5,0.085861423,0.89,16.92,Iran,Ilam,Gardineh kooh, europaea,Ilam
+IC89a,S6,0,0.89,16.92,Iran,Ilam,Gardineh kooh, europaea,Ilam
+IC89a,S7,0,0.89,16.92,Iran,Ilam,Gardineh kooh, europaea,Ilam
+IC89a,S8,0,0.89,16.92,Iran,Ilam,Gardineh kooh, europaea,Ilam
+IC89a,S9,0.042785263,0.89,16.92,Iran,Ilam,Gardineh kooh, europaea,Ilam
+IC89a,S10,0.000123215,0.89,16.92,Iran,Ilam,Gardineh kooh, europaea,Ilam
+IC89a,S11,0.639372424,0.89,16.92,Iran,Ilam,Gardineh kooh, europaea,Ilam
+IC89a,S12,0,0.89,16.92,Iran,Ilam,Gardineh kooh, europaea,Ilam
+IC79b,S1,0,0.87,16.57,Iran,Ilam,Chamjiyeh4, europaea,Ilam
+IC90b,S2,0,0.88,29.9,Iran,Ilam,Torshak, europaea,Ilam
+IC90b,S3,0,0.88,29.9,Iran,Ilam,Torshak, europaea,Ilam
+IC90b,S4,0,0.88,29.9,Iran,Ilam,Torshak, europaea,Ilam
+IC90b,S5,0.118953405,0.88,29.9,Iran,Ilam,Torshak, europaea,Ilam
+IC90b,S6,0,0.88,29.9,Iran,Ilam,Torshak, europaea,Ilam
+IC90b,S7,0,0.88,29.9,Iran,Ilam,Torshak, europaea,Ilam
+IC90b,S8,0,0.88,29.9,Iran,Ilam,Torshak, europaea,Ilam
+IC90b,S9,0.027121899,0.88,29.9,Iran,Ilam,Torshak, europaea,Ilam
+IC90b,S10,0.137517167,0.88,29.9,Iran,Ilam,Torshak, europaea,Ilam
+IC90b,S11,0.458618846,0.88,29.9,Iran,Ilam,Torshak, europaea,Ilam
+IC90b,S12,0,0.88,29.9,Iran,Ilam,Torshak, europaea,Ilam
+IC80a,S1,0,0.88,14.02,Iran,Ilam,Chamjiyeh5, europaea,Ilam
+IC91a,S2,0,0.88,19.18,Iran,Fars,Parzeytun-meymand, europaea,Fars
+IC91a,S3,0,0.88,19.18,Iran,Fars,Parzeytun-meymand, europaea,Fars
+IC91a,S4,0,0.88,19.18,Iran,Fars,Parzeytun-meymand, europaea,Fars
+IC91a,S5,0.620702909,0.88,19.18,Iran,Fars,Parzeytun-meymand, europaea,Fars
+IC91a,S6,0,0.88,19.18,Iran,Fars,Parzeytun-meymand, europaea,Fars
+IC91a,S7,0.211133532,0.88,19.18,Iran,Fars,Parzeytun-meymand, europaea,Fars
+IC91a,S8,0,0.88,19.18,Iran,Fars,Parzeytun-meymand, europaea,Fars
+IC91a,S9,0.12751282,0.88,19.18,Iran,Fars,Parzeytun-meymand, europaea,Fars
+IC91a,S10,0,0.88,19.18,Iran,Fars,Parzeytun-meymand, europaea,Fars
+IC91a,S11,0.04065074,0.88,19.18,Iran,Fars,Parzeytun-meymand, europaea,Fars
+IC91a,S12,0,0.88,19.18,Iran,Fars,Parzeytun-meymand, europaea,Fars
+IC81,S1,0,0.86,25.76,Iran,Ilam,Chamjiyeh6, europaea,Ilam
+IC92,S2,0.008405522,0.87,20.71,Iran,Fars,Pirzeytun-estahban, europaea,Fars
+IC92,S3,0.001619066,0.87,20.71,Iran,Fars,Pirzeytun-estahban, europaea,Fars
+IC92,S4,0,0.87,20.71,Iran,Fars,Pirzeytun-estahban, europaea,Fars
+IC92,S5,0.115592366,0.87,20.71,Iran,Fars,Pirzeytun-estahban, europaea,Fars
+IC92,S6,0,0.87,20.71,Iran,Fars,Pirzeytun-estahban, europaea,Fars
+IC92,S7,0,0.87,20.71,Iran,Fars,Pirzeytun-estahban, europaea,Fars
+IC92,S8,0,0.87,20.71,Iran,Fars,Pirzeytun-estahban, europaea,Fars
+IC92,S9,0.370034161,0.87,20.71,Iran,Fars,Pirzeytun-estahban, europaea,Fars
+IC92,S10,0.045765853,0.87,20.71,Iran,Fars,Pirzeytun-estahban, europaea,Fars
+IC92,S11,0.416075642,0.87,20.71,Iran,Fars,Pirzeytun-estahban, europaea,Fars
+IC92,S12,0.002483303,0.87,20.71,Iran,Fars,Pirzeytun-estahban, europaea,Fars
+IC82,S1,0,0.88,18.72,Iran,Ilam,Chamjiyeh7, europaea,Ilam
+IC93a,S2,0,0.87,17.11,Iran,Fars,Tokhmkabki, europaea,Fars
+IC93a,S3,0.006407209,0.87,17.11,Iran,Fars,Tokhmkabki, europaea,Fars
+IC93a,S4,0,0.87,17.11,Iran,Fars,Tokhmkabki, europaea,Fars
+IC93a,S5,0.038805513,0.87,17.11,Iran,Fars,Tokhmkabki, europaea,Fars
+IC93a,S6,0,0.87,17.11,Iran,Fars,Tokhmkabki, europaea,Fars
+IC93a,S7,0.016415077,0.87,17.11,Iran,Fars,Tokhmkabki, europaea,Fars
+IC93a,S8,0.004087414,0.87,17.11,Iran,Fars,Tokhmkabki, europaea,Fars
+IC93a,S9,0.680459666,0.87,17.11,Iran,Fars,Tokhmkabki, europaea,Fars
+IC93a,S10,0.01238911,0.87,17.11,Iran,Fars,Tokhmkabki, europaea,Fars
+IC93a,S11,0.143683581,0.87,17.11,Iran,Fars,Tokhmkabki, europaea,Fars
+IC93a,S12,0.008280313,0.87,17.11,Iran,Fars,Tokhmkabki, europaea,Fars
+IC84a,S1,0,0.87,18.32,Iran,Ilam,Chonan1-chovar, europaea,Ilam
+IC94,S2,0,0.86,19.94,Iran,Fars,Shiraz, europaea,Fars
+IC94,S3,0,0.86,19.94,Iran,Fars,Shiraz, europaea,Fars
+IC94,S4,0,0.86,19.94,Iran,Fars,Shiraz, europaea,Fars
+IC94,S5,0.048395513,0.86,19.94,Iran,Fars,Shiraz, europaea,Fars
+IC94,S6,0.006309356,0.86,19.94,Iran,Fars,Shiraz, europaea,Fars
+IC94,S7,0.042458768,0.86,19.94,Iran,Fars,Shiraz, europaea,Fars
+IC94,S8,0,0.86,19.94,Iran,Fars,Shiraz, europaea,Fars
+IC94,S9,0.805720823,0.86,19.94,Iran,Fars,Shiraz, europaea,Fars
+IC94,S10,0.007418967,0.86,19.94,Iran,Fars,Shiraz, europaea,Fars
+IC94,S11,0.073078543,0.86,19.94,Iran,Fars,Shiraz, europaea,Fars
+IC94,S12,0.001212013,0.86,19.94,Iran,Fars,Shiraz, europaea,Fars
+IC85,S1,0,0.87,18.6,Iran,Ilam,Chonan2-chovar, europaea,Ilam
+IC95b,S2,0.011824079,0.86,19.62,Iran,Fars,Derak, europaea,Fars
+IC95b,S3,0,0.86,19.62,Iran,Fars,Derak, europaea,Fars
+IC95b,S4,0,0.86,19.62,Iran,Fars,Derak, europaea,Fars
+IC95b,S5,0.132106752,0.86,19.62,Iran,Fars,Derak, europaea,Fars
+IC95b,S6,0,0.86,19.62,Iran,Fars,Derak, europaea,Fars
+IC95b,S7,0,0.86,19.62,Iran,Fars,Derak, europaea,Fars
+IC95b,S8,0,0.86,19.62,Iran,Fars,Derak, europaea,Fars
+IC95b,S9,0.190494661,0.86,19.62,Iran,Fars,Derak, europaea,Fars
+IC95b,S10,0.01091296,0.86,19.62,Iran,Fars,Derak, europaea,Fars
+IC95b,S11,0.525802953,0.86,19.62,Iran,Fars,Derak, europaea,Fars
+IC95b,S12,0.003424944,0.86,19.62,Iran,Fars,Derak, europaea,Fars
+IC86,S1,0,0.89,19.92,Iran,Ilam,Chonan3-chovar, europaea,Ilam
+IC96,S2,0.003038942,0.86,18.07,Iran,Fars,Dehghan, europaea,Fars
+IC96,S3,0,0.86,18.07,Iran,Fars,Dehghan, europaea,Fars
+IC96,S4,0,0.86,18.07,Iran,Fars,Dehghan, europaea,Fars
+IC96,S5,0.027111318,0.86,18.07,Iran,Fars,Dehghan, europaea,Fars
+IC96,S6,0,0.86,18.07,Iran,Fars,Dehghan, europaea,Fars
+IC96,S7,0,0.86,18.07,Iran,Fars,Dehghan, europaea,Fars
+IC96,S8,0.001101179,0.86,18.07,Iran,Fars,Dehghan, europaea,Fars
+IC96,S9,0.59533116,0.86,18.07,Iran,Fars,Dehghan, europaea,Fars
+IC96,S10,0,0.86,18.07,Iran,Fars,Dehghan, europaea,Fars
+IC96,S11,0.332233487,0.86,18.07,Iran,Fars,Dehghan, europaea,Fars
+IC96,S12,0,0.86,18.07,Iran,Fars,Dehghan, europaea,Fars
+IC87,S1,0,0.78,17.9,Iran,Ilam,Chonan4-chovar, europaea,Ilam
+IC97,S2,0,0.87,14.82,Iran,Fars,Shapoor, europaea,Fars
+IC97,S3,0.000773602,0.87,14.82,Iran,Fars,Shapoor, europaea,Fars
+IC97,S4,0.002816081,0.87,14.82,Iran,Fars,Shapoor, europaea,Fars
+IC97,S5,0.093589164,0.87,14.82,Iran,Fars,Shapoor, europaea,Fars
+IC97,S6,0.002418453,0.87,14.82,Iran,Fars,Shapoor, europaea,Fars
+IC97,S7,0.009367433,0.87,14.82,Iran,Fars,Shapoor, europaea,Fars
+IC97,S8,0,0.87,14.82,Iran,Fars,Shapoor, europaea,Fars
+IC97,S9,0.799068362,0.87,14.82,Iran,Fars,Shapoor, europaea,Fars
+IC97,S10,0.0206761,0.87,14.82,Iran,Fars,Shapoor, europaea,Fars
+IC97,S11,0.048509749,0.87,14.82,Iran,Fars,Shapoor, europaea,Fars
+IC97,S12,0.000124403,0.87,14.82,Iran,Fars,Shapoor, europaea,Fars
+IC91a,S1,0,0.88,19.18,Iran,Fars,Parzeytun-meymand, europaea,Fars
+IC98b,S2,0,0.86,19.99,Iran,Fars,Varak, europaea,Fars
+IC98b,S3,0,0.86,19.99,Iran,Fars,Varak, europaea,Fars
+IC98b,S4,0,0.86,19.99,Iran,Fars,Varak, europaea,Fars
+IC98b,S5,0,0.86,19.99,Iran,Fars,Varak, europaea,Fars
+IC98b,S6,0,0.86,19.99,Iran,Fars,Varak, europaea,Fars
+IC98b,S7,0,0.86,19.99,Iran,Fars,Varak, europaea,Fars
+IC98b,S8,0,0.86,19.99,Iran,Fars,Varak, europaea,Fars
+IC98b,S9,1,0.86,19.99,Iran,Fars,Varak, europaea,Fars
+IC98b,S10,0,0.86,19.99,Iran,Fars,Varak, europaea,Fars
+IC98b,S11,0,0.86,19.99,Iran,Fars,Varak, europaea,Fars
+IC98b,S12,0,0.86,19.99,Iran,Fars,Varak, europaea,Fars
+IC98b,S1,0,0.86,19.99,Iran,Fars,Varak, europaea,Fars
+IC99b,S2,0,0.86,13.77,Iran,Golestan,Minoodasht1, europaea,Golestan
+IC99b,S3,0,0.86,13.77,Iran,Golestan,Minoodasht1, europaea,Golestan
+IC99b,S4,0,0.86,13.77,Iran,Golestan,Minoodasht1, europaea,Golestan
+IC99b,S5,1,0.86,13.77,Iran,Golestan,Minoodasht1, europaea,Golestan
+IC99b,S6,0,0.86,13.77,Iran,Golestan,Minoodasht1, europaea,Golestan
+IC99b,S7,0,0.86,13.77,Iran,Golestan,Minoodasht1, europaea,Golestan
+IC99b,S8,0,0.86,13.77,Iran,Golestan,Minoodasht1, europaea,Golestan
+IC99b,S9,0,0.86,13.77,Iran,Golestan,Minoodasht1, europaea,Golestan
+IC99b,S10,0,0.86,13.77,Iran,Golestan,Minoodasht1, europaea,Golestan
+IC99b,S11,0,0.86,13.77,Iran,Golestan,Minoodasht1, europaea,Golestan
+IC99b,S12,0,0.86,13.77,Iran,Golestan,Minoodasht1, europaea,Golestan
+IC99b,S1,0,0.86,13.77,Iran,Golestan,Minoodasht1, europaea,Golestan
+IC9b,S2,0,0.87,21.04,Iran,Khorasan-e-jonoubi,Fosoon, europaea,Khorasan-e-jonoubi
+IC9b,S3,0,0.87,21.04,Iran,Khorasan-e-jonoubi,Fosoon, europaea,Khorasan-e-jonoubi
+IC9b,S4,0,0.87,21.04,Iran,Khorasan-e-jonoubi,Fosoon, europaea,Khorasan-e-jonoubi
+IC9b,S5,0.082208268,0.87,21.04,Iran,Khorasan-e-jonoubi,Fosoon, europaea,Khorasan-e-jonoubi
+IC9b,S6,0,0.87,21.04,Iran,Khorasan-e-jonoubi,Fosoon, europaea,Khorasan-e-jonoubi
+IC9b,S7,0.119931933,0.87,21.04,Iran,Khorasan-e-jonoubi,Fosoon, europaea,Khorasan-e-jonoubi
+IC9b,S8,0,0.87,21.04,Iran,Khorasan-e-jonoubi,Fosoon, europaea,Khorasan-e-jonoubi
+IC9b,S9,0.554799116,0.87,21.04,Iran,Khorasan-e-jonoubi,Fosoon, europaea,Khorasan-e-jonoubi
+IC9b,S10,0,0.87,21.04,Iran,Khorasan-e-jonoubi,Fosoon, europaea,Khorasan-e-jonoubi
+IC9b,S11,0.161036297,0.87,21.04,Iran,Khorasan-e-jonoubi,Fosoon, europaea,Khorasan-e-jonoubi
+IC9b,S12,0,0.87,21.04,Iran,Khorasan-e-jonoubi,Fosoon, europaea,Khorasan-e-jonoubi
