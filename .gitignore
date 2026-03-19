@@ -1,5 +1,5 @@
 #launch.json folder
 .vscode/
 #raw data folder
-.data/*
-.data/str_csv/*
+Data/
+test/
