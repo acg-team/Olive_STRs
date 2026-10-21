@@ -1,0 +1,27 @@
+name: tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  static-and-unit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+      - run: pip install numpy pandas scipy h5py matplotlib seaborn scikit-learn statsmodels torch transformers safetensors
+      - name: Reject private paths and generated artifacts
+        run: bash tests/check_repository.sh
+      - name: Compile Python sources
+        run: python -m compileall -q scripts figures tests
+      - name: Unit tests
+        run: |
+          python -m unittest discover -s tests -p 'test_association.py' -v
+          python -m unittest discover -s tests -p 'test_agront_workflow.py' -v
+          python -m unittest discover -s tests -p 'test_plantcad2_workflow.py' -v
+      - name: Shell syntax
+        run: bash -n scripts/**/*.sh slurm/*/*
+

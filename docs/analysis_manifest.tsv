@@ -1,0 +1,21 @@
+stage	entry_point	kind	manuscript_output	principal_inputs	principal_outputs	environment
+01_str_landscape	figures/01_str_landscape/plot_panel_a.py	visualization	Figure S1	annotated STR BED; GFF3; variance table	chromosome density table and plot	analysis
+01_str_landscape	figures/01_str_landscape/plot_panels_bcd.py	visualization	Figure 2A-D	annotated STR BED; variance table	motif/context source tables and plots	analysis
+01_str_landscape	analyze_motif_context.py	analysis	Figure S2	target catalogue; pSTR catalogue	motif-context enrichment table and plot	analysis
+01_str_landscape	analyze_reference_relative_variation.py	analysis	Figure 2E-F	pSTR catalogue; repeat lengths	reference-relative summary and plots	analysis
+02_population_structure	analyze_snp_str_pca.py	analysis	Figure 3A-B	PLINK SNP files; STR matrix; metadata	PCA coordinates and variance explained	analysis
+02_population_structure	analyze_admixture.py	analysis	Figure 3C	ADMIXTURE outputs	CV summary and selected ancestry coefficients	analysis
+02_population_structure	run_chr_str_dnmf.py	analysis	Figure 3C; Figure S3	chromosome STR matrix	dNMF model selection and coefficients	analysis
+02_population_structure	analyze_one_to_many_alignment.py	analysis	Figure 3D	ADMIXTURE and dNMF coefficients	component matches and bootstrap statistics	analysis
+02_population_structure	analyze_str_fine_scale.py	analysis	Figure 3E	component coefficients; geography	partial R2 and permutation results	analysis
+03_embeddings	agront/scripts/prepare_catalog.py	analysis	Methods	PASS calls; STR BED; FASTA	allele catalogue and deterministic shards	agront
+03_embeddings	agront/scripts/embed_shard.py	analysis	Embedding analyses	allele shards; AgroNT weights	HDF5 embedding shards	agront
+03_embeddings	plantcad2/scripts/embed_shard.py	analysis	Embedding analyses	allele shards; PlantCAD2 weights	HDF5 embedding shards	plantcad2
+03_embeddings	gpn/scripts/embed_shard.py	analysis	Embedding analyses	allele shards; GPN weights	HDF5 embedding shards	gpn
+03_embeddings	*/scripts/analyze_shard.py	analysis	Figures S4-S8	embedding shards	reference-anchored locus regressions	model-specific
+04_cross_model_comparison	scripts/04_cross_model_comparison/scripts/aggregate_and_report.py	analysis	Figure 4	three matched per-locus result tables	intersections; correlations; enrichment tables	analysis
+05_robustness_controls	finalize.py	analysis	Figure S9	primary and control embeddings	fixed-length and matched-indel summaries	analysis
+06_trait_association	analyze_str_oil_association.py	analysis	Figure S11-S12	STR matrix; traits; covariates; SNP kinship	full and FDR association tables	analysis
+06_trait_association	figures/06_trait_association/plot_oleic_linoleic_correlation.py	visualization	Figure S10	phenotype table	correlation source data and plot	analysis
+07_association_embedding_integration	figures/07_association_embedding_integration/plot_three_model_gwas_embedding_fdr.py	visualization	Figure 5; Figure S13	FDR associations; embedding results	integrated candidate tables and plots	analysis
+		analysis				

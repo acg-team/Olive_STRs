@@ -1,0 +1,19 @@
+name: olive-str-plantcad2
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.11.15
+  - pytorch=2.5.1
+  - pytorch-cuda=12.4
+  - numpy=1.26.4
+  - pandas=2.2.3
+  - scipy=1.12.0
+  - h5py=3.16.0
+  - pip
+  - pip:
+      - transformers==4.49.0
+      - safetensors==0.8.0
+      - tokenizers==0.21.4
+

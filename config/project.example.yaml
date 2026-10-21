@@ -1,0 +1,40 @@
+project:
+  zenodo_doi: ZENODO_DOI_PENDING
+  random_seed: 20260724
+
+reference:
+  fasta: /path/to/Olea_europaea.OLEA9.dna_sm.toplevel.fa
+  gff3: /path/to/Olea_europaea.OLEA9.60.gff3.gz
+  str_bed: /path/to/O_europeana_strs.bed
+
+cohort:
+  samples: /path/to/Supplementary_Data_S1.csv
+  phenotypes: /path/to/Supplementary_Data_S2.csv
+  pstr_catalogue: /path/to/Supplementary_Data_S3.tsv.gz
+  population_structure: /path/to/Supplementary_Data_S4.tsv
+  pass_only_calls: /path/to/pass_only
+  str_length_matrix: /path/to/merged_str_length.csv
+  str_variance: /path/to/str_length_variance.csv
+  snp_bfile: /path/to/olive.admix
+
+software:
+  plink: plink
+  samtools: samtools
+  admixture: admixture
+
+models:
+  cache: /path/to/huggingface/cache
+  agront:
+    id: InstaDeepAI/agro-nucleotide-transformer-1b
+    revision: b0e1ea1f53a2bf5bb29f8eab7a7e553bf06c1ab1
+    weights_revision: 20812e4607ee32de10e253268d6cc9e709730dac
+  plantcad2:
+    id: kuleshov-group/PlantCAD2-Large-l48-d1536
+    revision: f08004be336c6e1e25cb04b7a8920bf71da5358b
+  gpn:
+    id: songlab/gpn-brassicales
+    revision: eb9c35d0d18571abe84390d22e74f2b21d319ce3
+
+output_root: /path/to/output
+temporary_root: /path/to/temporary/files
+

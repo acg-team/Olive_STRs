@@ -1,0 +1,20 @@
+{
+  "argont_layer": 21,
+  "plantcad2_layer": 36,
+  "gpn_layer": 25,
+  "pooling": "whole_mean",
+  "primary_results": {
+    "argont": "/path/to/agront/analyses/results/layer21_whole_mean_regressions.csv.gz",
+    "plantcad2": "/path/to/plantcad2/analyses/results/layer36_whole_mean_regressions.csv.gz",
+    "gpn": "/path/to/gpn/results/per_locus_regressions.csv.gz"
+  },
+  "loci": "/path/to/agront/inputs/loci.csv.gz",
+  "promoter_annotation": "/path/to/O_europeana_strs.functional.promoter2kb.annotated.bed",
+  "metrics": ["l1", "l2", "cosine"],
+  "minimum_distinct_observed_alternate_alleles": 3,
+  "permutations": 10000,
+  "random_seed": 20260724,
+  "expected_shards": 50,
+  "expected_loci": 62847
+}
+

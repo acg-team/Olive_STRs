@@ -1,0 +1,24 @@
+{
+  "catalog_root": "../agront",
+  "model_id": "songlab/gpn-brassicales",
+  "model_revision": "eb9c35d0d18571abe84390d22e74f2b21d319ce3",
+  "local_model_path": "/path/to/huggingface/gpn-brassicales/snapshot",
+  "hf_cache": "/path/to/huggingface/cache",
+  "embedding_layer": "last_hidden_state",
+  "layers": [25],
+  "hidden_size": 512,
+  "context_bp": 512,
+  "left_flank_bp": 256,
+  "batch_size_fallback": 32,
+  "benchmark_batch_sizes": [8, 32, 64],
+  "smoke_alleles": 128,
+  "minimum_observed_allele_lengths": 3,
+  "permutations": 10000,
+  "bootstrap_replicates": 10000,
+  "random_seed": 20260721,
+  "reference_analysis_random_seed": 20260724,
+  "expected_loci": 75802,
+  "expected_alleles": 394921,
+  "expected_shards": 50
+}
+

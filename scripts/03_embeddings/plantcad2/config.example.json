@@ -1,0 +1,24 @@
+{
+  "catalog_root": "../agront",
+  "model_id": "kuleshov-group/PlantCAD2-Large-l48-d1536",
+  "model_revision": "f08004be336c6e1e25cb04b7a8920bf71da5358b",
+  "local_model_path": "/path/to/huggingface/PlantCAD2/snapshot",
+  "hf_cache": "/path/to/huggingface/cache",
+  "layers": [12, 24, 36, 48],
+  "hidden_size": 1536,
+  "left_flank_bp": 500,
+  "right_flank_bp": 500,
+  "dtype": "bfloat16",
+  "batch_size_fallback": 4,
+  "benchmark_batch_sizes": [1, 2, 4, 8],
+  "smoke_alleles": 256,
+  "minimum_observed_allele_lengths": 3,
+  "permutations": 10000,
+  "bootstrap_replicates": 10000,
+  "random_seed": 20260721,
+  "reference_analysis_random_seed": 20260724,
+  "expected_loci": 75802,
+  "expected_alleles": 394921,
+  "expected_shards": 50
+}
+
