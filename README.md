@@ -7,9 +7,7 @@ population structure, measures allele-dependent embedding perturbation with
 AgroNT, PlantCAD2, and GPN, and integrates those results with oil-composition
 associations.
 
-This repository is a publication code archive. It provides the exact analysis
-and plotting programs used for the manuscript, but it is not a single
-raw-data-to-results workflow. STR genotyping is maintained separately in
+This repository is a publication code archive. STR genotyping pipeline is maintained separately in
 [olive_str_genotyping](https://github.com/Garfieldfei/olive_str_genotyping).
 
 ## Repository map
@@ -31,11 +29,8 @@ for script-level inputs and outputs.
 
 ## Data
 
-The associated Zenodo record will contain Supplementary Data S1–S7 and the
-per-sample QC-annotated STR VCFs. Replace `ZENODO_DOI_PENDING` in this README
-and `config/project.example.yaml`, then add the DOI to `CITATION.cff`, after
-publication of the record. Large inputs, embeddings, model weights, and
-generated results are intentionally excluded from Git.
+The associated Zenodo record will contain the
+per-sample QC-annotated STR VCFs (will be available soon).
 
 The OLEA9 reference assembly and annotation, public sequencing accessions, and
 required table schemas are described in [`docs/input_data.md`](docs/input_data.md).
@@ -69,9 +64,4 @@ The model-specific embedding programs retain JSON configuration files because
 they record architecture-specific constants. Example JSON files are stored
 beside those programs.
 
-## Citation and license
-
-Citation metadata are in [`CITATION.cff`](CITATION.cff). Code authored for this
-study is released under the [MIT License](LICENSE). Third-party data, models,
-and software remain subject to their own licenses.
 
